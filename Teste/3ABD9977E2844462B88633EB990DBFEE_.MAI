@@ -1,0 +1,13 @@
+Recipients=[SMTP:comercial@agtexpress.com.br]
+Server=WIN-BHH9KHOIJM5
+Sender=[SMTP:rottaaviamentos@terra.com.br]
+TimeAcquired=1498518546
+ClientIP=208.84.243.28
+AuthenticationStatus=0
+User=
+Account=agtexpress.com.br
+Priority=
+Campaign=
+Status=UnDelivered
+CommandType=
+Subject==?UTF-8?B?Q290YcOnw6Nv?=

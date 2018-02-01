@@ -1,0 +1,13 @@
+Recipients=[SMTP:atendimento@lojanetuno.com.br]
+Server=WIN-BHH9KHOIJM5
+Sender=[SMTP:return-a501-51344-51480-atendimento=lojanetuno.com.br=4@ls.transactionald.com.br]
+TimeAcquired=1498517943
+ClientIP=170.231.145.117
+AuthenticationStatus=0
+User=
+Account=lojanetuno.com.br
+Priority=
+Campaign=
+Status=UnDelivered
+CommandType=
+Subject=Confira os destinos para junho. Curitiba a partir de R$ 87.

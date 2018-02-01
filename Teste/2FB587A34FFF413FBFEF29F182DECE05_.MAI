@@ -1,0 +1,13 @@
+Recipients=[SMTP:atendimento@formatocomunicacaovisual.com]
+Server=WIN-BHH9KHOIJM5
+Sender=[SMTP:comercial@stopsign.com.br]
+TimeAcquired=1498518403
+ClientIP=189.126.112.67
+AuthenticationStatus=0
+User=
+Account=formatocomunicacaovisual.com
+Priority=
+Campaign=
+Status=UnDelivered
+CommandType=
+Subject==?iso-8859-1?Q?PROMO=C7=C3O_DA_SEMANA!!!?=

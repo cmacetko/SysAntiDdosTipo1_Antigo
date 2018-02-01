@@ -1,0 +1,12 @@
+Recipients=[SMTP:rene@expressobatistense.com.br]
+Server=WIN-BHH9KHOIJM5
+Sender=[SMTP:bounce2@descontoporemail.com.br]
+TimeAcquired=1498519229
+ClientIP=185.161.255.160
+AuthenticationStatus=0
+Priority=
+Campaign=
+Account=expressobatistense.com.br
+Status=Undelivered
+CommandType=
+Subject==?UTF-8?B?Q09URSBBR09SQSAtIFBsYW5vcyBlbXByZXNhcmlhaXMsIGluZGl2aWR1YWlzIGUgZmFtaWxpYXJlcyBjb20gYXTDqSAzMCUgZGUgZGVzY29udG8h?=

@@ -1,0 +1,13 @@
+Recipients=[SMTP:contato@towbar.com.br]
+Server=WIN-BHH9KHOIJM5
+Sender=[SMTP:contato@discovery2010.com.br]
+TimeAcquired=1498517949
+ClientIP=173.208.157.55
+AuthenticationStatus=0
+User=
+Account=towbar.com.br
+Priority=
+Campaign=
+Status=UnDelivered
+CommandType=
+Subject=Sistemas Contabeis Completos e Praticos  -  contato@towbar.com.br

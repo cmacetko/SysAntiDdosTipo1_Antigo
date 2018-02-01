@@ -1,0 +1,13 @@
+Recipients=[SMTP:rene@expressobatistense.com.br]
+Server=WIN-BHH9KHOIJM5
+Sender=[SMTP:caixasaude3105-a-7@y.caixasaude3105-a.web20vida.com.br]
+TimeAcquired=1498518773
+ClientIP=51.255.85.72
+AuthenticationStatus=0
+User=
+Account=expressobatistense.com.br
+Priority=
+Campaign=
+Status=UnDelivered
+CommandType=
+Subject==?UTF-8?B?cmU6IEFwcmVzZW50YW1vcyBzZXUgbm92byBwbGFubyBkZSBTYcO6ZGUgQ29ycG9yYXRpdm8gZGEgQ2FpeGEsIENvbXByb3ZlLCBsaWd1ZSBob2plIHJlbmVAZXhwcmVzc29iYXRpc3RlbnNlLmNvbS5iciE=?=

@@ -1,0 +1,13 @@
+Recipients=[SMTP:vendas@emporiosensual.com]
+Server=WIN-BHH9KHOIJM5
+Sender=[SMTP:notification+zrdvfeh=idvz@facebookmail.com]
+TimeAcquired=1498517941
+ClientIP=66.220.155.154
+AuthenticationStatus=0
+User=
+Account=emporiosensual.com
+Priority=
+Campaign=
+Status=UnDelivered
+CommandType=
+Subject==?UTF-8?B?W0RFU0FQRUdPIFRVRE8g?=

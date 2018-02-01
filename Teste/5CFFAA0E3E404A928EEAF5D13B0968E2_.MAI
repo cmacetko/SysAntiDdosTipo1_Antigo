@@ -1,0 +1,13 @@
+Recipients=[SMTP:anglo@anglojacutinga.com.br]
+Server=WIN-BHH9KHOIJM5
+Sender=[SMTP:contato@a.senderfh.com.br]
+TimeAcquired=1498518974
+ClientIP=89.234.143.23
+AuthenticationStatus=0
+User=
+Account=anglojacutinga.com.br
+Priority=
+Campaign=
+Status=UnDelivered
+CommandType=
+Subject==?UTF-8?B?QmFzZSA4IE1pbGjDtWVzIGRlIEVtcHJlc2FzIGVtIEV4Y2VsbC4=?=

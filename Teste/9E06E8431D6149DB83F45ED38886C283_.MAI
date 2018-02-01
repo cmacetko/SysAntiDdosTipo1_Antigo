@@ -1,0 +1,13 @@
+Recipients=[SMTP:atendimento3@web4business.com.br]
+Server=WIN-BHH9KHOIJM5
+Sender=[SMTP:return@superoutono3.com.br]
+TimeAcquired=1498511653
+ClientIP=37.46.126.24
+AuthenticationStatus=0
+User=
+Account=web4business.com.br
+Priority=
+Campaign=
+Status=UnDelivered
+CommandType=
+Subject==?UTF-8?B?NzAlT0ZGIG5vIGtpdCByZWzDom1wYWdvIGRhIEV2aW5vLiBQYXJhIGNvbWXDp2FyIGEgc2VtYW5hIGVuY2hlbmRvIGEgYWRlZ2Eh?=

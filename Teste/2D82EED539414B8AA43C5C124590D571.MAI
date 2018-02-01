@@ -1,0 +1,12 @@
+Recipients=[SMTP:diogo@gmtextil.com.br]
+Server=WIN-BHH9KHOIJM5
+Sender=[SMTP:boletins@spie.dica.im]
+TimeAcquired=1498518481
+ClientIP=69.162.118.146
+AuthenticationStatus=0
+Priority=
+Campaign=
+Account=gmtextil.com.br
+Status=Undelivered
+CommandType=
+Subject==?utf-8?B?RGlvZ28sIHVtYSBvZmVydGEgZXhjZXBjaW9uYWwgcGFyYSB2?=

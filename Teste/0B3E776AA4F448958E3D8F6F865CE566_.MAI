@@ -1,0 +1,13 @@
+Recipients=[SMTP:paje@confpaje.com.br]
+Server=WIN-BHH9KHOIJM5
+Sender=[SMTP:recepcao@tinturariapedrini.com.br]
+TimeAcquired=1498517923
+ClientIP=208.84.243.152
+AuthenticationStatus=0
+User=
+Account=confpaje.com.br
+Priority=
+Campaign=
+Status=UnDelivered
+CommandType=
+Subject==?UTF-8?Q?Lida:_TABELA_DE_PRE=C3=87OS_ATUALIZAD?=

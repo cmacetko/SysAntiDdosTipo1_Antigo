@@ -1,0 +1,2398 @@
+﻿22/09/2017 12:22:05: # ##########################
+22/09/2017 12:22:05: # IP: 201.76.221.104 / Ocorrencias: 8
+22/09/2017 12:22:05: | ID: 5D09F676F2BB48DFA775A3E1C89D0F19_.MAI
+22/09/2017 12:22:05: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 12:22:05: | Sender: [SMTP:nfeadina@adina.com.br]
+22/09/2017 12:22:05: | TimeAcquired: 1498518974
+22/09/2017 12:22:05: | ClientIP: 201.76.221.104
+22/09/2017 12:22:05: | AuthenticationStatus: 0
+22/09/2017 12:22:05: | Account: gmtextil.com.br
+22/09/2017 12:22:05: | Status: UnDelivered
+22/09/2017 12:22:05: | Subject: NFe (SC-2) 
+22/09/2017 12:22:05: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\5D09F676F2BB48DFA775A3E1C89D0F19_.MAI
+22/09/2017 12:22:05: ----------
+22/09/2017 12:22:05: | ID: 5B00E562BECA4815BD3CDD4DDE62CABB_.MAI
+22/09/2017 12:22:05: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 12:22:05: | Sender: [SMTP:callcenter-adina@adina.com.br]
+22/09/2017 12:22:05: | TimeAcquired: 1498518943
+22/09/2017 12:22:05: | ClientIP: 201.76.221.104
+22/09/2017 12:22:05: | AuthenticationStatus: 0
+22/09/2017 12:22:05: | Account: gmtextil.com.br
+22/09/2017 12:22:05: | Status: UnDelivered
+22/09/2017 12:22:05: | Subject: Pedido 818414
+22/09/2017 12:22:05: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\5B00E562BECA4815BD3CDD4DDE62CABB_.MAI
+22/09/2017 12:22:05: ----------
+22/09/2017 12:22:05: | ID: 4D6661ACC5C6493C85D9B2122B8C467D_.MAI
+22/09/2017 12:22:05: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 12:22:05: | Sender: [SMTP:nfeadina@adina.com.br]
+22/09/2017 12:22:05: | TimeAcquired: 1498518762
+22/09/2017 12:22:05: | ClientIP: 201.76.221.104
+22/09/2017 12:22:05: | AuthenticationStatus: 0
+22/09/2017 12:22:05: | Account: gmtextil.com.br
+22/09/2017 12:22:05: | Status: UnDelivered
+22/09/2017 12:22:05: | Subject: NFe (SC-2) 
+22/09/2017 12:22:05: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\4D6661ACC5C6493C85D9B2122B8C467D_.MAI
+22/09/2017 12:22:05: ----------
+22/09/2017 12:22:05: | ID: 2DAEC3B628A04AD7A8A461127A1C3EC2_.MAI
+22/09/2017 12:22:05: | Recipients: [SMTP:jeferson@gmtextil.com.br]
+22/09/2017 12:22:05: | Sender: [SMTP:munique_giacomelli@adina.com.br]
+22/09/2017 12:22:05: | TimeAcquired: 1498518397
+22/09/2017 12:22:05: | ClientIP: 201.76.221.104
+22/09/2017 12:22:05: | AuthenticationStatus: 0
+22/09/2017 12:22:05: | Account: gmtextil.com.br
+22/09/2017 12:22:05: | Status: UnDelivered
+22/09/2017 12:22:05: | Subject: 
+22/09/2017 12:22:05: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\2DAEC3B628A04AD7A8A461127A1C3EC2_.MAI
+22/09/2017 12:22:05: ----------
+22/09/2017 12:22:05: | ID: 1BE574B4A8B04F51B40C690CFE29E12A_.MAI
+22/09/2017 12:22:05: | Recipients: [SMTP:jeferson@gmtextil.com.br]
+22/09/2017 12:22:05: | Sender: [SMTP:relacionamento@adina.com.br]
+22/09/2017 12:22:05: | TimeAcquired: 1498518181
+22/09/2017 12:22:05: | ClientIP: 201.76.221.104
+22/09/2017 12:22:05: | AuthenticationStatus: 0
+22/09/2017 12:22:05: | Account: gmtextil.com.br
+22/09/2017 12:22:05: | Status: UnDelivered
+22/09/2017 12:22:05: | Subject: Adina - Seu Pedido Foi Confirmado :818414
+22/09/2017 12:22:05: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\1BE574B4A8B04F51B40C690CFE29E12A_.MAI
+22/09/2017 12:22:05: ----------
+22/09/2017 12:22:05: | ID: 0BAF689DDEF14D09BFEA592411159CE3_.MAI
+22/09/2017 12:22:05: | Recipients: [SMTP:jeferson@gmtextil.com.br]
+22/09/2017 12:22:05: | Sender: [SMTP:kelli_trindade@adina.com.br]
+22/09/2017 12:22:05: | TimeAcquired: 1498517937
+22/09/2017 12:22:05: | ClientIP: 201.76.221.104
+22/09/2017 12:22:05: | AuthenticationStatus: 0
+22/09/2017 12:22:05: | Account: gmtextil.com.br
+22/09/2017 12:22:05: | Status: UnDelivered
+22/09/2017 12:22:05: | Subject: 
+22/09/2017 12:22:05: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0BAF689DDEF14D09BFEA592411159CE3_.MAI
+22/09/2017 12:22:05: ----------
+22/09/2017 12:22:05: | ID: 0B4B1D867C3B4D47870C8DEDD9F99624_.MAI
+22/09/2017 12:22:05: | Recipients: [SMTP:adailton@gmtextil.com.br]
+22/09/2017 12:22:05: | Sender: [SMTP:mariana_fernandes@adina.com.br]
+22/09/2017 12:22:05: | TimeAcquired: 1498517925
+22/09/2017 12:22:05: | ClientIP: 201.76.221.104
+22/09/2017 12:22:05: | AuthenticationStatus: 0
+22/09/2017 12:22:05: | Account: gmtextil.com.br
+22/09/2017 12:22:05: | Status: UnDelivered
+22/09/2017 12:22:05: | Subject: 
+22/09/2017 12:22:05: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0B4B1D867C3B4D47870C8DEDD9F99624_.MAI
+22/09/2017 12:22:05: ----------
+22/09/2017 12:22:05: | ID: 0A1A76FFFF7B434BB91EB9D8479FFBE3_.MAI
+22/09/2017 12:22:05: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 12:22:05: | Sender: [SMTP:callcenter-adina@adina.com.br]
+22/09/2017 12:22:05: | TimeAcquired: 1498517911
+22/09/2017 12:22:05: | ClientIP: 201.76.221.104
+22/09/2017 12:22:05: | AuthenticationStatus: 0
+22/09/2017 12:22:05: | Account: gmtextil.com.br
+22/09/2017 12:22:05: | Status: UnDelivered
+22/09/2017 12:22:05: | Subject: Pedido 818413
+22/09/2017 12:22:05: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0A1A76FFFF7B434BB91EB9D8479FFBE3_.MAI
+22/09/2017 12:22:05: ----------
+22/09/2017 12:22:06: # ##########################
+22/09/2017 12:22:06: # IP: 149.202.62.215 / Ocorrencias: 4
+22/09/2017 12:22:06: | ID: 4FDE36DFABE24F1882036F948015D1C5_.MAI
+22/09/2017 12:22:06: | Recipients: [SMTP:celia@auraepele.com.br]
+22/09/2017 12:22:06: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 12:22:06: | TimeAcquired: 1498518782
+22/09/2017 12:22:06: | ClientIP: 149.202.62.215
+22/09/2017 12:22:06: | AuthenticationStatus: 0
+22/09/2017 12:22:06: | Account: auraepele.com.br
+22/09/2017 12:22:06: | Status: UnDelivered
+22/09/2017 12:22:06: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 12:22:06: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\4FDE36DFABE24F1882036F948015D1C5_.MAI
+22/09/2017 12:22:06: ----------
+22/09/2017 12:22:06: | ID: 2CB98CA1D84C45AA95FF3EE2E8D6495B_.MAI
+22/09/2017 12:22:06: | Recipients: [SMTP:vendas@towbar.com.br]
+22/09/2017 12:22:06: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 12:22:06: | TimeAcquired: 1498518395
+22/09/2017 12:22:06: | ClientIP: 149.202.62.215
+22/09/2017 12:22:06: | AuthenticationStatus: 0
+22/09/2017 12:22:06: | Account: towbar.com.br
+22/09/2017 12:22:06: | Status: UnDelivered
+22/09/2017 12:22:06: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 12:22:06: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\2CB98CA1D84C45AA95FF3EE2E8D6495B_.MAI
+22/09/2017 12:22:06: ----------
+22/09/2017 12:22:06: | ID: 2A85146070914D299F1931B73461F4FB_.MAI
+22/09/2017 12:22:06: | Recipients: [SMTP:towbar@towbar.com.br]
+22/09/2017 12:22:06: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 12:22:06: | TimeAcquired: 1498518386
+22/09/2017 12:22:06: | ClientIP: 149.202.62.215
+22/09/2017 12:22:06: | AuthenticationStatus: 0
+22/09/2017 12:22:06: | Account: towbar.com.br
+22/09/2017 12:22:06: | Status: UnDelivered
+22/09/2017 12:22:06: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 12:22:06: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\2A85146070914D299F1931B73461F4FB_.MAI
+22/09/2017 12:22:06: ----------
+22/09/2017 12:22:06: | ID: 0BEA95FFF3764C2DA2A1F007745C6EC7.MAI
+22/09/2017 12:22:06: | Recipients: [SMTP:ibirama@cooperativalinhadireta.com.br]
+22/09/2017 12:22:06: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 12:22:06: | TimeAcquired: 1498518218
+22/09/2017 12:22:06: | ClientIP: 149.202.62.215
+22/09/2017 12:22:06: | AuthenticationStatus: 0
+22/09/2017 12:22:06: | Account: cooperativalinhadireta.com.br
+22/09/2017 12:22:06: | Status: Undelivered
+22/09/2017 12:22:06: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 12:22:06: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0BEA95FFF3764C2DA2A1F007745C6EC7.MAI
+22/09/2017 12:22:06: ----------
+22/09/2017 12:22:44: # ##########################
+22/09/2017 12:22:44: # IP: 201.76.221.104 / Ocorrencias: 8
+22/09/2017 12:22:44: | ID: 5D09F676F2BB48DFA775A3E1C89D0F19_.MAI
+22/09/2017 12:22:44: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 12:22:44: | Sender: [SMTP:nfeadina@adina.com.br]
+22/09/2017 12:22:44: | TimeAcquired: 1498518974
+22/09/2017 12:22:44: | ClientIP: 201.76.221.104
+22/09/2017 12:22:44: | AuthenticationStatus: 0
+22/09/2017 12:22:44: | Account: gmtextil.com.br
+22/09/2017 12:22:44: | Status: UnDelivered
+22/09/2017 12:22:44: | Subject: NFe (SC-2) 
+22/09/2017 12:22:44: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\5D09F676F2BB48DFA775A3E1C89D0F19_.MAI
+22/09/2017 12:22:44: ----------
+22/09/2017 12:22:44: | ID: 5B00E562BECA4815BD3CDD4DDE62CABB_.MAI
+22/09/2017 12:22:44: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 12:22:44: | Sender: [SMTP:callcenter-adina@adina.com.br]
+22/09/2017 12:22:44: | TimeAcquired: 1498518943
+22/09/2017 12:22:44: | ClientIP: 201.76.221.104
+22/09/2017 12:22:44: | AuthenticationStatus: 0
+22/09/2017 12:22:44: | Account: gmtextil.com.br
+22/09/2017 12:22:44: | Status: UnDelivered
+22/09/2017 12:22:44: | Subject: Pedido 818414
+22/09/2017 12:22:44: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\5B00E562BECA4815BD3CDD4DDE62CABB_.MAI
+22/09/2017 12:22:44: ----------
+22/09/2017 12:22:44: | ID: 4D6661ACC5C6493C85D9B2122B8C467D_.MAI
+22/09/2017 12:22:44: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 12:22:44: | Sender: [SMTP:nfeadina@adina.com.br]
+22/09/2017 12:22:44: | TimeAcquired: 1498518762
+22/09/2017 12:22:44: | ClientIP: 201.76.221.104
+22/09/2017 12:22:44: | AuthenticationStatus: 0
+22/09/2017 12:22:44: | Account: gmtextil.com.br
+22/09/2017 12:22:44: | Status: UnDelivered
+22/09/2017 12:22:44: | Subject: NFe (SC-2) 
+22/09/2017 12:22:44: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\4D6661ACC5C6493C85D9B2122B8C467D_.MAI
+22/09/2017 12:22:44: ----------
+22/09/2017 12:22:44: | ID: 2DAEC3B628A04AD7A8A461127A1C3EC2_.MAI
+22/09/2017 12:22:44: | Recipients: [SMTP:jeferson@gmtextil.com.br]
+22/09/2017 12:22:44: | Sender: [SMTP:munique_giacomelli@adina.com.br]
+22/09/2017 12:22:44: | TimeAcquired: 1498518397
+22/09/2017 12:22:44: | ClientIP: 201.76.221.104
+22/09/2017 12:22:44: | AuthenticationStatus: 0
+22/09/2017 12:22:44: | Account: gmtextil.com.br
+22/09/2017 12:22:44: | Status: UnDelivered
+22/09/2017 12:22:44: | Subject: 
+22/09/2017 12:22:44: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\2DAEC3B628A04AD7A8A461127A1C3EC2_.MAI
+22/09/2017 12:22:44: ----------
+22/09/2017 12:22:44: | ID: 1BE574B4A8B04F51B40C690CFE29E12A_.MAI
+22/09/2017 12:22:44: | Recipients: [SMTP:jeferson@gmtextil.com.br]
+22/09/2017 12:22:44: | Sender: [SMTP:relacionamento@adina.com.br]
+22/09/2017 12:22:44: | TimeAcquired: 1498518181
+22/09/2017 12:22:44: | ClientIP: 201.76.221.104
+22/09/2017 12:22:44: | AuthenticationStatus: 0
+22/09/2017 12:22:44: | Account: gmtextil.com.br
+22/09/2017 12:22:44: | Status: UnDelivered
+22/09/2017 12:22:44: | Subject: Adina - Seu Pedido Foi Confirmado :818414
+22/09/2017 12:22:44: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\1BE574B4A8B04F51B40C690CFE29E12A_.MAI
+22/09/2017 12:22:44: ----------
+22/09/2017 12:22:44: | ID: 0BAF689DDEF14D09BFEA592411159CE3_.MAI
+22/09/2017 12:22:44: | Recipients: [SMTP:jeferson@gmtextil.com.br]
+22/09/2017 12:22:44: | Sender: [SMTP:kelli_trindade@adina.com.br]
+22/09/2017 12:22:44: | TimeAcquired: 1498517937
+22/09/2017 12:22:44: | ClientIP: 201.76.221.104
+22/09/2017 12:22:44: | AuthenticationStatus: 0
+22/09/2017 12:22:44: | Account: gmtextil.com.br
+22/09/2017 12:22:44: | Status: UnDelivered
+22/09/2017 12:22:44: | Subject: 
+22/09/2017 12:22:44: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0BAF689DDEF14D09BFEA592411159CE3_.MAI
+22/09/2017 12:22:44: ----------
+22/09/2017 12:22:44: | ID: 0B4B1D867C3B4D47870C8DEDD9F99624_.MAI
+22/09/2017 12:22:44: | Recipients: [SMTP:adailton@gmtextil.com.br]
+22/09/2017 12:22:44: | Sender: [SMTP:mariana_fernandes@adina.com.br]
+22/09/2017 12:22:44: | TimeAcquired: 1498517925
+22/09/2017 12:22:44: | ClientIP: 201.76.221.104
+22/09/2017 12:22:44: | AuthenticationStatus: 0
+22/09/2017 12:22:44: | Account: gmtextil.com.br
+22/09/2017 12:22:44: | Status: UnDelivered
+22/09/2017 12:22:44: | Subject: 
+22/09/2017 12:22:44: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0B4B1D867C3B4D47870C8DEDD9F99624_.MAI
+22/09/2017 12:22:44: ----------
+22/09/2017 12:22:44: | ID: 0A1A76FFFF7B434BB91EB9D8479FFBE3_.MAI
+22/09/2017 12:22:44: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 12:22:44: | Sender: [SMTP:callcenter-adina@adina.com.br]
+22/09/2017 12:22:44: | TimeAcquired: 1498517911
+22/09/2017 12:22:44: | ClientIP: 201.76.221.104
+22/09/2017 12:22:44: | AuthenticationStatus: 0
+22/09/2017 12:22:44: | Account: gmtextil.com.br
+22/09/2017 12:22:44: | Status: UnDelivered
+22/09/2017 12:22:44: | Subject: Pedido 818413
+22/09/2017 12:22:44: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0A1A76FFFF7B434BB91EB9D8479FFBE3_.MAI
+22/09/2017 12:22:44: ----------
+22/09/2017 12:22:45: # ##########################
+22/09/2017 12:22:45: # IP: 149.202.62.215 / Ocorrencias: 4
+22/09/2017 12:22:45: | ID: 4FDE36DFABE24F1882036F948015D1C5_.MAI
+22/09/2017 12:22:45: | Recipients: [SMTP:celia@auraepele.com.br]
+22/09/2017 12:22:45: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 12:22:45: | TimeAcquired: 1498518782
+22/09/2017 12:22:45: | ClientIP: 149.202.62.215
+22/09/2017 12:22:45: | AuthenticationStatus: 0
+22/09/2017 12:22:45: | Account: auraepele.com.br
+22/09/2017 12:22:45: | Status: UnDelivered
+22/09/2017 12:22:45: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 12:22:45: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\4FDE36DFABE24F1882036F948015D1C5_.MAI
+22/09/2017 12:22:45: ----------
+22/09/2017 12:22:45: | ID: 2CB98CA1D84C45AA95FF3EE2E8D6495B_.MAI
+22/09/2017 12:22:45: | Recipients: [SMTP:vendas@towbar.com.br]
+22/09/2017 12:22:45: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 12:22:45: | TimeAcquired: 1498518395
+22/09/2017 12:22:45: | ClientIP: 149.202.62.215
+22/09/2017 12:22:45: | AuthenticationStatus: 0
+22/09/2017 12:22:45: | Account: towbar.com.br
+22/09/2017 12:22:45: | Status: UnDelivered
+22/09/2017 12:22:45: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 12:22:45: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\2CB98CA1D84C45AA95FF3EE2E8D6495B_.MAI
+22/09/2017 12:22:45: ----------
+22/09/2017 12:22:45: | ID: 2A85146070914D299F1931B73461F4FB_.MAI
+22/09/2017 12:22:45: | Recipients: [SMTP:towbar@towbar.com.br]
+22/09/2017 12:22:45: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 12:22:45: | TimeAcquired: 1498518386
+22/09/2017 12:22:45: | ClientIP: 149.202.62.215
+22/09/2017 12:22:45: | AuthenticationStatus: 0
+22/09/2017 12:22:45: | Account: towbar.com.br
+22/09/2017 12:22:45: | Status: UnDelivered
+22/09/2017 12:22:45: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 12:22:45: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\2A85146070914D299F1931B73461F4FB_.MAI
+22/09/2017 12:22:45: ----------
+22/09/2017 12:22:45: | ID: 0BEA95FFF3764C2DA2A1F007745C6EC7.MAI
+22/09/2017 12:22:45: | Recipients: [SMTP:ibirama@cooperativalinhadireta.com.br]
+22/09/2017 12:22:45: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 12:22:45: | TimeAcquired: 1498518218
+22/09/2017 12:22:45: | ClientIP: 149.202.62.215
+22/09/2017 12:22:45: | AuthenticationStatus: 0
+22/09/2017 12:22:45: | Account: cooperativalinhadireta.com.br
+22/09/2017 12:22:45: | Status: Undelivered
+22/09/2017 12:22:45: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 12:22:45: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0BEA95FFF3764C2DA2A1F007745C6EC7.MAI
+22/09/2017 12:22:45: ----------
+22/09/2017 12:36:34: # ##########################
+22/09/2017 12:36:34: # IP: 201.76.221.104 / Ocorrencias: 8
+22/09/2017 12:36:34: | ID: 5D09F676F2BB48DFA775A3E1C89D0F19_.MAI
+22/09/2017 12:36:34: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 12:36:34: | Sender: [SMTP:nfeadina@adina.com.br]
+22/09/2017 12:36:34: | TimeAcquired: 1498518974
+22/09/2017 12:36:34: | ClientIP: 201.76.221.104
+22/09/2017 12:36:34: | AuthenticationStatus: 0
+22/09/2017 12:36:34: | Account: gmtextil.com.br
+22/09/2017 12:36:34: | Status: UnDelivered
+22/09/2017 12:36:34: | Subject: NFe (SC-2) 
+22/09/2017 12:36:34: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\5D09F676F2BB48DFA775A3E1C89D0F19_.MAI
+22/09/2017 12:36:34: ----------
+22/09/2017 12:36:34: | ID: 5B00E562BECA4815BD3CDD4DDE62CABB_.MAI
+22/09/2017 12:36:34: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 12:36:34: | Sender: [SMTP:callcenter-adina@adina.com.br]
+22/09/2017 12:36:34: | TimeAcquired: 1498518943
+22/09/2017 12:36:34: | ClientIP: 201.76.221.104
+22/09/2017 12:36:34: | AuthenticationStatus: 0
+22/09/2017 12:36:34: | Account: gmtextil.com.br
+22/09/2017 12:36:34: | Status: UnDelivered
+22/09/2017 12:36:34: | Subject: Pedido 818414
+22/09/2017 12:36:34: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\5B00E562BECA4815BD3CDD4DDE62CABB_.MAI
+22/09/2017 12:36:34: ----------
+22/09/2017 12:36:34: | ID: 4D6661ACC5C6493C85D9B2122B8C467D_.MAI
+22/09/2017 12:36:34: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 12:36:34: | Sender: [SMTP:nfeadina@adina.com.br]
+22/09/2017 12:36:34: | TimeAcquired: 1498518762
+22/09/2017 12:36:34: | ClientIP: 201.76.221.104
+22/09/2017 12:36:34: | AuthenticationStatus: 0
+22/09/2017 12:36:34: | Account: gmtextil.com.br
+22/09/2017 12:36:34: | Status: UnDelivered
+22/09/2017 12:36:34: | Subject: NFe (SC-2) 
+22/09/2017 12:36:34: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\4D6661ACC5C6493C85D9B2122B8C467D_.MAI
+22/09/2017 12:36:34: ----------
+22/09/2017 12:36:34: | ID: 2DAEC3B628A04AD7A8A461127A1C3EC2_.MAI
+22/09/2017 12:36:34: | Recipients: [SMTP:jeferson@gmtextil.com.br]
+22/09/2017 12:36:34: | Sender: [SMTP:munique_giacomelli@adina.com.br]
+22/09/2017 12:36:34: | TimeAcquired: 1498518397
+22/09/2017 12:36:34: | ClientIP: 201.76.221.104
+22/09/2017 12:36:34: | AuthenticationStatus: 0
+22/09/2017 12:36:34: | Account: gmtextil.com.br
+22/09/2017 12:36:34: | Status: UnDelivered
+22/09/2017 12:36:34: | Subject: 
+22/09/2017 12:36:34: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\2DAEC3B628A04AD7A8A461127A1C3EC2_.MAI
+22/09/2017 12:36:34: ----------
+22/09/2017 12:36:34: | ID: 1BE574B4A8B04F51B40C690CFE29E12A_.MAI
+22/09/2017 12:36:34: | Recipients: [SMTP:jeferson@gmtextil.com.br]
+22/09/2017 12:36:34: | Sender: [SMTP:relacionamento@adina.com.br]
+22/09/2017 12:36:34: | TimeAcquired: 1498518181
+22/09/2017 12:36:34: | ClientIP: 201.76.221.104
+22/09/2017 12:36:34: | AuthenticationStatus: 0
+22/09/2017 12:36:34: | Account: gmtextil.com.br
+22/09/2017 12:36:34: | Status: UnDelivered
+22/09/2017 12:36:34: | Subject: Adina - Seu Pedido Foi Confirmado :818414
+22/09/2017 12:36:34: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\1BE574B4A8B04F51B40C690CFE29E12A_.MAI
+22/09/2017 12:36:34: ----------
+22/09/2017 12:36:34: | ID: 0BAF689DDEF14D09BFEA592411159CE3_.MAI
+22/09/2017 12:36:34: | Recipients: [SMTP:jeferson@gmtextil.com.br]
+22/09/2017 12:36:34: | Sender: [SMTP:kelli_trindade@adina.com.br]
+22/09/2017 12:36:34: | TimeAcquired: 1498517937
+22/09/2017 12:36:34: | ClientIP: 201.76.221.104
+22/09/2017 12:36:34: | AuthenticationStatus: 0
+22/09/2017 12:36:34: | Account: gmtextil.com.br
+22/09/2017 12:36:34: | Status: UnDelivered
+22/09/2017 12:36:34: | Subject: 
+22/09/2017 12:36:34: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0BAF689DDEF14D09BFEA592411159CE3_.MAI
+22/09/2017 12:36:34: ----------
+22/09/2017 12:36:34: | ID: 0B4B1D867C3B4D47870C8DEDD9F99624_.MAI
+22/09/2017 12:36:34: | Recipients: [SMTP:adailton@gmtextil.com.br]
+22/09/2017 12:36:34: | Sender: [SMTP:mariana_fernandes@adina.com.br]
+22/09/2017 12:36:34: | TimeAcquired: 1498517925
+22/09/2017 12:36:34: | ClientIP: 201.76.221.104
+22/09/2017 12:36:34: | AuthenticationStatus: 0
+22/09/2017 12:36:34: | Account: gmtextil.com.br
+22/09/2017 12:36:34: | Status: UnDelivered
+22/09/2017 12:36:34: | Subject: 
+22/09/2017 12:36:34: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0B4B1D867C3B4D47870C8DEDD9F99624_.MAI
+22/09/2017 12:36:34: ----------
+22/09/2017 12:36:34: | ID: 0A1A76FFFF7B434BB91EB9D8479FFBE3_.MAI
+22/09/2017 12:36:34: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 12:36:34: | Sender: [SMTP:callcenter-adina@adina.com.br]
+22/09/2017 12:36:34: | TimeAcquired: 1498517911
+22/09/2017 12:36:34: | ClientIP: 201.76.221.104
+22/09/2017 12:36:34: | AuthenticationStatus: 0
+22/09/2017 12:36:34: | Account: gmtextil.com.br
+22/09/2017 12:36:34: | Status: UnDelivered
+22/09/2017 12:36:34: | Subject: Pedido 818413
+22/09/2017 12:36:34: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0A1A76FFFF7B434BB91EB9D8479FFBE3_.MAI
+22/09/2017 12:36:34: ----------
+22/09/2017 12:36:35: # ##########################
+22/09/2017 12:36:35: # IP: 149.202.62.215 / Ocorrencias: 4
+22/09/2017 12:36:35: | ID: 4FDE36DFABE24F1882036F948015D1C5_.MAI
+22/09/2017 12:36:35: | Recipients: [SMTP:celia@auraepele.com.br]
+22/09/2017 12:36:35: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 12:36:35: | TimeAcquired: 1498518782
+22/09/2017 12:36:35: | ClientIP: 149.202.62.215
+22/09/2017 12:36:35: | AuthenticationStatus: 0
+22/09/2017 12:36:35: | Account: auraepele.com.br
+22/09/2017 12:36:35: | Status: UnDelivered
+22/09/2017 12:36:35: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 12:36:35: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\4FDE36DFABE24F1882036F948015D1C5_.MAI
+22/09/2017 12:36:35: ----------
+22/09/2017 12:36:35: | ID: 2CB98CA1D84C45AA95FF3EE2E8D6495B_.MAI
+22/09/2017 12:36:35: | Recipients: [SMTP:vendas@towbar.com.br]
+22/09/2017 12:36:35: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 12:36:35: | TimeAcquired: 1498518395
+22/09/2017 12:36:35: | ClientIP: 149.202.62.215
+22/09/2017 12:36:35: | AuthenticationStatus: 0
+22/09/2017 12:36:35: | Account: towbar.com.br
+22/09/2017 12:36:35: | Status: UnDelivered
+22/09/2017 12:36:35: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 12:36:35: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\2CB98CA1D84C45AA95FF3EE2E8D6495B_.MAI
+22/09/2017 12:36:35: ----------
+22/09/2017 12:36:35: | ID: 2A85146070914D299F1931B73461F4FB_.MAI
+22/09/2017 12:36:35: | Recipients: [SMTP:towbar@towbar.com.br]
+22/09/2017 12:36:35: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 12:36:35: | TimeAcquired: 1498518386
+22/09/2017 12:36:35: | ClientIP: 149.202.62.215
+22/09/2017 12:36:35: | AuthenticationStatus: 0
+22/09/2017 12:36:35: | Account: towbar.com.br
+22/09/2017 12:36:35: | Status: UnDelivered
+22/09/2017 12:36:35: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 12:36:35: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\2A85146070914D299F1931B73461F4FB_.MAI
+22/09/2017 12:36:35: ----------
+22/09/2017 12:36:35: | ID: 0BEA95FFF3764C2DA2A1F007745C6EC7.MAI
+22/09/2017 12:36:35: | Recipients: [SMTP:ibirama@cooperativalinhadireta.com.br]
+22/09/2017 12:36:35: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 12:36:35: | TimeAcquired: 1498518218
+22/09/2017 12:36:35: | ClientIP: 149.202.62.215
+22/09/2017 12:36:35: | AuthenticationStatus: 0
+22/09/2017 12:36:35: | Account: cooperativalinhadireta.com.br
+22/09/2017 12:36:35: | Status: Undelivered
+22/09/2017 12:36:35: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 12:36:35: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0BEA95FFF3764C2DA2A1F007745C6EC7.MAI
+22/09/2017 12:36:35: ----------
+22/09/2017 13:34:21: # ##########################
+22/09/2017 13:34:21: # IP: 201.76.221.104 / Ocorrencias: 8
+22/09/2017 13:34:21: | ID: 4D6661ACC5C6493C85D9B2122B8C467D_.MAI
+22/09/2017 13:34:21: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 13:34:21: | Sender: [SMTP:nfeadina@adina.com.br]
+22/09/2017 13:34:21: | TimeAcquired: 1498518762
+22/09/2017 13:34:21: | ClientIP: 201.76.221.104
+22/09/2017 13:34:21: | AuthenticationStatus: 0
+22/09/2017 13:34:21: | Account: gmtextil.com.br
+22/09/2017 13:34:21: | Status: UnDelivered
+22/09/2017 13:34:21: | Subject: NFe (SC-2) 
+22/09/2017 13:34:21: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\4D6661ACC5C6493C85D9B2122B8C467D_.MAI
+22/09/2017 13:34:21: ----------
+22/09/2017 13:34:21: | ID: 0B4B1D867C3B4D47870C8DEDD9F99624_.MAI
+22/09/2017 13:34:21: | Recipients: [SMTP:adailton@gmtextil.com.br]
+22/09/2017 13:34:21: | Sender: [SMTP:mariana_fernandes@adina.com.br]
+22/09/2017 13:34:21: | TimeAcquired: 1498517925
+22/09/2017 13:34:21: | ClientIP: 201.76.221.104
+22/09/2017 13:34:21: | AuthenticationStatus: 0
+22/09/2017 13:34:21: | Account: gmtextil.com.br
+22/09/2017 13:34:21: | Status: UnDelivered
+22/09/2017 13:34:21: | Subject: 
+22/09/2017 13:34:21: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0B4B1D867C3B4D47870C8DEDD9F99624_.MAI
+22/09/2017 13:34:21: ----------
+22/09/2017 13:34:21: | ID: 5D09F676F2BB48DFA775A3E1C89D0F19_.MAI
+22/09/2017 13:34:21: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 13:34:21: | Sender: [SMTP:nfeadina@adina.com.br]
+22/09/2017 13:34:21: | TimeAcquired: 1498518974
+22/09/2017 13:34:21: | ClientIP: 201.76.221.104
+22/09/2017 13:34:21: | AuthenticationStatus: 0
+22/09/2017 13:34:21: | Account: gmtextil.com.br
+22/09/2017 13:34:21: | Status: UnDelivered
+22/09/2017 13:34:21: | Subject: NFe (SC-2) 
+22/09/2017 13:34:21: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\5D09F676F2BB48DFA775A3E1C89D0F19_.MAI
+22/09/2017 13:34:21: ----------
+22/09/2017 13:34:21: | ID: 2DAEC3B628A04AD7A8A461127A1C3EC2_.MAI
+22/09/2017 13:34:21: | Recipients: [SMTP:jeferson@gmtextil.com.br]
+22/09/2017 13:34:21: | Sender: [SMTP:munique_giacomelli@adina.com.br]
+22/09/2017 13:34:21: | TimeAcquired: 1498518397
+22/09/2017 13:34:21: | ClientIP: 201.76.221.104
+22/09/2017 13:34:21: | AuthenticationStatus: 0
+22/09/2017 13:34:21: | Account: gmtextil.com.br
+22/09/2017 13:34:21: | Status: UnDelivered
+22/09/2017 13:34:21: | Subject: 
+22/09/2017 13:34:21: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\2DAEC3B628A04AD7A8A461127A1C3EC2_.MAI
+22/09/2017 13:34:21: ----------
+22/09/2017 13:34:21: | ID: 1BE574B4A8B04F51B40C690CFE29E12A_.MAI
+22/09/2017 13:34:21: | Recipients: [SMTP:jeferson@gmtextil.com.br]
+22/09/2017 13:34:21: | Sender: [SMTP:relacionamento@adina.com.br]
+22/09/2017 13:34:21: | TimeAcquired: 1498518181
+22/09/2017 13:34:21: | ClientIP: 201.76.221.104
+22/09/2017 13:34:21: | AuthenticationStatus: 0
+22/09/2017 13:34:21: | Account: gmtextil.com.br
+22/09/2017 13:34:21: | Status: UnDelivered
+22/09/2017 13:34:21: | Subject: Adina - Seu Pedido Foi Confirmado :818414
+22/09/2017 13:34:21: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\1BE574B4A8B04F51B40C690CFE29E12A_.MAI
+22/09/2017 13:34:21: ----------
+22/09/2017 13:34:21: | ID: 5B00E562BECA4815BD3CDD4DDE62CABB_.MAI
+22/09/2017 13:34:21: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 13:34:21: | Sender: [SMTP:callcenter-adina@adina.com.br]
+22/09/2017 13:34:21: | TimeAcquired: 1498518943
+22/09/2017 13:34:21: | ClientIP: 201.76.221.104
+22/09/2017 13:34:21: | AuthenticationStatus: 0
+22/09/2017 13:34:21: | Account: gmtextil.com.br
+22/09/2017 13:34:21: | Status: UnDelivered
+22/09/2017 13:34:21: | Subject: Pedido 818414
+22/09/2017 13:34:21: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\5B00E562BECA4815BD3CDD4DDE62CABB_.MAI
+22/09/2017 13:34:21: ----------
+22/09/2017 13:34:21: | ID: 0A1A76FFFF7B434BB91EB9D8479FFBE3_.MAI
+22/09/2017 13:34:21: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 13:34:21: | Sender: [SMTP:callcenter-adina@adina.com.br]
+22/09/2017 13:34:21: | TimeAcquired: 1498517911
+22/09/2017 13:34:21: | ClientIP: 201.76.221.104
+22/09/2017 13:34:21: | AuthenticationStatus: 0
+22/09/2017 13:34:21: | Account: gmtextil.com.br
+22/09/2017 13:34:21: | Status: UnDelivered
+22/09/2017 13:34:21: | Subject: Pedido 818413
+22/09/2017 13:34:21: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0A1A76FFFF7B434BB91EB9D8479FFBE3_.MAI
+22/09/2017 13:34:21: ----------
+22/09/2017 13:34:21: | ID: 0BAF689DDEF14D09BFEA592411159CE3_.MAI
+22/09/2017 13:34:21: | Recipients: [SMTP:jeferson@gmtextil.com.br]
+22/09/2017 13:34:21: | Sender: [SMTP:kelli_trindade@adina.com.br]
+22/09/2017 13:34:21: | TimeAcquired: 1498517937
+22/09/2017 13:34:21: | ClientIP: 201.76.221.104
+22/09/2017 13:34:21: | AuthenticationStatus: 0
+22/09/2017 13:34:21: | Account: gmtextil.com.br
+22/09/2017 13:34:21: | Status: UnDelivered
+22/09/2017 13:34:21: | Subject: 
+22/09/2017 13:34:21: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0BAF689DDEF14D09BFEA592411159CE3_.MAI
+22/09/2017 13:34:21: ----------
+22/09/2017 13:34:22: # ##########################
+22/09/2017 13:34:22: # IP: 149.202.62.215 / Ocorrencias: 4
+22/09/2017 13:34:22: | ID: 0BEA95FFF3764C2DA2A1F007745C6EC7.MAI
+22/09/2017 13:34:22: | Recipients: [SMTP:ibirama@cooperativalinhadireta.com.br]
+22/09/2017 13:34:22: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 13:34:22: | TimeAcquired: 1498518218
+22/09/2017 13:34:22: | ClientIP: 149.202.62.215
+22/09/2017 13:34:22: | AuthenticationStatus: 0
+22/09/2017 13:34:22: | Account: cooperativalinhadireta.com.br
+22/09/2017 13:34:22: | Status: Undelivered
+22/09/2017 13:34:22: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 13:34:22: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0BEA95FFF3764C2DA2A1F007745C6EC7.MAI
+22/09/2017 13:34:22: ----------
+22/09/2017 13:34:22: | ID: 2CB98CA1D84C45AA95FF3EE2E8D6495B_.MAI
+22/09/2017 13:34:22: | Recipients: [SMTP:vendas@towbar.com.br]
+22/09/2017 13:34:22: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 13:34:22: | TimeAcquired: 1498518395
+22/09/2017 13:34:22: | ClientIP: 149.202.62.215
+22/09/2017 13:34:22: | AuthenticationStatus: 0
+22/09/2017 13:34:22: | Account: towbar.com.br
+22/09/2017 13:34:22: | Status: UnDelivered
+22/09/2017 13:34:22: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 13:34:22: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\2CB98CA1D84C45AA95FF3EE2E8D6495B_.MAI
+22/09/2017 13:34:22: ----------
+22/09/2017 13:34:22: | ID: 4FDE36DFABE24F1882036F948015D1C5_.MAI
+22/09/2017 13:34:22: | Recipients: [SMTP:celia@auraepele.com.br]
+22/09/2017 13:34:22: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 13:34:22: | TimeAcquired: 1498518782
+22/09/2017 13:34:22: | ClientIP: 149.202.62.215
+22/09/2017 13:34:22: | AuthenticationStatus: 0
+22/09/2017 13:34:22: | Account: auraepele.com.br
+22/09/2017 13:34:22: | Status: UnDelivered
+22/09/2017 13:34:22: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 13:34:22: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\4FDE36DFABE24F1882036F948015D1C5_.MAI
+22/09/2017 13:34:22: ----------
+22/09/2017 13:34:22: | ID: 2A85146070914D299F1931B73461F4FB_.MAI
+22/09/2017 13:34:22: | Recipients: [SMTP:towbar@towbar.com.br]
+22/09/2017 13:34:22: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 13:34:22: | TimeAcquired: 1498518386
+22/09/2017 13:34:22: | ClientIP: 149.202.62.215
+22/09/2017 13:34:22: | AuthenticationStatus: 0
+22/09/2017 13:34:22: | Account: towbar.com.br
+22/09/2017 13:34:22: | Status: UnDelivered
+22/09/2017 13:34:22: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 13:34:22: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\2A85146070914D299F1931B73461F4FB_.MAI
+22/09/2017 13:34:22: ----------
+22/09/2017 13:37:50: # ##########################
+22/09/2017 13:37:50: # IP: 201.76.221.104 / Ocorrencias: 8
+22/09/2017 13:37:50: | ID: 4D6661ACC5C6493C85D9B2122B8C467D_.MAI
+22/09/2017 13:37:50: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 13:37:50: | Sender: [SMTP:nfeadina@adina.com.br]
+22/09/2017 13:37:50: | TimeAcquired: 1498518762
+22/09/2017 13:37:50: | ClientIP: 201.76.221.104
+22/09/2017 13:37:50: | AuthenticationStatus: 0
+22/09/2017 13:37:50: | Account: gmtextil.com.br
+22/09/2017 13:37:50: | Status: UnDelivered
+22/09/2017 13:37:50: | Subject: NFe (SC-2) 
+22/09/2017 13:37:50: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\4D6661ACC5C6493C85D9B2122B8C467D_.MAI
+22/09/2017 13:37:50: ----------
+22/09/2017 13:37:50: | ID: 0B4B1D867C3B4D47870C8DEDD9F99624_.MAI
+22/09/2017 13:37:50: | Recipients: [SMTP:adailton@gmtextil.com.br]
+22/09/2017 13:37:50: | Sender: [SMTP:mariana_fernandes@adina.com.br]
+22/09/2017 13:37:50: | TimeAcquired: 1498517925
+22/09/2017 13:37:50: | ClientIP: 201.76.221.104
+22/09/2017 13:37:50: | AuthenticationStatus: 0
+22/09/2017 13:37:50: | Account: gmtextil.com.br
+22/09/2017 13:37:50: | Status: UnDelivered
+22/09/2017 13:37:50: | Subject: 
+22/09/2017 13:37:50: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0B4B1D867C3B4D47870C8DEDD9F99624_.MAI
+22/09/2017 13:37:50: ----------
+22/09/2017 13:37:50: | ID: 5D09F676F2BB48DFA775A3E1C89D0F19_.MAI
+22/09/2017 13:37:50: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 13:37:50: | Sender: [SMTP:nfeadina@adina.com.br]
+22/09/2017 13:37:50: | TimeAcquired: 1498518974
+22/09/2017 13:37:50: | ClientIP: 201.76.221.104
+22/09/2017 13:37:50: | AuthenticationStatus: 0
+22/09/2017 13:37:50: | Account: gmtextil.com.br
+22/09/2017 13:37:50: | Status: UnDelivered
+22/09/2017 13:37:50: | Subject: NFe (SC-2) 
+22/09/2017 13:37:50: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\5D09F676F2BB48DFA775A3E1C89D0F19_.MAI
+22/09/2017 13:37:50: ----------
+22/09/2017 13:37:50: | ID: 2DAEC3B628A04AD7A8A461127A1C3EC2_.MAI
+22/09/2017 13:37:50: | Recipients: [SMTP:jeferson@gmtextil.com.br]
+22/09/2017 13:37:50: | Sender: [SMTP:munique_giacomelli@adina.com.br]
+22/09/2017 13:37:50: | TimeAcquired: 1498518397
+22/09/2017 13:37:50: | ClientIP: 201.76.221.104
+22/09/2017 13:37:50: | AuthenticationStatus: 0
+22/09/2017 13:37:50: | Account: gmtextil.com.br
+22/09/2017 13:37:50: | Status: UnDelivered
+22/09/2017 13:37:50: | Subject: 
+22/09/2017 13:37:50: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\2DAEC3B628A04AD7A8A461127A1C3EC2_.MAI
+22/09/2017 13:37:50: ----------
+22/09/2017 13:37:50: | ID: 1BE574B4A8B04F51B40C690CFE29E12A_.MAI
+22/09/2017 13:37:50: | Recipients: [SMTP:jeferson@gmtextil.com.br]
+22/09/2017 13:37:50: | Sender: [SMTP:relacionamento@adina.com.br]
+22/09/2017 13:37:50: | TimeAcquired: 1498518181
+22/09/2017 13:37:50: | ClientIP: 201.76.221.104
+22/09/2017 13:37:50: | AuthenticationStatus: 0
+22/09/2017 13:37:50: | Account: gmtextil.com.br
+22/09/2017 13:37:50: | Status: UnDelivered
+22/09/2017 13:37:50: | Subject: Adina - Seu Pedido Foi Confirmado :818414
+22/09/2017 13:37:50: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\1BE574B4A8B04F51B40C690CFE29E12A_.MAI
+22/09/2017 13:37:50: ----------
+22/09/2017 13:37:50: | ID: 5B00E562BECA4815BD3CDD4DDE62CABB_.MAI
+22/09/2017 13:37:50: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 13:37:50: | Sender: [SMTP:callcenter-adina@adina.com.br]
+22/09/2017 13:37:50: | TimeAcquired: 1498518943
+22/09/2017 13:37:50: | ClientIP: 201.76.221.104
+22/09/2017 13:37:50: | AuthenticationStatus: 0
+22/09/2017 13:37:50: | Account: gmtextil.com.br
+22/09/2017 13:37:50: | Status: UnDelivered
+22/09/2017 13:37:50: | Subject: Pedido 818414
+22/09/2017 13:37:50: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\5B00E562BECA4815BD3CDD4DDE62CABB_.MAI
+22/09/2017 13:37:50: ----------
+22/09/2017 13:37:50: | ID: 0A1A76FFFF7B434BB91EB9D8479FFBE3_.MAI
+22/09/2017 13:37:50: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 13:37:50: | Sender: [SMTP:callcenter-adina@adina.com.br]
+22/09/2017 13:37:50: | TimeAcquired: 1498517911
+22/09/2017 13:37:50: | ClientIP: 201.76.221.104
+22/09/2017 13:37:50: | AuthenticationStatus: 0
+22/09/2017 13:37:50: | Account: gmtextil.com.br
+22/09/2017 13:37:50: | Status: UnDelivered
+22/09/2017 13:37:50: | Subject: Pedido 818413
+22/09/2017 13:37:50: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0A1A76FFFF7B434BB91EB9D8479FFBE3_.MAI
+22/09/2017 13:37:50: ----------
+22/09/2017 13:37:50: | ID: 0BAF689DDEF14D09BFEA592411159CE3_.MAI
+22/09/2017 13:37:50: | Recipients: [SMTP:jeferson@gmtextil.com.br]
+22/09/2017 13:37:50: | Sender: [SMTP:kelli_trindade@adina.com.br]
+22/09/2017 13:37:50: | TimeAcquired: 1498517937
+22/09/2017 13:37:50: | ClientIP: 201.76.221.104
+22/09/2017 13:37:50: | AuthenticationStatus: 0
+22/09/2017 13:37:50: | Account: gmtextil.com.br
+22/09/2017 13:37:50: | Status: UnDelivered
+22/09/2017 13:37:50: | Subject: 
+22/09/2017 13:37:50: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0BAF689DDEF14D09BFEA592411159CE3_.MAI
+22/09/2017 13:37:50: ----------
+22/09/2017 13:37:50: # ##########################
+22/09/2017 13:37:50: # IP: 149.202.62.215 / Ocorrencias: 4
+22/09/2017 13:37:50: | ID: 0BEA95FFF3764C2DA2A1F007745C6EC7.MAI
+22/09/2017 13:37:50: | Recipients: [SMTP:ibirama@cooperativalinhadireta.com.br]
+22/09/2017 13:37:50: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 13:37:50: | TimeAcquired: 1498518218
+22/09/2017 13:37:50: | ClientIP: 149.202.62.215
+22/09/2017 13:37:50: | AuthenticationStatus: 0
+22/09/2017 13:37:50: | Account: cooperativalinhadireta.com.br
+22/09/2017 13:37:50: | Status: Undelivered
+22/09/2017 13:37:50: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 13:37:50: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0BEA95FFF3764C2DA2A1F007745C6EC7.MAI
+22/09/2017 13:37:50: ----------
+22/09/2017 13:37:50: | ID: 2CB98CA1D84C45AA95FF3EE2E8D6495B_.MAI
+22/09/2017 13:37:50: | Recipients: [SMTP:vendas@towbar.com.br]
+22/09/2017 13:37:50: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 13:37:50: | TimeAcquired: 1498518395
+22/09/2017 13:37:50: | ClientIP: 149.202.62.215
+22/09/2017 13:37:50: | AuthenticationStatus: 0
+22/09/2017 13:37:50: | Account: towbar.com.br
+22/09/2017 13:37:50: | Status: UnDelivered
+22/09/2017 13:37:50: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 13:37:50: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\2CB98CA1D84C45AA95FF3EE2E8D6495B_.MAI
+22/09/2017 13:37:50: ----------
+22/09/2017 13:37:50: | ID: 4FDE36DFABE24F1882036F948015D1C5_.MAI
+22/09/2017 13:37:50: | Recipients: [SMTP:celia@auraepele.com.br]
+22/09/2017 13:37:50: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 13:37:50: | TimeAcquired: 1498518782
+22/09/2017 13:37:50: | ClientIP: 149.202.62.215
+22/09/2017 13:37:50: | AuthenticationStatus: 0
+22/09/2017 13:37:50: | Account: auraepele.com.br
+22/09/2017 13:37:50: | Status: UnDelivered
+22/09/2017 13:37:50: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 13:37:50: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\4FDE36DFABE24F1882036F948015D1C5_.MAI
+22/09/2017 13:37:50: ----------
+22/09/2017 13:37:50: | ID: 2A85146070914D299F1931B73461F4FB_.MAI
+22/09/2017 13:37:50: | Recipients: [SMTP:towbar@towbar.com.br]
+22/09/2017 13:37:50: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 13:37:50: | TimeAcquired: 1498518386
+22/09/2017 13:37:50: | ClientIP: 149.202.62.215
+22/09/2017 13:37:50: | AuthenticationStatus: 0
+22/09/2017 13:37:50: | Account: towbar.com.br
+22/09/2017 13:37:50: | Status: UnDelivered
+22/09/2017 13:37:50: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 13:37:50: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\2A85146070914D299F1931B73461F4FB_.MAI
+22/09/2017 13:37:50: ----------
+22/09/2017 13:38:30: # ##########################
+22/09/2017 13:38:30: # IP: 201.76.221.104 / Ocorrencias: 8
+22/09/2017 13:38:30: | ID: 4D6661ACC5C6493C85D9B2122B8C467D_.MAI
+22/09/2017 13:38:30: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 13:38:30: | Sender: [SMTP:nfeadina@adina.com.br]
+22/09/2017 13:38:30: | TimeAcquired: 1498518762
+22/09/2017 13:38:30: | ClientIP: 201.76.221.104
+22/09/2017 13:38:30: | AuthenticationStatus: 0
+22/09/2017 13:38:30: | Account: gmtextil.com.br
+22/09/2017 13:38:30: | Status: UnDelivered
+22/09/2017 13:38:30: | Subject: NFe (SC-2) 
+22/09/2017 13:38:30: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\4D6661ACC5C6493C85D9B2122B8C467D_.MAI
+22/09/2017 13:38:30: ----------
+22/09/2017 13:38:30: | ID: 0B4B1D867C3B4D47870C8DEDD9F99624_.MAI
+22/09/2017 13:38:30: | Recipients: [SMTP:adailton@gmtextil.com.br]
+22/09/2017 13:38:30: | Sender: [SMTP:mariana_fernandes@adina.com.br]
+22/09/2017 13:38:30: | TimeAcquired: 1498517925
+22/09/2017 13:38:30: | ClientIP: 201.76.221.104
+22/09/2017 13:38:30: | AuthenticationStatus: 0
+22/09/2017 13:38:30: | Account: gmtextil.com.br
+22/09/2017 13:38:30: | Status: UnDelivered
+22/09/2017 13:38:30: | Subject: 
+22/09/2017 13:38:30: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0B4B1D867C3B4D47870C8DEDD9F99624_.MAI
+22/09/2017 13:38:30: ----------
+22/09/2017 13:38:30: | ID: 5D09F676F2BB48DFA775A3E1C89D0F19_.MAI
+22/09/2017 13:38:30: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 13:38:30: | Sender: [SMTP:nfeadina@adina.com.br]
+22/09/2017 13:38:30: | TimeAcquired: 1498518974
+22/09/2017 13:38:30: | ClientIP: 201.76.221.104
+22/09/2017 13:38:30: | AuthenticationStatus: 0
+22/09/2017 13:38:30: | Account: gmtextil.com.br
+22/09/2017 13:38:30: | Status: UnDelivered
+22/09/2017 13:38:30: | Subject: NFe (SC-2) 
+22/09/2017 13:38:30: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\5D09F676F2BB48DFA775A3E1C89D0F19_.MAI
+22/09/2017 13:38:30: ----------
+22/09/2017 13:38:30: | ID: 2DAEC3B628A04AD7A8A461127A1C3EC2_.MAI
+22/09/2017 13:38:30: | Recipients: [SMTP:jeferson@gmtextil.com.br]
+22/09/2017 13:38:30: | Sender: [SMTP:munique_giacomelli@adina.com.br]
+22/09/2017 13:38:30: | TimeAcquired: 1498518397
+22/09/2017 13:38:30: | ClientIP: 201.76.221.104
+22/09/2017 13:38:30: | AuthenticationStatus: 0
+22/09/2017 13:38:30: | Account: gmtextil.com.br
+22/09/2017 13:38:30: | Status: UnDelivered
+22/09/2017 13:38:30: | Subject: 
+22/09/2017 13:38:30: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\2DAEC3B628A04AD7A8A461127A1C3EC2_.MAI
+22/09/2017 13:38:30: ----------
+22/09/2017 13:38:30: | ID: 1BE574B4A8B04F51B40C690CFE29E12A_.MAI
+22/09/2017 13:38:30: | Recipients: [SMTP:jeferson@gmtextil.com.br]
+22/09/2017 13:38:30: | Sender: [SMTP:relacionamento@adina.com.br]
+22/09/2017 13:38:30: | TimeAcquired: 1498518181
+22/09/2017 13:38:30: | ClientIP: 201.76.221.104
+22/09/2017 13:38:30: | AuthenticationStatus: 0
+22/09/2017 13:38:30: | Account: gmtextil.com.br
+22/09/2017 13:38:30: | Status: UnDelivered
+22/09/2017 13:38:30: | Subject: Adina - Seu Pedido Foi Confirmado :818414
+22/09/2017 13:38:30: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\1BE574B4A8B04F51B40C690CFE29E12A_.MAI
+22/09/2017 13:38:30: ----------
+22/09/2017 13:38:30: | ID: 5B00E562BECA4815BD3CDD4DDE62CABB_.MAI
+22/09/2017 13:38:30: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 13:38:30: | Sender: [SMTP:callcenter-adina@adina.com.br]
+22/09/2017 13:38:30: | TimeAcquired: 1498518943
+22/09/2017 13:38:30: | ClientIP: 201.76.221.104
+22/09/2017 13:38:30: | AuthenticationStatus: 0
+22/09/2017 13:38:30: | Account: gmtextil.com.br
+22/09/2017 13:38:30: | Status: UnDelivered
+22/09/2017 13:38:30: | Subject: Pedido 818414
+22/09/2017 13:38:30: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\5B00E562BECA4815BD3CDD4DDE62CABB_.MAI
+22/09/2017 13:38:30: ----------
+22/09/2017 13:38:30: | ID: 0A1A76FFFF7B434BB91EB9D8479FFBE3_.MAI
+22/09/2017 13:38:30: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 13:38:30: | Sender: [SMTP:callcenter-adina@adina.com.br]
+22/09/2017 13:38:30: | TimeAcquired: 1498517911
+22/09/2017 13:38:30: | ClientIP: 201.76.221.104
+22/09/2017 13:38:30: | AuthenticationStatus: 0
+22/09/2017 13:38:30: | Account: gmtextil.com.br
+22/09/2017 13:38:30: | Status: UnDelivered
+22/09/2017 13:38:30: | Subject: Pedido 818413
+22/09/2017 13:38:30: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0A1A76FFFF7B434BB91EB9D8479FFBE3_.MAI
+22/09/2017 13:38:30: ----------
+22/09/2017 13:38:30: | ID: 0BAF689DDEF14D09BFEA592411159CE3_.MAI
+22/09/2017 13:38:30: | Recipients: [SMTP:jeferson@gmtextil.com.br]
+22/09/2017 13:38:30: | Sender: [SMTP:kelli_trindade@adina.com.br]
+22/09/2017 13:38:30: | TimeAcquired: 1498517937
+22/09/2017 13:38:30: | ClientIP: 201.76.221.104
+22/09/2017 13:38:30: | AuthenticationStatus: 0
+22/09/2017 13:38:30: | Account: gmtextil.com.br
+22/09/2017 13:38:30: | Status: UnDelivered
+22/09/2017 13:38:30: | Subject: 
+22/09/2017 13:38:30: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0BAF689DDEF14D09BFEA592411159CE3_.MAI
+22/09/2017 13:38:30: ----------
+22/09/2017 13:38:30: # ##########################
+22/09/2017 13:38:30: # IP: 149.202.62.215 / Ocorrencias: 4
+22/09/2017 13:38:30: | ID: 0BEA95FFF3764C2DA2A1F007745C6EC7.MAI
+22/09/2017 13:38:30: | Recipients: [SMTP:ibirama@cooperativalinhadireta.com.br]
+22/09/2017 13:38:30: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 13:38:30: | TimeAcquired: 1498518218
+22/09/2017 13:38:30: | ClientIP: 149.202.62.215
+22/09/2017 13:38:30: | AuthenticationStatus: 0
+22/09/2017 13:38:30: | Account: cooperativalinhadireta.com.br
+22/09/2017 13:38:30: | Status: Undelivered
+22/09/2017 13:38:30: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 13:38:30: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0BEA95FFF3764C2DA2A1F007745C6EC7.MAI
+22/09/2017 13:38:30: ----------
+22/09/2017 13:38:30: | ID: 2CB98CA1D84C45AA95FF3EE2E8D6495B_.MAI
+22/09/2017 13:38:30: | Recipients: [SMTP:vendas@towbar.com.br]
+22/09/2017 13:38:30: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 13:38:30: | TimeAcquired: 1498518395
+22/09/2017 13:38:30: | ClientIP: 149.202.62.215
+22/09/2017 13:38:30: | AuthenticationStatus: 0
+22/09/2017 13:38:30: | Account: towbar.com.br
+22/09/2017 13:38:30: | Status: UnDelivered
+22/09/2017 13:38:30: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 13:38:30: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\2CB98CA1D84C45AA95FF3EE2E8D6495B_.MAI
+22/09/2017 13:38:30: ----------
+22/09/2017 13:38:30: | ID: 4FDE36DFABE24F1882036F948015D1C5_.MAI
+22/09/2017 13:38:30: | Recipients: [SMTP:celia@auraepele.com.br]
+22/09/2017 13:38:30: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 13:38:30: | TimeAcquired: 1498518782
+22/09/2017 13:38:30: | ClientIP: 149.202.62.215
+22/09/2017 13:38:30: | AuthenticationStatus: 0
+22/09/2017 13:38:30: | Account: auraepele.com.br
+22/09/2017 13:38:30: | Status: UnDelivered
+22/09/2017 13:38:30: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 13:38:30: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\4FDE36DFABE24F1882036F948015D1C5_.MAI
+22/09/2017 13:38:30: ----------
+22/09/2017 13:38:30: | ID: 2A85146070914D299F1931B73461F4FB_.MAI
+22/09/2017 13:38:30: | Recipients: [SMTP:towbar@towbar.com.br]
+22/09/2017 13:38:30: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 13:38:30: | TimeAcquired: 1498518386
+22/09/2017 13:38:30: | ClientIP: 149.202.62.215
+22/09/2017 13:38:30: | AuthenticationStatus: 0
+22/09/2017 13:38:30: | Account: towbar.com.br
+22/09/2017 13:38:30: | Status: UnDelivered
+22/09/2017 13:38:30: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 13:38:30: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\2A85146070914D299F1931B73461F4FB_.MAI
+22/09/2017 13:38:30: ----------
+22/09/2017 13:39:03: # ##########################
+22/09/2017 13:39:03: # IP: 201.76.221.104 / Ocorrencias: 8
+22/09/2017 13:39:03: | ID: 4D6661ACC5C6493C85D9B2122B8C467D_.MAI
+22/09/2017 13:39:03: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 13:39:03: | Sender: [SMTP:nfeadina@adina.com.br]
+22/09/2017 13:39:03: | TimeAcquired: 1498518762
+22/09/2017 13:39:03: | ClientIP: 201.76.221.104
+22/09/2017 13:39:03: | AuthenticationStatus: 0
+22/09/2017 13:39:03: | Account: gmtextil.com.br
+22/09/2017 13:39:03: | Status: UnDelivered
+22/09/2017 13:39:03: | Subject: NFe (SC-2) 
+22/09/2017 13:39:03: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\4D6661ACC5C6493C85D9B2122B8C467D_.MAI
+22/09/2017 13:39:03: ----------
+22/09/2017 13:39:03: | ID: 0B4B1D867C3B4D47870C8DEDD9F99624_.MAI
+22/09/2017 13:39:03: | Recipients: [SMTP:adailton@gmtextil.com.br]
+22/09/2017 13:39:03: | Sender: [SMTP:mariana_fernandes@adina.com.br]
+22/09/2017 13:39:03: | TimeAcquired: 1498517925
+22/09/2017 13:39:03: | ClientIP: 201.76.221.104
+22/09/2017 13:39:03: | AuthenticationStatus: 0
+22/09/2017 13:39:03: | Account: gmtextil.com.br
+22/09/2017 13:39:03: | Status: UnDelivered
+22/09/2017 13:39:03: | Subject: 
+22/09/2017 13:39:03: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0B4B1D867C3B4D47870C8DEDD9F99624_.MAI
+22/09/2017 13:39:03: ----------
+22/09/2017 13:39:03: | ID: 5D09F676F2BB48DFA775A3E1C89D0F19_.MAI
+22/09/2017 13:39:03: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 13:39:03: | Sender: [SMTP:nfeadina@adina.com.br]
+22/09/2017 13:39:03: | TimeAcquired: 1498518974
+22/09/2017 13:39:03: | ClientIP: 201.76.221.104
+22/09/2017 13:39:03: | AuthenticationStatus: 0
+22/09/2017 13:39:03: | Account: gmtextil.com.br
+22/09/2017 13:39:03: | Status: UnDelivered
+22/09/2017 13:39:03: | Subject: NFe (SC-2) 
+22/09/2017 13:39:03: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\5D09F676F2BB48DFA775A3E1C89D0F19_.MAI
+22/09/2017 13:39:03: ----------
+22/09/2017 13:39:03: | ID: 2DAEC3B628A04AD7A8A461127A1C3EC2_.MAI
+22/09/2017 13:39:03: | Recipients: [SMTP:jeferson@gmtextil.com.br]
+22/09/2017 13:39:03: | Sender: [SMTP:munique_giacomelli@adina.com.br]
+22/09/2017 13:39:03: | TimeAcquired: 1498518397
+22/09/2017 13:39:03: | ClientIP: 201.76.221.104
+22/09/2017 13:39:03: | AuthenticationStatus: 0
+22/09/2017 13:39:03: | Account: gmtextil.com.br
+22/09/2017 13:39:03: | Status: UnDelivered
+22/09/2017 13:39:03: | Subject: 
+22/09/2017 13:39:03: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\2DAEC3B628A04AD7A8A461127A1C3EC2_.MAI
+22/09/2017 13:39:03: ----------
+22/09/2017 13:39:03: | ID: 1BE574B4A8B04F51B40C690CFE29E12A_.MAI
+22/09/2017 13:39:03: | Recipients: [SMTP:jeferson@gmtextil.com.br]
+22/09/2017 13:39:03: | Sender: [SMTP:relacionamento@adina.com.br]
+22/09/2017 13:39:03: | TimeAcquired: 1498518181
+22/09/2017 13:39:03: | ClientIP: 201.76.221.104
+22/09/2017 13:39:03: | AuthenticationStatus: 0
+22/09/2017 13:39:03: | Account: gmtextil.com.br
+22/09/2017 13:39:03: | Status: UnDelivered
+22/09/2017 13:39:03: | Subject: Adina - Seu Pedido Foi Confirmado :818414
+22/09/2017 13:39:03: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\1BE574B4A8B04F51B40C690CFE29E12A_.MAI
+22/09/2017 13:39:03: ----------
+22/09/2017 13:39:03: | ID: 5B00E562BECA4815BD3CDD4DDE62CABB_.MAI
+22/09/2017 13:39:03: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 13:39:03: | Sender: [SMTP:callcenter-adina@adina.com.br]
+22/09/2017 13:39:03: | TimeAcquired: 1498518943
+22/09/2017 13:39:03: | ClientIP: 201.76.221.104
+22/09/2017 13:39:03: | AuthenticationStatus: 0
+22/09/2017 13:39:03: | Account: gmtextil.com.br
+22/09/2017 13:39:03: | Status: UnDelivered
+22/09/2017 13:39:03: | Subject: Pedido 818414
+22/09/2017 13:39:03: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\5B00E562BECA4815BD3CDD4DDE62CABB_.MAI
+22/09/2017 13:39:03: ----------
+22/09/2017 13:39:03: | ID: 0A1A76FFFF7B434BB91EB9D8479FFBE3_.MAI
+22/09/2017 13:39:03: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 13:39:03: | Sender: [SMTP:callcenter-adina@adina.com.br]
+22/09/2017 13:39:03: | TimeAcquired: 1498517911
+22/09/2017 13:39:03: | ClientIP: 201.76.221.104
+22/09/2017 13:39:03: | AuthenticationStatus: 0
+22/09/2017 13:39:03: | Account: gmtextil.com.br
+22/09/2017 13:39:03: | Status: UnDelivered
+22/09/2017 13:39:03: | Subject: Pedido 818413
+22/09/2017 13:39:03: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0A1A76FFFF7B434BB91EB9D8479FFBE3_.MAI
+22/09/2017 13:39:03: ----------
+22/09/2017 13:39:03: | ID: 0BAF689DDEF14D09BFEA592411159CE3_.MAI
+22/09/2017 13:39:03: | Recipients: [SMTP:jeferson@gmtextil.com.br]
+22/09/2017 13:39:03: | Sender: [SMTP:kelli_trindade@adina.com.br]
+22/09/2017 13:39:03: | TimeAcquired: 1498517937
+22/09/2017 13:39:03: | ClientIP: 201.76.221.104
+22/09/2017 13:39:03: | AuthenticationStatus: 0
+22/09/2017 13:39:03: | Account: gmtextil.com.br
+22/09/2017 13:39:03: | Status: UnDelivered
+22/09/2017 13:39:03: | Subject: 
+22/09/2017 13:39:03: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0BAF689DDEF14D09BFEA592411159CE3_.MAI
+22/09/2017 13:39:03: ----------
+22/09/2017 13:39:03: # ##########################
+22/09/2017 13:39:03: # IP: 149.202.62.215 / Ocorrencias: 4
+22/09/2017 13:39:03: | ID: 0BEA95FFF3764C2DA2A1F007745C6EC7.MAI
+22/09/2017 13:39:03: | Recipients: [SMTP:ibirama@cooperativalinhadireta.com.br]
+22/09/2017 13:39:03: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 13:39:03: | TimeAcquired: 1498518218
+22/09/2017 13:39:03: | ClientIP: 149.202.62.215
+22/09/2017 13:39:03: | AuthenticationStatus: 0
+22/09/2017 13:39:03: | Account: cooperativalinhadireta.com.br
+22/09/2017 13:39:03: | Status: Undelivered
+22/09/2017 13:39:03: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 13:39:03: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0BEA95FFF3764C2DA2A1F007745C6EC7.MAI
+22/09/2017 13:39:03: ----------
+22/09/2017 13:39:03: | ID: 2CB98CA1D84C45AA95FF3EE2E8D6495B_.MAI
+22/09/2017 13:39:03: | Recipients: [SMTP:vendas@towbar.com.br]
+22/09/2017 13:39:03: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 13:39:03: | TimeAcquired: 1498518395
+22/09/2017 13:39:03: | ClientIP: 149.202.62.215
+22/09/2017 13:39:03: | AuthenticationStatus: 0
+22/09/2017 13:39:03: | Account: towbar.com.br
+22/09/2017 13:39:03: | Status: UnDelivered
+22/09/2017 13:39:03: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 13:39:03: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\2CB98CA1D84C45AA95FF3EE2E8D6495B_.MAI
+22/09/2017 13:39:03: ----------
+22/09/2017 13:39:03: | ID: 4FDE36DFABE24F1882036F948015D1C5_.MAI
+22/09/2017 13:39:03: | Recipients: [SMTP:celia@auraepele.com.br]
+22/09/2017 13:39:03: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 13:39:03: | TimeAcquired: 1498518782
+22/09/2017 13:39:03: | ClientIP: 149.202.62.215
+22/09/2017 13:39:03: | AuthenticationStatus: 0
+22/09/2017 13:39:03: | Account: auraepele.com.br
+22/09/2017 13:39:03: | Status: UnDelivered
+22/09/2017 13:39:03: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 13:39:03: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\4FDE36DFABE24F1882036F948015D1C5_.MAI
+22/09/2017 13:39:03: ----------
+22/09/2017 13:39:03: | ID: 2A85146070914D299F1931B73461F4FB_.MAI
+22/09/2017 13:39:03: | Recipients: [SMTP:towbar@towbar.com.br]
+22/09/2017 13:39:03: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 13:39:03: | TimeAcquired: 1498518386
+22/09/2017 13:39:03: | ClientIP: 149.202.62.215
+22/09/2017 13:39:03: | AuthenticationStatus: 0
+22/09/2017 13:39:03: | Account: towbar.com.br
+22/09/2017 13:39:03: | Status: UnDelivered
+22/09/2017 13:39:03: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 13:39:03: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\2A85146070914D299F1931B73461F4FB_.MAI
+22/09/2017 13:39:03: ----------
+22/09/2017 13:39:34: # ##########################
+22/09/2017 13:39:34: # IP: 201.76.221.104 / Ocorrencias: 8
+22/09/2017 13:39:34: | ID: 4D6661ACC5C6493C85D9B2122B8C467D_.MAI
+22/09/2017 13:39:34: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 13:39:34: | Sender: [SMTP:nfeadina@adina.com.br]
+22/09/2017 13:39:34: | TimeAcquired: 1498518762
+22/09/2017 13:39:34: | ClientIP: 201.76.221.104
+22/09/2017 13:39:34: | AuthenticationStatus: 0
+22/09/2017 13:39:34: | Account: gmtextil.com.br
+22/09/2017 13:39:34: | Status: UnDelivered
+22/09/2017 13:39:34: | Subject: NFe (SC-2) 
+22/09/2017 13:39:34: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\4D6661ACC5C6493C85D9B2122B8C467D_.MAI
+22/09/2017 13:39:34: ----------
+22/09/2017 13:39:34: | ID: 0B4B1D867C3B4D47870C8DEDD9F99624_.MAI
+22/09/2017 13:39:34: | Recipients: [SMTP:adailton@gmtextil.com.br]
+22/09/2017 13:39:34: | Sender: [SMTP:mariana_fernandes@adina.com.br]
+22/09/2017 13:39:34: | TimeAcquired: 1498517925
+22/09/2017 13:39:34: | ClientIP: 201.76.221.104
+22/09/2017 13:39:34: | AuthenticationStatus: 0
+22/09/2017 13:39:34: | Account: gmtextil.com.br
+22/09/2017 13:39:34: | Status: UnDelivered
+22/09/2017 13:39:34: | Subject: 
+22/09/2017 13:39:34: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0B4B1D867C3B4D47870C8DEDD9F99624_.MAI
+22/09/2017 13:39:34: ----------
+22/09/2017 13:39:34: | ID: 5D09F676F2BB48DFA775A3E1C89D0F19_.MAI
+22/09/2017 13:39:34: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 13:39:34: | Sender: [SMTP:nfeadina@adina.com.br]
+22/09/2017 13:39:34: | TimeAcquired: 1498518974
+22/09/2017 13:39:34: | ClientIP: 201.76.221.104
+22/09/2017 13:39:34: | AuthenticationStatus: 0
+22/09/2017 13:39:34: | Account: gmtextil.com.br
+22/09/2017 13:39:34: | Status: UnDelivered
+22/09/2017 13:39:34: | Subject: NFe (SC-2) 
+22/09/2017 13:39:34: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\5D09F676F2BB48DFA775A3E1C89D0F19_.MAI
+22/09/2017 13:39:34: ----------
+22/09/2017 13:39:34: | ID: 2DAEC3B628A04AD7A8A461127A1C3EC2_.MAI
+22/09/2017 13:39:34: | Recipients: [SMTP:jeferson@gmtextil.com.br]
+22/09/2017 13:39:34: | Sender: [SMTP:munique_giacomelli@adina.com.br]
+22/09/2017 13:39:34: | TimeAcquired: 1498518397
+22/09/2017 13:39:34: | ClientIP: 201.76.221.104
+22/09/2017 13:39:34: | AuthenticationStatus: 0
+22/09/2017 13:39:34: | Account: gmtextil.com.br
+22/09/2017 13:39:34: | Status: UnDelivered
+22/09/2017 13:39:34: | Subject: 
+22/09/2017 13:39:34: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\2DAEC3B628A04AD7A8A461127A1C3EC2_.MAI
+22/09/2017 13:39:34: ----------
+22/09/2017 13:39:34: | ID: 1BE574B4A8B04F51B40C690CFE29E12A_.MAI
+22/09/2017 13:39:34: | Recipients: [SMTP:jeferson@gmtextil.com.br]
+22/09/2017 13:39:34: | Sender: [SMTP:relacionamento@adina.com.br]
+22/09/2017 13:39:34: | TimeAcquired: 1498518181
+22/09/2017 13:39:34: | ClientIP: 201.76.221.104
+22/09/2017 13:39:34: | AuthenticationStatus: 0
+22/09/2017 13:39:34: | Account: gmtextil.com.br
+22/09/2017 13:39:34: | Status: UnDelivered
+22/09/2017 13:39:34: | Subject: Adina - Seu Pedido Foi Confirmado :818414
+22/09/2017 13:39:34: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\1BE574B4A8B04F51B40C690CFE29E12A_.MAI
+22/09/2017 13:39:34: ----------
+22/09/2017 13:39:34: | ID: 5B00E562BECA4815BD3CDD4DDE62CABB_.MAI
+22/09/2017 13:39:34: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 13:39:34: | Sender: [SMTP:callcenter-adina@adina.com.br]
+22/09/2017 13:39:34: | TimeAcquired: 1498518943
+22/09/2017 13:39:34: | ClientIP: 201.76.221.104
+22/09/2017 13:39:34: | AuthenticationStatus: 0
+22/09/2017 13:39:34: | Account: gmtextil.com.br
+22/09/2017 13:39:34: | Status: UnDelivered
+22/09/2017 13:39:34: | Subject: Pedido 818414
+22/09/2017 13:39:34: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\5B00E562BECA4815BD3CDD4DDE62CABB_.MAI
+22/09/2017 13:39:34: ----------
+22/09/2017 13:39:34: | ID: 0A1A76FFFF7B434BB91EB9D8479FFBE3_.MAI
+22/09/2017 13:39:34: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 13:39:34: | Sender: [SMTP:callcenter-adina@adina.com.br]
+22/09/2017 13:39:34: | TimeAcquired: 1498517911
+22/09/2017 13:39:34: | ClientIP: 201.76.221.104
+22/09/2017 13:39:34: | AuthenticationStatus: 0
+22/09/2017 13:39:34: | Account: gmtextil.com.br
+22/09/2017 13:39:34: | Status: UnDelivered
+22/09/2017 13:39:34: | Subject: Pedido 818413
+22/09/2017 13:39:34: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0A1A76FFFF7B434BB91EB9D8479FFBE3_.MAI
+22/09/2017 13:39:34: ----------
+22/09/2017 13:39:34: | ID: 0BAF689DDEF14D09BFEA592411159CE3_.MAI
+22/09/2017 13:39:34: | Recipients: [SMTP:jeferson@gmtextil.com.br]
+22/09/2017 13:39:34: | Sender: [SMTP:kelli_trindade@adina.com.br]
+22/09/2017 13:39:34: | TimeAcquired: 1498517937
+22/09/2017 13:39:34: | ClientIP: 201.76.221.104
+22/09/2017 13:39:34: | AuthenticationStatus: 0
+22/09/2017 13:39:34: | Account: gmtextil.com.br
+22/09/2017 13:39:34: | Status: UnDelivered
+22/09/2017 13:39:34: | Subject: 
+22/09/2017 13:39:34: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0BAF689DDEF14D09BFEA592411159CE3_.MAI
+22/09/2017 13:39:34: ----------
+22/09/2017 13:39:34: # ##########################
+22/09/2017 13:39:34: # IP: 149.202.62.215 / Ocorrencias: 4
+22/09/2017 13:39:34: | ID: 0BEA95FFF3764C2DA2A1F007745C6EC7.MAI
+22/09/2017 13:39:34: | Recipients: [SMTP:ibirama@cooperativalinhadireta.com.br]
+22/09/2017 13:39:34: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 13:39:34: | TimeAcquired: 1498518218
+22/09/2017 13:39:34: | ClientIP: 149.202.62.215
+22/09/2017 13:39:34: | AuthenticationStatus: 0
+22/09/2017 13:39:34: | Account: cooperativalinhadireta.com.br
+22/09/2017 13:39:34: | Status: Undelivered
+22/09/2017 13:39:34: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 13:39:34: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0BEA95FFF3764C2DA2A1F007745C6EC7.MAI
+22/09/2017 13:39:34: ----------
+22/09/2017 13:39:34: | ID: 2CB98CA1D84C45AA95FF3EE2E8D6495B_.MAI
+22/09/2017 13:39:34: | Recipients: [SMTP:vendas@towbar.com.br]
+22/09/2017 13:39:34: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 13:39:34: | TimeAcquired: 1498518395
+22/09/2017 13:39:34: | ClientIP: 149.202.62.215
+22/09/2017 13:39:34: | AuthenticationStatus: 0
+22/09/2017 13:39:34: | Account: towbar.com.br
+22/09/2017 13:39:34: | Status: UnDelivered
+22/09/2017 13:39:34: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 13:39:34: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\2CB98CA1D84C45AA95FF3EE2E8D6495B_.MAI
+22/09/2017 13:39:34: ----------
+22/09/2017 13:39:34: | ID: 4FDE36DFABE24F1882036F948015D1C5_.MAI
+22/09/2017 13:39:34: | Recipients: [SMTP:celia@auraepele.com.br]
+22/09/2017 13:39:34: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 13:39:34: | TimeAcquired: 1498518782
+22/09/2017 13:39:34: | ClientIP: 149.202.62.215
+22/09/2017 13:39:34: | AuthenticationStatus: 0
+22/09/2017 13:39:34: | Account: auraepele.com.br
+22/09/2017 13:39:34: | Status: UnDelivered
+22/09/2017 13:39:34: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 13:39:34: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\4FDE36DFABE24F1882036F948015D1C5_.MAI
+22/09/2017 13:39:34: ----------
+22/09/2017 13:39:34: | ID: 2A85146070914D299F1931B73461F4FB_.MAI
+22/09/2017 13:39:34: | Recipients: [SMTP:towbar@towbar.com.br]
+22/09/2017 13:39:34: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 13:39:34: | TimeAcquired: 1498518386
+22/09/2017 13:39:34: | ClientIP: 149.202.62.215
+22/09/2017 13:39:34: | AuthenticationStatus: 0
+22/09/2017 13:39:34: | Account: towbar.com.br
+22/09/2017 13:39:34: | Status: UnDelivered
+22/09/2017 13:39:34: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 13:39:34: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\2A85146070914D299F1931B73461F4FB_.MAI
+22/09/2017 13:39:34: ----------
+22/09/2017 13:40:29: # ##########################
+22/09/2017 13:40:29: # IP: 201.76.221.104 / Ocorrencias: 8
+22/09/2017 13:40:29: | ID: 4D6661ACC5C6493C85D9B2122B8C467D_.MAI
+22/09/2017 13:40:29: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 13:40:29: | Sender: [SMTP:nfeadina@adina.com.br]
+22/09/2017 13:40:29: | TimeAcquired: 1498518762
+22/09/2017 13:40:29: | ClientIP: 201.76.221.104
+22/09/2017 13:40:29: | AuthenticationStatus: 0
+22/09/2017 13:40:29: | Account: gmtextil.com.br
+22/09/2017 13:40:29: | Status: UnDelivered
+22/09/2017 13:40:29: | Subject: NFe (SC-2) 
+22/09/2017 13:40:29: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\4D6661ACC5C6493C85D9B2122B8C467D_.MAI
+22/09/2017 13:40:29: ----------
+22/09/2017 13:40:29: | ID: 0B4B1D867C3B4D47870C8DEDD9F99624_.MAI
+22/09/2017 13:40:29: | Recipients: [SMTP:adailton@gmtextil.com.br]
+22/09/2017 13:40:29: | Sender: [SMTP:mariana_fernandes@adina.com.br]
+22/09/2017 13:40:29: | TimeAcquired: 1498517925
+22/09/2017 13:40:29: | ClientIP: 201.76.221.104
+22/09/2017 13:40:29: | AuthenticationStatus: 0
+22/09/2017 13:40:29: | Account: gmtextil.com.br
+22/09/2017 13:40:29: | Status: UnDelivered
+22/09/2017 13:40:29: | Subject: 
+22/09/2017 13:40:29: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0B4B1D867C3B4D47870C8DEDD9F99624_.MAI
+22/09/2017 13:40:29: ----------
+22/09/2017 13:40:29: | ID: 5D09F676F2BB48DFA775A3E1C89D0F19_.MAI
+22/09/2017 13:40:29: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 13:40:29: | Sender: [SMTP:nfeadina@adina.com.br]
+22/09/2017 13:40:29: | TimeAcquired: 1498518974
+22/09/2017 13:40:29: | ClientIP: 201.76.221.104
+22/09/2017 13:40:29: | AuthenticationStatus: 0
+22/09/2017 13:40:29: | Account: gmtextil.com.br
+22/09/2017 13:40:29: | Status: UnDelivered
+22/09/2017 13:40:29: | Subject: NFe (SC-2) 
+22/09/2017 13:40:29: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\5D09F676F2BB48DFA775A3E1C89D0F19_.MAI
+22/09/2017 13:40:29: ----------
+22/09/2017 13:40:29: | ID: 2DAEC3B628A04AD7A8A461127A1C3EC2_.MAI
+22/09/2017 13:40:29: | Recipients: [SMTP:jeferson@gmtextil.com.br]
+22/09/2017 13:40:29: | Sender: [SMTP:munique_giacomelli@adina.com.br]
+22/09/2017 13:40:29: | TimeAcquired: 1498518397
+22/09/2017 13:40:29: | ClientIP: 201.76.221.104
+22/09/2017 13:40:29: | AuthenticationStatus: 0
+22/09/2017 13:40:29: | Account: gmtextil.com.br
+22/09/2017 13:40:29: | Status: UnDelivered
+22/09/2017 13:40:29: | Subject: 
+22/09/2017 13:40:29: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\2DAEC3B628A04AD7A8A461127A1C3EC2_.MAI
+22/09/2017 13:40:29: ----------
+22/09/2017 13:40:29: | ID: 1BE574B4A8B04F51B40C690CFE29E12A_.MAI
+22/09/2017 13:40:29: | Recipients: [SMTP:jeferson@gmtextil.com.br]
+22/09/2017 13:40:29: | Sender: [SMTP:relacionamento@adina.com.br]
+22/09/2017 13:40:29: | TimeAcquired: 1498518181
+22/09/2017 13:40:29: | ClientIP: 201.76.221.104
+22/09/2017 13:40:29: | AuthenticationStatus: 0
+22/09/2017 13:40:29: | Account: gmtextil.com.br
+22/09/2017 13:40:29: | Status: UnDelivered
+22/09/2017 13:40:29: | Subject: Adina - Seu Pedido Foi Confirmado :818414
+22/09/2017 13:40:29: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\1BE574B4A8B04F51B40C690CFE29E12A_.MAI
+22/09/2017 13:40:29: ----------
+22/09/2017 13:40:29: | ID: 5B00E562BECA4815BD3CDD4DDE62CABB_.MAI
+22/09/2017 13:40:29: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 13:40:29: | Sender: [SMTP:callcenter-adina@adina.com.br]
+22/09/2017 13:40:29: | TimeAcquired: 1498518943
+22/09/2017 13:40:29: | ClientIP: 201.76.221.104
+22/09/2017 13:40:29: | AuthenticationStatus: 0
+22/09/2017 13:40:29: | Account: gmtextil.com.br
+22/09/2017 13:40:29: | Status: UnDelivered
+22/09/2017 13:40:29: | Subject: Pedido 818414
+22/09/2017 13:40:29: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\5B00E562BECA4815BD3CDD4DDE62CABB_.MAI
+22/09/2017 13:40:29: ----------
+22/09/2017 13:40:29: | ID: 0A1A76FFFF7B434BB91EB9D8479FFBE3_.MAI
+22/09/2017 13:40:29: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 13:40:29: | Sender: [SMTP:callcenter-adina@adina.com.br]
+22/09/2017 13:40:29: | TimeAcquired: 1498517911
+22/09/2017 13:40:29: | ClientIP: 201.76.221.104
+22/09/2017 13:40:29: | AuthenticationStatus: 0
+22/09/2017 13:40:29: | Account: gmtextil.com.br
+22/09/2017 13:40:29: | Status: UnDelivered
+22/09/2017 13:40:29: | Subject: Pedido 818413
+22/09/2017 13:40:29: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0A1A76FFFF7B434BB91EB9D8479FFBE3_.MAI
+22/09/2017 13:40:29: ----------
+22/09/2017 13:40:29: | ID: 0BAF689DDEF14D09BFEA592411159CE3_.MAI
+22/09/2017 13:40:29: | Recipients: [SMTP:jeferson@gmtextil.com.br]
+22/09/2017 13:40:29: | Sender: [SMTP:kelli_trindade@adina.com.br]
+22/09/2017 13:40:29: | TimeAcquired: 1498517937
+22/09/2017 13:40:29: | ClientIP: 201.76.221.104
+22/09/2017 13:40:29: | AuthenticationStatus: 0
+22/09/2017 13:40:29: | Account: gmtextil.com.br
+22/09/2017 13:40:29: | Status: UnDelivered
+22/09/2017 13:40:29: | Subject: 
+22/09/2017 13:40:29: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0BAF689DDEF14D09BFEA592411159CE3_.MAI
+22/09/2017 13:40:29: ----------
+22/09/2017 13:40:29: # ##########################
+22/09/2017 13:40:29: # IP: 149.202.62.215 / Ocorrencias: 4
+22/09/2017 13:40:29: | ID: 0BEA95FFF3764C2DA2A1F007745C6EC7.MAI
+22/09/2017 13:40:29: | Recipients: [SMTP:ibirama@cooperativalinhadireta.com.br]
+22/09/2017 13:40:29: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 13:40:29: | TimeAcquired: 1498518218
+22/09/2017 13:40:29: | ClientIP: 149.202.62.215
+22/09/2017 13:40:29: | AuthenticationStatus: 0
+22/09/2017 13:40:29: | Account: cooperativalinhadireta.com.br
+22/09/2017 13:40:29: | Status: Undelivered
+22/09/2017 13:40:29: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 13:40:29: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0BEA95FFF3764C2DA2A1F007745C6EC7.MAI
+22/09/2017 13:40:29: ----------
+22/09/2017 13:40:29: | ID: 2CB98CA1D84C45AA95FF3EE2E8D6495B_.MAI
+22/09/2017 13:40:29: | Recipients: [SMTP:vendas@towbar.com.br]
+22/09/2017 13:40:29: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 13:40:29: | TimeAcquired: 1498518395
+22/09/2017 13:40:29: | ClientIP: 149.202.62.215
+22/09/2017 13:40:29: | AuthenticationStatus: 0
+22/09/2017 13:40:29: | Account: towbar.com.br
+22/09/2017 13:40:29: | Status: UnDelivered
+22/09/2017 13:40:29: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 13:40:29: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\2CB98CA1D84C45AA95FF3EE2E8D6495B_.MAI
+22/09/2017 13:40:29: ----------
+22/09/2017 13:40:29: | ID: 4FDE36DFABE24F1882036F948015D1C5_.MAI
+22/09/2017 13:40:29: | Recipients: [SMTP:celia@auraepele.com.br]
+22/09/2017 13:40:29: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 13:40:29: | TimeAcquired: 1498518782
+22/09/2017 13:40:29: | ClientIP: 149.202.62.215
+22/09/2017 13:40:29: | AuthenticationStatus: 0
+22/09/2017 13:40:29: | Account: auraepele.com.br
+22/09/2017 13:40:29: | Status: UnDelivered
+22/09/2017 13:40:29: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 13:40:29: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\4FDE36DFABE24F1882036F948015D1C5_.MAI
+22/09/2017 13:40:29: ----------
+22/09/2017 13:40:29: | ID: 2A85146070914D299F1931B73461F4FB_.MAI
+22/09/2017 13:40:29: | Recipients: [SMTP:towbar@towbar.com.br]
+22/09/2017 13:40:29: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 13:40:29: | TimeAcquired: 1498518386
+22/09/2017 13:40:29: | ClientIP: 149.202.62.215
+22/09/2017 13:40:29: | AuthenticationStatus: 0
+22/09/2017 13:40:29: | Account: towbar.com.br
+22/09/2017 13:40:29: | Status: UnDelivered
+22/09/2017 13:40:29: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 13:40:29: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\2A85146070914D299F1931B73461F4FB_.MAI
+22/09/2017 13:40:29: ----------
+22/09/2017 13:42:21: # ##########################
+22/09/2017 13:42:21: # IP: 201.76.221.104 / Ocorrencias: 8
+22/09/2017 13:42:21: | ID: 4D6661ACC5C6493C85D9B2122B8C467D_.MAI
+22/09/2017 13:42:21: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 13:42:21: | Sender: [SMTP:nfeadina@adina.com.br]
+22/09/2017 13:42:21: | TimeAcquired: 1498518762
+22/09/2017 13:42:21: | ClientIP: 201.76.221.104
+22/09/2017 13:42:21: | AuthenticationStatus: 0
+22/09/2017 13:42:21: | Account: gmtextil.com.br
+22/09/2017 13:42:21: | Status: UnDelivered
+22/09/2017 13:42:21: | Subject: NFe (SC-2) 
+22/09/2017 13:42:21: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\4D6661ACC5C6493C85D9B2122B8C467D_.MAI
+22/09/2017 13:42:21: ----------
+22/09/2017 13:42:21: | ID: 0B4B1D867C3B4D47870C8DEDD9F99624_.MAI
+22/09/2017 13:42:21: | Recipients: [SMTP:adailton@gmtextil.com.br]
+22/09/2017 13:42:21: | Sender: [SMTP:mariana_fernandes@adina.com.br]
+22/09/2017 13:42:21: | TimeAcquired: 1498517925
+22/09/2017 13:42:21: | ClientIP: 201.76.221.104
+22/09/2017 13:42:21: | AuthenticationStatus: 0
+22/09/2017 13:42:21: | Account: gmtextil.com.br
+22/09/2017 13:42:21: | Status: UnDelivered
+22/09/2017 13:42:21: | Subject: 
+22/09/2017 13:42:21: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0B4B1D867C3B4D47870C8DEDD9F99624_.MAI
+22/09/2017 13:42:21: ----------
+22/09/2017 13:42:21: | ID: 5D09F676F2BB48DFA775A3E1C89D0F19_.MAI
+22/09/2017 13:42:21: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 13:42:21: | Sender: [SMTP:nfeadina@adina.com.br]
+22/09/2017 13:42:21: | TimeAcquired: 1498518974
+22/09/2017 13:42:21: | ClientIP: 201.76.221.104
+22/09/2017 13:42:21: | AuthenticationStatus: 0
+22/09/2017 13:42:21: | Account: gmtextil.com.br
+22/09/2017 13:42:21: | Status: UnDelivered
+22/09/2017 13:42:21: | Subject: NFe (SC-2) 
+22/09/2017 13:42:21: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\5D09F676F2BB48DFA775A3E1C89D0F19_.MAI
+22/09/2017 13:42:21: ----------
+22/09/2017 13:42:21: | ID: 2DAEC3B628A04AD7A8A461127A1C3EC2_.MAI
+22/09/2017 13:42:21: | Recipients: [SMTP:jeferson@gmtextil.com.br]
+22/09/2017 13:42:21: | Sender: [SMTP:munique_giacomelli@adina.com.br]
+22/09/2017 13:42:21: | TimeAcquired: 1498518397
+22/09/2017 13:42:21: | ClientIP: 201.76.221.104
+22/09/2017 13:42:21: | AuthenticationStatus: 0
+22/09/2017 13:42:21: | Account: gmtextil.com.br
+22/09/2017 13:42:21: | Status: UnDelivered
+22/09/2017 13:42:21: | Subject: 
+22/09/2017 13:42:21: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\2DAEC3B628A04AD7A8A461127A1C3EC2_.MAI
+22/09/2017 13:42:21: ----------
+22/09/2017 13:42:21: | ID: 1BE574B4A8B04F51B40C690CFE29E12A_.MAI
+22/09/2017 13:42:21: | Recipients: [SMTP:jeferson@gmtextil.com.br]
+22/09/2017 13:42:21: | Sender: [SMTP:relacionamento@adina.com.br]
+22/09/2017 13:42:21: | TimeAcquired: 1498518181
+22/09/2017 13:42:21: | ClientIP: 201.76.221.104
+22/09/2017 13:42:21: | AuthenticationStatus: 0
+22/09/2017 13:42:21: | Account: gmtextil.com.br
+22/09/2017 13:42:21: | Status: UnDelivered
+22/09/2017 13:42:21: | Subject: Adina - Seu Pedido Foi Confirmado :818414
+22/09/2017 13:42:21: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\1BE574B4A8B04F51B40C690CFE29E12A_.MAI
+22/09/2017 13:42:21: ----------
+22/09/2017 13:42:21: | ID: 5B00E562BECA4815BD3CDD4DDE62CABB_.MAI
+22/09/2017 13:42:21: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 13:42:21: | Sender: [SMTP:callcenter-adina@adina.com.br]
+22/09/2017 13:42:21: | TimeAcquired: 1498518943
+22/09/2017 13:42:21: | ClientIP: 201.76.221.104
+22/09/2017 13:42:21: | AuthenticationStatus: 0
+22/09/2017 13:42:21: | Account: gmtextil.com.br
+22/09/2017 13:42:21: | Status: UnDelivered
+22/09/2017 13:42:21: | Subject: Pedido 818414
+22/09/2017 13:42:21: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\5B00E562BECA4815BD3CDD4DDE62CABB_.MAI
+22/09/2017 13:42:21: ----------
+22/09/2017 13:42:21: | ID: 0A1A76FFFF7B434BB91EB9D8479FFBE3_.MAI
+22/09/2017 13:42:21: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 13:42:21: | Sender: [SMTP:callcenter-adina@adina.com.br]
+22/09/2017 13:42:21: | TimeAcquired: 1498517911
+22/09/2017 13:42:21: | ClientIP: 201.76.221.104
+22/09/2017 13:42:21: | AuthenticationStatus: 0
+22/09/2017 13:42:21: | Account: gmtextil.com.br
+22/09/2017 13:42:21: | Status: UnDelivered
+22/09/2017 13:42:21: | Subject: Pedido 818413
+22/09/2017 13:42:21: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0A1A76FFFF7B434BB91EB9D8479FFBE3_.MAI
+22/09/2017 13:42:21: ----------
+22/09/2017 13:42:21: | ID: 0BAF689DDEF14D09BFEA592411159CE3_.MAI
+22/09/2017 13:42:21: | Recipients: [SMTP:jeferson@gmtextil.com.br]
+22/09/2017 13:42:21: | Sender: [SMTP:kelli_trindade@adina.com.br]
+22/09/2017 13:42:21: | TimeAcquired: 1498517937
+22/09/2017 13:42:21: | ClientIP: 201.76.221.104
+22/09/2017 13:42:21: | AuthenticationStatus: 0
+22/09/2017 13:42:21: | Account: gmtextil.com.br
+22/09/2017 13:42:21: | Status: UnDelivered
+22/09/2017 13:42:21: | Subject: 
+22/09/2017 13:42:21: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0BAF689DDEF14D09BFEA592411159CE3_.MAI
+22/09/2017 13:42:21: ----------
+22/09/2017 13:42:21: # ##########################
+22/09/2017 13:42:21: # IP: 149.202.62.215 / Ocorrencias: 4
+22/09/2017 13:42:21: | ID: 0BEA95FFF3764C2DA2A1F007745C6EC7.MAI
+22/09/2017 13:42:21: | Recipients: [SMTP:ibirama@cooperativalinhadireta.com.br]
+22/09/2017 13:42:21: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 13:42:21: | TimeAcquired: 1498518218
+22/09/2017 13:42:21: | ClientIP: 149.202.62.215
+22/09/2017 13:42:21: | AuthenticationStatus: 0
+22/09/2017 13:42:21: | Account: cooperativalinhadireta.com.br
+22/09/2017 13:42:21: | Status: Undelivered
+22/09/2017 13:42:21: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 13:42:21: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0BEA95FFF3764C2DA2A1F007745C6EC7.MAI
+22/09/2017 13:42:21: ----------
+22/09/2017 13:42:21: | ID: 2CB98CA1D84C45AA95FF3EE2E8D6495B_.MAI
+22/09/2017 13:42:21: | Recipients: [SMTP:vendas@towbar.com.br]
+22/09/2017 13:42:21: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 13:42:21: | TimeAcquired: 1498518395
+22/09/2017 13:42:21: | ClientIP: 149.202.62.215
+22/09/2017 13:42:21: | AuthenticationStatus: 0
+22/09/2017 13:42:21: | Account: towbar.com.br
+22/09/2017 13:42:21: | Status: UnDelivered
+22/09/2017 13:42:21: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 13:42:21: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\2CB98CA1D84C45AA95FF3EE2E8D6495B_.MAI
+22/09/2017 13:42:21: ----------
+22/09/2017 13:42:21: | ID: 4FDE36DFABE24F1882036F948015D1C5_.MAI
+22/09/2017 13:42:21: | Recipients: [SMTP:celia@auraepele.com.br]
+22/09/2017 13:42:21: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 13:42:21: | TimeAcquired: 1498518782
+22/09/2017 13:42:21: | ClientIP: 149.202.62.215
+22/09/2017 13:42:21: | AuthenticationStatus: 0
+22/09/2017 13:42:21: | Account: auraepele.com.br
+22/09/2017 13:42:21: | Status: UnDelivered
+22/09/2017 13:42:21: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 13:42:21: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\4FDE36DFABE24F1882036F948015D1C5_.MAI
+22/09/2017 13:42:21: ----------
+22/09/2017 13:42:21: | ID: 2A85146070914D299F1931B73461F4FB_.MAI
+22/09/2017 13:42:21: | Recipients: [SMTP:towbar@towbar.com.br]
+22/09/2017 13:42:21: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 13:42:21: | TimeAcquired: 1498518386
+22/09/2017 13:42:21: | ClientIP: 149.202.62.215
+22/09/2017 13:42:21: | AuthenticationStatus: 0
+22/09/2017 13:42:21: | Account: towbar.com.br
+22/09/2017 13:42:21: | Status: UnDelivered
+22/09/2017 13:42:21: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 13:42:21: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\2A85146070914D299F1931B73461F4FB_.MAI
+22/09/2017 13:42:21: ----------
+22/09/2017 15:18:46: # ##########################
+22/09/2017 15:18:46: # IP: 201.76.221.104 / Ocorrencias: 8
+22/09/2017 15:18:46: | ID: 4D6661ACC5C6493C85D9B2122B8C467D_.MAI
+22/09/2017 15:18:46: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 15:18:46: | Sender: [SMTP:nfeadina@adina.com.br]
+22/09/2017 15:18:46: | TimeAcquired: 1498518762
+22/09/2017 15:18:46: | ClientIP: 201.76.221.104
+22/09/2017 15:18:46: | AuthenticationStatus: 0
+22/09/2017 15:18:46: | Account: gmtextil.com.br
+22/09/2017 15:18:46: | Status: UnDelivered
+22/09/2017 15:18:46: | Subject: NFe (SC-2) 
+22/09/2017 15:18:46: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\4D6661ACC5C6493C85D9B2122B8C467D_.MAI
+22/09/2017 15:18:46: ----------
+22/09/2017 15:18:46: | ID: 0B4B1D867C3B4D47870C8DEDD9F99624_.MAI
+22/09/2017 15:18:46: | Recipients: [SMTP:adailton@gmtextil.com.br]
+22/09/2017 15:18:46: | Sender: [SMTP:mariana_fernandes@adina.com.br]
+22/09/2017 15:18:46: | TimeAcquired: 1498517925
+22/09/2017 15:18:46: | ClientIP: 201.76.221.104
+22/09/2017 15:18:46: | AuthenticationStatus: 0
+22/09/2017 15:18:46: | Account: gmtextil.com.br
+22/09/2017 15:18:46: | Status: UnDelivered
+22/09/2017 15:18:46: | Subject: 
+22/09/2017 15:18:46: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0B4B1D867C3B4D47870C8DEDD9F99624_.MAI
+22/09/2017 15:18:46: ----------
+22/09/2017 15:18:46: | ID: 5D09F676F2BB48DFA775A3E1C89D0F19_.MAI
+22/09/2017 15:18:46: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 15:18:46: | Sender: [SMTP:nfeadina@adina.com.br]
+22/09/2017 15:18:46: | TimeAcquired: 1498518974
+22/09/2017 15:18:46: | ClientIP: 201.76.221.104
+22/09/2017 15:18:46: | AuthenticationStatus: 0
+22/09/2017 15:18:46: | Account: gmtextil.com.br
+22/09/2017 15:18:46: | Status: UnDelivered
+22/09/2017 15:18:46: | Subject: NFe (SC-2) 
+22/09/2017 15:18:46: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\5D09F676F2BB48DFA775A3E1C89D0F19_.MAI
+22/09/2017 15:18:46: ----------
+22/09/2017 15:18:46: | ID: 2DAEC3B628A04AD7A8A461127A1C3EC2_.MAI
+22/09/2017 15:18:46: | Recipients: [SMTP:jeferson@gmtextil.com.br]
+22/09/2017 15:18:46: | Sender: [SMTP:munique_giacomelli@adina.com.br]
+22/09/2017 15:18:46: | TimeAcquired: 1498518397
+22/09/2017 15:18:46: | ClientIP: 201.76.221.104
+22/09/2017 15:18:46: | AuthenticationStatus: 0
+22/09/2017 15:18:46: | Account: gmtextil.com.br
+22/09/2017 15:18:46: | Status: UnDelivered
+22/09/2017 15:18:46: | Subject: 
+22/09/2017 15:18:46: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\2DAEC3B628A04AD7A8A461127A1C3EC2_.MAI
+22/09/2017 15:18:46: ----------
+22/09/2017 15:18:46: | ID: 1BE574B4A8B04F51B40C690CFE29E12A_.MAI
+22/09/2017 15:18:46: | Recipients: [SMTP:jeferson@gmtextil.com.br]
+22/09/2017 15:18:46: | Sender: [SMTP:relacionamento@adina.com.br]
+22/09/2017 15:18:46: | TimeAcquired: 1498518181
+22/09/2017 15:18:46: | ClientIP: 201.76.221.104
+22/09/2017 15:18:46: | AuthenticationStatus: 0
+22/09/2017 15:18:46: | Account: gmtextil.com.br
+22/09/2017 15:18:46: | Status: UnDelivered
+22/09/2017 15:18:46: | Subject: Adina - Seu Pedido Foi Confirmado :818414
+22/09/2017 15:18:46: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\1BE574B4A8B04F51B40C690CFE29E12A_.MAI
+22/09/2017 15:18:46: ----------
+22/09/2017 15:18:46: | ID: 5B00E562BECA4815BD3CDD4DDE62CABB_.MAI
+22/09/2017 15:18:46: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 15:18:46: | Sender: [SMTP:callcenter-adina@adina.com.br]
+22/09/2017 15:18:46: | TimeAcquired: 1498518943
+22/09/2017 15:18:46: | ClientIP: 201.76.221.104
+22/09/2017 15:18:46: | AuthenticationStatus: 0
+22/09/2017 15:18:46: | Account: gmtextil.com.br
+22/09/2017 15:18:46: | Status: UnDelivered
+22/09/2017 15:18:46: | Subject: Pedido 818414
+22/09/2017 15:18:46: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\5B00E562BECA4815BD3CDD4DDE62CABB_.MAI
+22/09/2017 15:18:46: ----------
+22/09/2017 15:18:46: | ID: 0A1A76FFFF7B434BB91EB9D8479FFBE3_.MAI
+22/09/2017 15:18:46: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 15:18:46: | Sender: [SMTP:callcenter-adina@adina.com.br]
+22/09/2017 15:18:46: | TimeAcquired: 1498517911
+22/09/2017 15:18:46: | ClientIP: 201.76.221.104
+22/09/2017 15:18:46: | AuthenticationStatus: 0
+22/09/2017 15:18:46: | Account: gmtextil.com.br
+22/09/2017 15:18:46: | Status: UnDelivered
+22/09/2017 15:18:46: | Subject: Pedido 818413
+22/09/2017 15:18:46: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0A1A76FFFF7B434BB91EB9D8479FFBE3_.MAI
+22/09/2017 15:18:46: ----------
+22/09/2017 15:18:46: | ID: 0BAF689DDEF14D09BFEA592411159CE3_.MAI
+22/09/2017 15:18:46: | Recipients: [SMTP:jeferson@gmtextil.com.br]
+22/09/2017 15:18:46: | Sender: [SMTP:kelli_trindade@adina.com.br]
+22/09/2017 15:18:46: | TimeAcquired: 1498517937
+22/09/2017 15:18:46: | ClientIP: 201.76.221.104
+22/09/2017 15:18:46: | AuthenticationStatus: 0
+22/09/2017 15:18:46: | Account: gmtextil.com.br
+22/09/2017 15:18:46: | Status: UnDelivered
+22/09/2017 15:18:46: | Subject: 
+22/09/2017 15:18:46: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0BAF689DDEF14D09BFEA592411159CE3_.MAI
+22/09/2017 15:18:46: ----------
+22/09/2017 15:18:46: # ##########################
+22/09/2017 15:18:46: # IP: 149.202.62.215 / Ocorrencias: 4
+22/09/2017 15:18:46: | ID: 0BEA95FFF3764C2DA2A1F007745C6EC7.MAI
+22/09/2017 15:18:46: | Recipients: [SMTP:ibirama@cooperativalinhadireta.com.br]
+22/09/2017 15:18:46: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 15:18:46: | TimeAcquired: 1498518218
+22/09/2017 15:18:46: | ClientIP: 149.202.62.215
+22/09/2017 15:18:46: | AuthenticationStatus: 0
+22/09/2017 15:18:46: | Account: cooperativalinhadireta.com.br
+22/09/2017 15:18:46: | Status: Undelivered
+22/09/2017 15:18:46: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 15:18:46: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0BEA95FFF3764C2DA2A1F007745C6EC7.MAI
+22/09/2017 15:18:46: ----------
+22/09/2017 15:18:46: | ID: 2CB98CA1D84C45AA95FF3EE2E8D6495B_.MAI
+22/09/2017 15:18:46: | Recipients: [SMTP:vendas@towbar.com.br]
+22/09/2017 15:18:46: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 15:18:46: | TimeAcquired: 1498518395
+22/09/2017 15:18:46: | ClientIP: 149.202.62.215
+22/09/2017 15:18:46: | AuthenticationStatus: 0
+22/09/2017 15:18:46: | Account: towbar.com.br
+22/09/2017 15:18:46: | Status: UnDelivered
+22/09/2017 15:18:46: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 15:18:46: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\2CB98CA1D84C45AA95FF3EE2E8D6495B_.MAI
+22/09/2017 15:18:46: ----------
+22/09/2017 15:18:46: | ID: 4FDE36DFABE24F1882036F948015D1C5_.MAI
+22/09/2017 15:18:46: | Recipients: [SMTP:celia@auraepele.com.br]
+22/09/2017 15:18:46: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 15:18:46: | TimeAcquired: 1498518782
+22/09/2017 15:18:46: | ClientIP: 149.202.62.215
+22/09/2017 15:18:46: | AuthenticationStatus: 0
+22/09/2017 15:18:46: | Account: auraepele.com.br
+22/09/2017 15:18:46: | Status: UnDelivered
+22/09/2017 15:18:46: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 15:18:46: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\4FDE36DFABE24F1882036F948015D1C5_.MAI
+22/09/2017 15:18:46: ----------
+22/09/2017 15:18:46: | ID: 2A85146070914D299F1931B73461F4FB_.MAI
+22/09/2017 15:18:46: | Recipients: [SMTP:towbar@towbar.com.br]
+22/09/2017 15:18:46: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 15:18:46: | TimeAcquired: 1498518386
+22/09/2017 15:18:46: | ClientIP: 149.202.62.215
+22/09/2017 15:18:46: | AuthenticationStatus: 0
+22/09/2017 15:18:46: | Account: towbar.com.br
+22/09/2017 15:18:46: | Status: UnDelivered
+22/09/2017 15:18:46: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 15:18:46: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\2A85146070914D299F1931B73461F4FB_.MAI
+22/09/2017 15:18:46: ----------
+22/09/2017 15:19:55: # ##########################
+22/09/2017 15:19:55: # IP: 201.76.221.104 / Ocorrencias: 8
+22/09/2017 15:19:55: | ID: 4D6661ACC5C6493C85D9B2122B8C467D_.MAI
+22/09/2017 15:19:55: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 15:19:55: | Sender: [SMTP:nfeadina@adina.com.br]
+22/09/2017 15:19:55: | TimeAcquired: 1498518762
+22/09/2017 15:19:55: | ClientIP: 201.76.221.104
+22/09/2017 15:19:55: | AuthenticationStatus: 0
+22/09/2017 15:19:55: | Account: gmtextil.com.br
+22/09/2017 15:19:55: | Status: UnDelivered
+22/09/2017 15:19:55: | Subject: NFe (SC-2) 
+22/09/2017 15:19:55: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\4D6661ACC5C6493C85D9B2122B8C467D_.MAI
+22/09/2017 15:19:55: ----------
+22/09/2017 15:19:55: | ID: 0B4B1D867C3B4D47870C8DEDD9F99624_.MAI
+22/09/2017 15:19:55: | Recipients: [SMTP:adailton@gmtextil.com.br]
+22/09/2017 15:19:55: | Sender: [SMTP:mariana_fernandes@adina.com.br]
+22/09/2017 15:19:55: | TimeAcquired: 1498517925
+22/09/2017 15:19:55: | ClientIP: 201.76.221.104
+22/09/2017 15:19:55: | AuthenticationStatus: 0
+22/09/2017 15:19:55: | Account: gmtextil.com.br
+22/09/2017 15:19:55: | Status: UnDelivered
+22/09/2017 15:19:55: | Subject: 
+22/09/2017 15:19:55: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0B4B1D867C3B4D47870C8DEDD9F99624_.MAI
+22/09/2017 15:19:55: ----------
+22/09/2017 15:19:55: | ID: 5D09F676F2BB48DFA775A3E1C89D0F19_.MAI
+22/09/2017 15:19:55: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 15:19:55: | Sender: [SMTP:nfeadina@adina.com.br]
+22/09/2017 15:19:55: | TimeAcquired: 1498518974
+22/09/2017 15:19:55: | ClientIP: 201.76.221.104
+22/09/2017 15:19:55: | AuthenticationStatus: 0
+22/09/2017 15:19:55: | Account: gmtextil.com.br
+22/09/2017 15:19:55: | Status: UnDelivered
+22/09/2017 15:19:55: | Subject: NFe (SC-2) 
+22/09/2017 15:19:55: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\5D09F676F2BB48DFA775A3E1C89D0F19_.MAI
+22/09/2017 15:19:55: ----------
+22/09/2017 15:19:55: | ID: 2DAEC3B628A04AD7A8A461127A1C3EC2_.MAI
+22/09/2017 15:19:55: | Recipients: [SMTP:jeferson@gmtextil.com.br]
+22/09/2017 15:19:55: | Sender: [SMTP:munique_giacomelli@adina.com.br]
+22/09/2017 15:19:55: | TimeAcquired: 1498518397
+22/09/2017 15:19:55: | ClientIP: 201.76.221.104
+22/09/2017 15:19:55: | AuthenticationStatus: 0
+22/09/2017 15:19:55: | Account: gmtextil.com.br
+22/09/2017 15:19:55: | Status: UnDelivered
+22/09/2017 15:19:55: | Subject: 
+22/09/2017 15:19:55: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\2DAEC3B628A04AD7A8A461127A1C3EC2_.MAI
+22/09/2017 15:19:55: ----------
+22/09/2017 15:19:55: | ID: 1BE574B4A8B04F51B40C690CFE29E12A_.MAI
+22/09/2017 15:19:55: | Recipients: [SMTP:jeferson@gmtextil.com.br]
+22/09/2017 15:19:55: | Sender: [SMTP:relacionamento@adina.com.br]
+22/09/2017 15:19:55: | TimeAcquired: 1498518181
+22/09/2017 15:19:55: | ClientIP: 201.76.221.104
+22/09/2017 15:19:55: | AuthenticationStatus: 0
+22/09/2017 15:19:55: | Account: gmtextil.com.br
+22/09/2017 15:19:55: | Status: UnDelivered
+22/09/2017 15:19:55: | Subject: Adina - Seu Pedido Foi Confirmado :818414
+22/09/2017 15:19:55: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\1BE574B4A8B04F51B40C690CFE29E12A_.MAI
+22/09/2017 15:19:55: ----------
+22/09/2017 15:19:55: | ID: 5B00E562BECA4815BD3CDD4DDE62CABB_.MAI
+22/09/2017 15:19:55: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 15:19:55: | Sender: [SMTP:callcenter-adina@adina.com.br]
+22/09/2017 15:19:55: | TimeAcquired: 1498518943
+22/09/2017 15:19:55: | ClientIP: 201.76.221.104
+22/09/2017 15:19:55: | AuthenticationStatus: 0
+22/09/2017 15:19:55: | Account: gmtextil.com.br
+22/09/2017 15:19:55: | Status: UnDelivered
+22/09/2017 15:19:55: | Subject: Pedido 818414
+22/09/2017 15:19:55: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\5B00E562BECA4815BD3CDD4DDE62CABB_.MAI
+22/09/2017 15:19:55: ----------
+22/09/2017 15:19:55: | ID: 0A1A76FFFF7B434BB91EB9D8479FFBE3_.MAI
+22/09/2017 15:19:55: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 15:19:55: | Sender: [SMTP:callcenter-adina@adina.com.br]
+22/09/2017 15:19:55: | TimeAcquired: 1498517911
+22/09/2017 15:19:55: | ClientIP: 201.76.221.104
+22/09/2017 15:19:55: | AuthenticationStatus: 0
+22/09/2017 15:19:55: | Account: gmtextil.com.br
+22/09/2017 15:19:55: | Status: UnDelivered
+22/09/2017 15:19:55: | Subject: Pedido 818413
+22/09/2017 15:19:55: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0A1A76FFFF7B434BB91EB9D8479FFBE3_.MAI
+22/09/2017 15:19:55: ----------
+22/09/2017 15:19:55: | ID: 0BAF689DDEF14D09BFEA592411159CE3_.MAI
+22/09/2017 15:19:55: | Recipients: [SMTP:jeferson@gmtextil.com.br]
+22/09/2017 15:19:55: | Sender: [SMTP:kelli_trindade@adina.com.br]
+22/09/2017 15:19:55: | TimeAcquired: 1498517937
+22/09/2017 15:19:55: | ClientIP: 201.76.221.104
+22/09/2017 15:19:55: | AuthenticationStatus: 0
+22/09/2017 15:19:55: | Account: gmtextil.com.br
+22/09/2017 15:19:55: | Status: UnDelivered
+22/09/2017 15:19:55: | Subject: 
+22/09/2017 15:19:55: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0BAF689DDEF14D09BFEA592411159CE3_.MAI
+22/09/2017 15:19:55: ----------
+22/09/2017 15:19:55: # ##########################
+22/09/2017 15:19:55: # IP: 149.202.62.215 / Ocorrencias: 4
+22/09/2017 15:19:55: | ID: 0BEA95FFF3764C2DA2A1F007745C6EC7.MAI
+22/09/2017 15:19:55: | Recipients: [SMTP:ibirama@cooperativalinhadireta.com.br]
+22/09/2017 15:19:55: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 15:19:55: | TimeAcquired: 1498518218
+22/09/2017 15:19:55: | ClientIP: 149.202.62.215
+22/09/2017 15:19:55: | AuthenticationStatus: 0
+22/09/2017 15:19:55: | Account: cooperativalinhadireta.com.br
+22/09/2017 15:19:55: | Status: Undelivered
+22/09/2017 15:19:55: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 15:19:55: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0BEA95FFF3764C2DA2A1F007745C6EC7.MAI
+22/09/2017 15:19:55: ----------
+22/09/2017 15:19:55: | ID: 2CB98CA1D84C45AA95FF3EE2E8D6495B_.MAI
+22/09/2017 15:19:55: | Recipients: [SMTP:vendas@towbar.com.br]
+22/09/2017 15:19:55: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 15:19:55: | TimeAcquired: 1498518395
+22/09/2017 15:19:55: | ClientIP: 149.202.62.215
+22/09/2017 15:19:55: | AuthenticationStatus: 0
+22/09/2017 15:19:55: | Account: towbar.com.br
+22/09/2017 15:19:55: | Status: UnDelivered
+22/09/2017 15:19:55: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 15:19:55: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\2CB98CA1D84C45AA95FF3EE2E8D6495B_.MAI
+22/09/2017 15:19:55: ----------
+22/09/2017 15:19:55: | ID: 4FDE36DFABE24F1882036F948015D1C5_.MAI
+22/09/2017 15:19:55: | Recipients: [SMTP:celia@auraepele.com.br]
+22/09/2017 15:19:55: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 15:19:55: | TimeAcquired: 1498518782
+22/09/2017 15:19:55: | ClientIP: 149.202.62.215
+22/09/2017 15:19:55: | AuthenticationStatus: 0
+22/09/2017 15:19:55: | Account: auraepele.com.br
+22/09/2017 15:19:55: | Status: UnDelivered
+22/09/2017 15:19:55: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 15:19:55: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\4FDE36DFABE24F1882036F948015D1C5_.MAI
+22/09/2017 15:19:55: ----------
+22/09/2017 15:19:55: | ID: 2A85146070914D299F1931B73461F4FB_.MAI
+22/09/2017 15:19:55: | Recipients: [SMTP:towbar@towbar.com.br]
+22/09/2017 15:19:55: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 15:19:55: | TimeAcquired: 1498518386
+22/09/2017 15:19:55: | ClientIP: 149.202.62.215
+22/09/2017 15:19:55: | AuthenticationStatus: 0
+22/09/2017 15:19:55: | Account: towbar.com.br
+22/09/2017 15:19:55: | Status: UnDelivered
+22/09/2017 15:19:55: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 15:19:55: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\2A85146070914D299F1931B73461F4FB_.MAI
+22/09/2017 15:19:55: ----------
+22/09/2017 15:22:09: # ##########################
+22/09/2017 15:22:09: # IP: 201.76.221.104 / Ocorrencias: 8
+22/09/2017 15:22:09: | ID: 4D6661ACC5C6493C85D9B2122B8C467D_.MAI
+22/09/2017 15:22:09: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 15:22:09: | Sender: [SMTP:nfeadina@adina.com.br]
+22/09/2017 15:22:09: | TimeAcquired: 1498518762
+22/09/2017 15:22:09: | ClientIP: 201.76.221.104
+22/09/2017 15:22:09: | AuthenticationStatus: 0
+22/09/2017 15:22:09: | Account: gmtextil.com.br
+22/09/2017 15:22:09: | Status: UnDelivered
+22/09/2017 15:22:09: | Subject: NFe (SC-2) 
+22/09/2017 15:22:09: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\4D6661ACC5C6493C85D9B2122B8C467D_.MAI
+22/09/2017 15:22:09: ----------
+22/09/2017 15:22:09: | ID: 0B4B1D867C3B4D47870C8DEDD9F99624_.MAI
+22/09/2017 15:22:09: | Recipients: [SMTP:adailton@gmtextil.com.br]
+22/09/2017 15:22:09: | Sender: [SMTP:mariana_fernandes@adina.com.br]
+22/09/2017 15:22:09: | TimeAcquired: 1498517925
+22/09/2017 15:22:09: | ClientIP: 201.76.221.104
+22/09/2017 15:22:09: | AuthenticationStatus: 0
+22/09/2017 15:22:09: | Account: gmtextil.com.br
+22/09/2017 15:22:09: | Status: UnDelivered
+22/09/2017 15:22:09: | Subject: 
+22/09/2017 15:22:09: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0B4B1D867C3B4D47870C8DEDD9F99624_.MAI
+22/09/2017 15:22:09: ----------
+22/09/2017 15:22:09: | ID: 5D09F676F2BB48DFA775A3E1C89D0F19_.MAI
+22/09/2017 15:22:09: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 15:22:09: | Sender: [SMTP:nfeadina@adina.com.br]
+22/09/2017 15:22:09: | TimeAcquired: 1498518974
+22/09/2017 15:22:09: | ClientIP: 201.76.221.104
+22/09/2017 15:22:09: | AuthenticationStatus: 0
+22/09/2017 15:22:09: | Account: gmtextil.com.br
+22/09/2017 15:22:09: | Status: UnDelivered
+22/09/2017 15:22:09: | Subject: NFe (SC-2) 
+22/09/2017 15:22:09: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\5D09F676F2BB48DFA775A3E1C89D0F19_.MAI
+22/09/2017 15:22:09: ----------
+22/09/2017 15:22:09: | ID: 2DAEC3B628A04AD7A8A461127A1C3EC2_.MAI
+22/09/2017 15:22:09: | Recipients: [SMTP:jeferson@gmtextil.com.br]
+22/09/2017 15:22:09: | Sender: [SMTP:munique_giacomelli@adina.com.br]
+22/09/2017 15:22:09: | TimeAcquired: 1498518397
+22/09/2017 15:22:09: | ClientIP: 201.76.221.104
+22/09/2017 15:22:09: | AuthenticationStatus: 0
+22/09/2017 15:22:09: | Account: gmtextil.com.br
+22/09/2017 15:22:09: | Status: UnDelivered
+22/09/2017 15:22:09: | Subject: 
+22/09/2017 15:22:09: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\2DAEC3B628A04AD7A8A461127A1C3EC2_.MAI
+22/09/2017 15:22:09: ----------
+22/09/2017 15:22:09: | ID: 1BE574B4A8B04F51B40C690CFE29E12A_.MAI
+22/09/2017 15:22:09: | Recipients: [SMTP:jeferson@gmtextil.com.br]
+22/09/2017 15:22:09: | Sender: [SMTP:relacionamento@adina.com.br]
+22/09/2017 15:22:09: | TimeAcquired: 1498518181
+22/09/2017 15:22:09: | ClientIP: 201.76.221.104
+22/09/2017 15:22:09: | AuthenticationStatus: 0
+22/09/2017 15:22:09: | Account: gmtextil.com.br
+22/09/2017 15:22:09: | Status: UnDelivered
+22/09/2017 15:22:09: | Subject: Adina - Seu Pedido Foi Confirmado :818414
+22/09/2017 15:22:09: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\1BE574B4A8B04F51B40C690CFE29E12A_.MAI
+22/09/2017 15:22:09: ----------
+22/09/2017 15:22:09: | ID: 5B00E562BECA4815BD3CDD4DDE62CABB_.MAI
+22/09/2017 15:22:09: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 15:22:09: | Sender: [SMTP:callcenter-adina@adina.com.br]
+22/09/2017 15:22:09: | TimeAcquired: 1498518943
+22/09/2017 15:22:09: | ClientIP: 201.76.221.104
+22/09/2017 15:22:09: | AuthenticationStatus: 0
+22/09/2017 15:22:09: | Account: gmtextil.com.br
+22/09/2017 15:22:09: | Status: UnDelivered
+22/09/2017 15:22:09: | Subject: Pedido 818414
+22/09/2017 15:22:09: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\5B00E562BECA4815BD3CDD4DDE62CABB_.MAI
+22/09/2017 15:22:09: ----------
+22/09/2017 15:22:09: | ID: 0A1A76FFFF7B434BB91EB9D8479FFBE3_.MAI
+22/09/2017 15:22:09: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 15:22:09: | Sender: [SMTP:callcenter-adina@adina.com.br]
+22/09/2017 15:22:09: | TimeAcquired: 1498517911
+22/09/2017 15:22:09: | ClientIP: 201.76.221.104
+22/09/2017 15:22:09: | AuthenticationStatus: 0
+22/09/2017 15:22:09: | Account: gmtextil.com.br
+22/09/2017 15:22:09: | Status: UnDelivered
+22/09/2017 15:22:09: | Subject: Pedido 818413
+22/09/2017 15:22:09: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0A1A76FFFF7B434BB91EB9D8479FFBE3_.MAI
+22/09/2017 15:22:09: ----------
+22/09/2017 15:22:09: | ID: 0BAF689DDEF14D09BFEA592411159CE3_.MAI
+22/09/2017 15:22:09: | Recipients: [SMTP:jeferson@gmtextil.com.br]
+22/09/2017 15:22:09: | Sender: [SMTP:kelli_trindade@adina.com.br]
+22/09/2017 15:22:09: | TimeAcquired: 1498517937
+22/09/2017 15:22:09: | ClientIP: 201.76.221.104
+22/09/2017 15:22:09: | AuthenticationStatus: 0
+22/09/2017 15:22:09: | Account: gmtextil.com.br
+22/09/2017 15:22:09: | Status: UnDelivered
+22/09/2017 15:22:09: | Subject: 
+22/09/2017 15:22:09: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0BAF689DDEF14D09BFEA592411159CE3_.MAI
+22/09/2017 15:22:09: ----------
+22/09/2017 15:22:10: # ##########################
+22/09/2017 15:22:10: # IP: 149.202.62.215 / Ocorrencias: 4
+22/09/2017 15:22:10: | ID: 0BEA95FFF3764C2DA2A1F007745C6EC7.MAI
+22/09/2017 15:22:10: | Recipients: [SMTP:ibirama@cooperativalinhadireta.com.br]
+22/09/2017 15:22:10: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 15:22:10: | TimeAcquired: 1498518218
+22/09/2017 15:22:10: | ClientIP: 149.202.62.215
+22/09/2017 15:22:10: | AuthenticationStatus: 0
+22/09/2017 15:22:10: | Account: cooperativalinhadireta.com.br
+22/09/2017 15:22:10: | Status: Undelivered
+22/09/2017 15:22:10: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 15:22:10: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0BEA95FFF3764C2DA2A1F007745C6EC7.MAI
+22/09/2017 15:22:10: ----------
+22/09/2017 15:22:10: | ID: 2CB98CA1D84C45AA95FF3EE2E8D6495B_.MAI
+22/09/2017 15:22:10: | Recipients: [SMTP:vendas@towbar.com.br]
+22/09/2017 15:22:10: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 15:22:10: | TimeAcquired: 1498518395
+22/09/2017 15:22:10: | ClientIP: 149.202.62.215
+22/09/2017 15:22:10: | AuthenticationStatus: 0
+22/09/2017 15:22:10: | Account: towbar.com.br
+22/09/2017 15:22:10: | Status: UnDelivered
+22/09/2017 15:22:10: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 15:22:10: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\2CB98CA1D84C45AA95FF3EE2E8D6495B_.MAI
+22/09/2017 15:22:10: ----------
+22/09/2017 15:22:10: | ID: 4FDE36DFABE24F1882036F948015D1C5_.MAI
+22/09/2017 15:22:10: | Recipients: [SMTP:celia@auraepele.com.br]
+22/09/2017 15:22:10: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 15:22:10: | TimeAcquired: 1498518782
+22/09/2017 15:22:10: | ClientIP: 149.202.62.215
+22/09/2017 15:22:10: | AuthenticationStatus: 0
+22/09/2017 15:22:10: | Account: auraepele.com.br
+22/09/2017 15:22:10: | Status: UnDelivered
+22/09/2017 15:22:10: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 15:22:10: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\4FDE36DFABE24F1882036F948015D1C5_.MAI
+22/09/2017 15:22:10: ----------
+22/09/2017 15:22:10: | ID: 2A85146070914D299F1931B73461F4FB_.MAI
+22/09/2017 15:22:10: | Recipients: [SMTP:towbar@towbar.com.br]
+22/09/2017 15:22:10: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 15:22:10: | TimeAcquired: 1498518386
+22/09/2017 15:22:10: | ClientIP: 149.202.62.215
+22/09/2017 15:22:10: | AuthenticationStatus: 0
+22/09/2017 15:22:10: | Account: towbar.com.br
+22/09/2017 15:22:10: | Status: UnDelivered
+22/09/2017 15:22:10: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 15:22:10: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\2A85146070914D299F1931B73461F4FB_.MAI
+22/09/2017 15:22:10: ----------
+22/09/2017 15:24:40: # ##########################
+22/09/2017 15:24:40: # IP: 201.76.221.104 / Ocorrencias: 8
+22/09/2017 15:24:40: | ID: 4D6661ACC5C6493C85D9B2122B8C467D_.MAI
+22/09/2017 15:24:40: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 15:24:40: | Sender: [SMTP:nfeadina@adina.com.br]
+22/09/2017 15:24:40: | TimeAcquired: 1498518762
+22/09/2017 15:24:40: | ClientIP: 201.76.221.104
+22/09/2017 15:24:40: | AuthenticationStatus: 0
+22/09/2017 15:24:40: | Account: gmtextil.com.br
+22/09/2017 15:24:40: | Status: UnDelivered
+22/09/2017 15:24:40: | Subject: NFe (SC-2) 
+22/09/2017 15:24:40: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\4D6661ACC5C6493C85D9B2122B8C467D_.MAI
+22/09/2017 15:24:40: ----------
+22/09/2017 15:24:40: | ID: 0B4B1D867C3B4D47870C8DEDD9F99624_.MAI
+22/09/2017 15:24:40: | Recipients: [SMTP:adailton@gmtextil.com.br]
+22/09/2017 15:24:40: | Sender: [SMTP:mariana_fernandes@adina.com.br]
+22/09/2017 15:24:40: | TimeAcquired: 1498517925
+22/09/2017 15:24:40: | ClientIP: 201.76.221.104
+22/09/2017 15:24:40: | AuthenticationStatus: 0
+22/09/2017 15:24:40: | Account: gmtextil.com.br
+22/09/2017 15:24:40: | Status: UnDelivered
+22/09/2017 15:24:40: | Subject: 
+22/09/2017 15:24:40: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0B4B1D867C3B4D47870C8DEDD9F99624_.MAI
+22/09/2017 15:24:40: ----------
+22/09/2017 15:24:40: | ID: 5D09F676F2BB48DFA775A3E1C89D0F19_.MAI
+22/09/2017 15:24:40: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 15:24:40: | Sender: [SMTP:nfeadina@adina.com.br]
+22/09/2017 15:24:40: | TimeAcquired: 1498518974
+22/09/2017 15:24:40: | ClientIP: 201.76.221.104
+22/09/2017 15:24:40: | AuthenticationStatus: 0
+22/09/2017 15:24:40: | Account: gmtextil.com.br
+22/09/2017 15:24:40: | Status: UnDelivered
+22/09/2017 15:24:40: | Subject: NFe (SC-2) 
+22/09/2017 15:24:40: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\5D09F676F2BB48DFA775A3E1C89D0F19_.MAI
+22/09/2017 15:24:40: ----------
+22/09/2017 15:24:40: | ID: 2DAEC3B628A04AD7A8A461127A1C3EC2_.MAI
+22/09/2017 15:24:40: | Recipients: [SMTP:jeferson@gmtextil.com.br]
+22/09/2017 15:24:40: | Sender: [SMTP:munique_giacomelli@adina.com.br]
+22/09/2017 15:24:40: | TimeAcquired: 1498518397
+22/09/2017 15:24:40: | ClientIP: 201.76.221.104
+22/09/2017 15:24:40: | AuthenticationStatus: 0
+22/09/2017 15:24:40: | Account: gmtextil.com.br
+22/09/2017 15:24:40: | Status: UnDelivered
+22/09/2017 15:24:40: | Subject: 
+22/09/2017 15:24:40: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\2DAEC3B628A04AD7A8A461127A1C3EC2_.MAI
+22/09/2017 15:24:40: ----------
+22/09/2017 15:24:40: | ID: 1BE574B4A8B04F51B40C690CFE29E12A_.MAI
+22/09/2017 15:24:40: | Recipients: [SMTP:jeferson@gmtextil.com.br]
+22/09/2017 15:24:40: | Sender: [SMTP:relacionamento@adina.com.br]
+22/09/2017 15:24:40: | TimeAcquired: 1498518181
+22/09/2017 15:24:40: | ClientIP: 201.76.221.104
+22/09/2017 15:24:40: | AuthenticationStatus: 0
+22/09/2017 15:24:40: | Account: gmtextil.com.br
+22/09/2017 15:24:40: | Status: UnDelivered
+22/09/2017 15:24:40: | Subject: Adina - Seu Pedido Foi Confirmado :818414
+22/09/2017 15:24:40: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\1BE574B4A8B04F51B40C690CFE29E12A_.MAI
+22/09/2017 15:24:40: ----------
+22/09/2017 15:24:40: | ID: 5B00E562BECA4815BD3CDD4DDE62CABB_.MAI
+22/09/2017 15:24:40: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 15:24:40: | Sender: [SMTP:callcenter-adina@adina.com.br]
+22/09/2017 15:24:40: | TimeAcquired: 1498518943
+22/09/2017 15:24:40: | ClientIP: 201.76.221.104
+22/09/2017 15:24:40: | AuthenticationStatus: 0
+22/09/2017 15:24:40: | Account: gmtextil.com.br
+22/09/2017 15:24:40: | Status: UnDelivered
+22/09/2017 15:24:40: | Subject: Pedido 818414
+22/09/2017 15:24:40: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\5B00E562BECA4815BD3CDD4DDE62CABB_.MAI
+22/09/2017 15:24:40: ----------
+22/09/2017 15:24:40: | ID: 0A1A76FFFF7B434BB91EB9D8479FFBE3_.MAI
+22/09/2017 15:24:40: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 15:24:40: | Sender: [SMTP:callcenter-adina@adina.com.br]
+22/09/2017 15:24:40: | TimeAcquired: 1498517911
+22/09/2017 15:24:40: | ClientIP: 201.76.221.104
+22/09/2017 15:24:40: | AuthenticationStatus: 0
+22/09/2017 15:24:40: | Account: gmtextil.com.br
+22/09/2017 15:24:40: | Status: UnDelivered
+22/09/2017 15:24:40: | Subject: Pedido 818413
+22/09/2017 15:24:40: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0A1A76FFFF7B434BB91EB9D8479FFBE3_.MAI
+22/09/2017 15:24:40: ----------
+22/09/2017 15:24:40: | ID: 0BAF689DDEF14D09BFEA592411159CE3_.MAI
+22/09/2017 15:24:40: | Recipients: [SMTP:jeferson@gmtextil.com.br]
+22/09/2017 15:24:40: | Sender: [SMTP:kelli_trindade@adina.com.br]
+22/09/2017 15:24:40: | TimeAcquired: 1498517937
+22/09/2017 15:24:40: | ClientIP: 201.76.221.104
+22/09/2017 15:24:40: | AuthenticationStatus: 0
+22/09/2017 15:24:40: | Account: gmtextil.com.br
+22/09/2017 15:24:40: | Status: UnDelivered
+22/09/2017 15:24:40: | Subject: 
+22/09/2017 15:24:40: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0BAF689DDEF14D09BFEA592411159CE3_.MAI
+22/09/2017 15:24:40: ----------
+22/09/2017 15:24:41: # ##########################
+22/09/2017 15:24:41: # IP: 149.202.62.215 / Ocorrencias: 4
+22/09/2017 15:24:41: | ID: 0BEA95FFF3764C2DA2A1F007745C6EC7.MAI
+22/09/2017 15:24:41: | Recipients: [SMTP:ibirama@cooperativalinhadireta.com.br]
+22/09/2017 15:24:41: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 15:24:41: | TimeAcquired: 1498518218
+22/09/2017 15:24:41: | ClientIP: 149.202.62.215
+22/09/2017 15:24:41: | AuthenticationStatus: 0
+22/09/2017 15:24:41: | Account: cooperativalinhadireta.com.br
+22/09/2017 15:24:41: | Status: Undelivered
+22/09/2017 15:24:41: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 15:24:41: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0BEA95FFF3764C2DA2A1F007745C6EC7.MAI
+22/09/2017 15:24:41: ----------
+22/09/2017 15:24:41: | ID: 2CB98CA1D84C45AA95FF3EE2E8D6495B_.MAI
+22/09/2017 15:24:41: | Recipients: [SMTP:vendas@towbar.com.br]
+22/09/2017 15:24:41: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 15:24:41: | TimeAcquired: 1498518395
+22/09/2017 15:24:41: | ClientIP: 149.202.62.215
+22/09/2017 15:24:41: | AuthenticationStatus: 0
+22/09/2017 15:24:41: | Account: towbar.com.br
+22/09/2017 15:24:41: | Status: UnDelivered
+22/09/2017 15:24:41: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 15:24:41: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\2CB98CA1D84C45AA95FF3EE2E8D6495B_.MAI
+22/09/2017 15:24:41: ----------
+22/09/2017 15:24:41: | ID: 4FDE36DFABE24F1882036F948015D1C5_.MAI
+22/09/2017 15:24:41: | Recipients: [SMTP:celia@auraepele.com.br]
+22/09/2017 15:24:41: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 15:24:41: | TimeAcquired: 1498518782
+22/09/2017 15:24:41: | ClientIP: 149.202.62.215
+22/09/2017 15:24:41: | AuthenticationStatus: 0
+22/09/2017 15:24:41: | Account: auraepele.com.br
+22/09/2017 15:24:41: | Status: UnDelivered
+22/09/2017 15:24:41: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 15:24:41: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\4FDE36DFABE24F1882036F948015D1C5_.MAI
+22/09/2017 15:24:41: ----------
+22/09/2017 15:24:41: | ID: 2A85146070914D299F1931B73461F4FB_.MAI
+22/09/2017 15:24:41: | Recipients: [SMTP:towbar@towbar.com.br]
+22/09/2017 15:24:41: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 15:24:41: | TimeAcquired: 1498518386
+22/09/2017 15:24:41: | ClientIP: 149.202.62.215
+22/09/2017 15:24:41: | AuthenticationStatus: 0
+22/09/2017 15:24:41: | Account: towbar.com.br
+22/09/2017 15:24:41: | Status: UnDelivered
+22/09/2017 15:24:41: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 15:24:41: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\2A85146070914D299F1931B73461F4FB_.MAI
+22/09/2017 15:24:41: ----------
+22/09/2017 15:25:32: # ##########################
+22/09/2017 15:25:32: # IP: 201.76.221.104 / Ocorrencias: 8
+22/09/2017 15:25:32: | ID: 4D6661ACC5C6493C85D9B2122B8C467D_.MAI
+22/09/2017 15:25:32: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 15:25:32: | Sender: [SMTP:nfeadina@adina.com.br]
+22/09/2017 15:25:32: | TimeAcquired: 1498518762
+22/09/2017 15:25:32: | ClientIP: 201.76.221.104
+22/09/2017 15:25:32: | AuthenticationStatus: 0
+22/09/2017 15:25:32: | Account: gmtextil.com.br
+22/09/2017 15:25:32: | Status: UnDelivered
+22/09/2017 15:25:32: | Subject: NFe (SC-2) 
+22/09/2017 15:25:32: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\4D6661ACC5C6493C85D9B2122B8C467D_.MAI
+22/09/2017 15:25:32: ----------
+22/09/2017 15:25:32: | ID: 0B4B1D867C3B4D47870C8DEDD9F99624_.MAI
+22/09/2017 15:25:32: | Recipients: [SMTP:adailton@gmtextil.com.br]
+22/09/2017 15:25:32: | Sender: [SMTP:mariana_fernandes@adina.com.br]
+22/09/2017 15:25:32: | TimeAcquired: 1498517925
+22/09/2017 15:25:32: | ClientIP: 201.76.221.104
+22/09/2017 15:25:32: | AuthenticationStatus: 0
+22/09/2017 15:25:32: | Account: gmtextil.com.br
+22/09/2017 15:25:32: | Status: UnDelivered
+22/09/2017 15:25:32: | Subject: 
+22/09/2017 15:25:32: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0B4B1D867C3B4D47870C8DEDD9F99624_.MAI
+22/09/2017 15:25:32: ----------
+22/09/2017 15:25:32: | ID: 5D09F676F2BB48DFA775A3E1C89D0F19_.MAI
+22/09/2017 15:25:32: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 15:25:32: | Sender: [SMTP:nfeadina@adina.com.br]
+22/09/2017 15:25:32: | TimeAcquired: 1498518974
+22/09/2017 15:25:32: | ClientIP: 201.76.221.104
+22/09/2017 15:25:32: | AuthenticationStatus: 0
+22/09/2017 15:25:32: | Account: gmtextil.com.br
+22/09/2017 15:25:32: | Status: UnDelivered
+22/09/2017 15:25:32: | Subject: NFe (SC-2) 
+22/09/2017 15:25:32: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\5D09F676F2BB48DFA775A3E1C89D0F19_.MAI
+22/09/2017 15:25:32: ----------
+22/09/2017 15:25:32: | ID: 2DAEC3B628A04AD7A8A461127A1C3EC2_.MAI
+22/09/2017 15:25:32: | Recipients: [SMTP:jeferson@gmtextil.com.br]
+22/09/2017 15:25:32: | Sender: [SMTP:munique_giacomelli@adina.com.br]
+22/09/2017 15:25:32: | TimeAcquired: 1498518397
+22/09/2017 15:25:32: | ClientIP: 201.76.221.104
+22/09/2017 15:25:32: | AuthenticationStatus: 0
+22/09/2017 15:25:32: | Account: gmtextil.com.br
+22/09/2017 15:25:32: | Status: UnDelivered
+22/09/2017 15:25:32: | Subject: 
+22/09/2017 15:25:32: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\2DAEC3B628A04AD7A8A461127A1C3EC2_.MAI
+22/09/2017 15:25:32: ----------
+22/09/2017 15:25:32: | ID: 1BE574B4A8B04F51B40C690CFE29E12A_.MAI
+22/09/2017 15:25:32: | Recipients: [SMTP:jeferson@gmtextil.com.br]
+22/09/2017 15:25:32: | Sender: [SMTP:relacionamento@adina.com.br]
+22/09/2017 15:25:32: | TimeAcquired: 1498518181
+22/09/2017 15:25:32: | ClientIP: 201.76.221.104
+22/09/2017 15:25:32: | AuthenticationStatus: 0
+22/09/2017 15:25:32: | Account: gmtextil.com.br
+22/09/2017 15:25:32: | Status: UnDelivered
+22/09/2017 15:25:32: | Subject: Adina - Seu Pedido Foi Confirmado :818414
+22/09/2017 15:25:32: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\1BE574B4A8B04F51B40C690CFE29E12A_.MAI
+22/09/2017 15:25:32: ----------
+22/09/2017 15:25:32: | ID: 5B00E562BECA4815BD3CDD4DDE62CABB_.MAI
+22/09/2017 15:25:32: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 15:25:32: | Sender: [SMTP:callcenter-adina@adina.com.br]
+22/09/2017 15:25:32: | TimeAcquired: 1498518943
+22/09/2017 15:25:32: | ClientIP: 201.76.221.104
+22/09/2017 15:25:32: | AuthenticationStatus: 0
+22/09/2017 15:25:32: | Account: gmtextil.com.br
+22/09/2017 15:25:32: | Status: UnDelivered
+22/09/2017 15:25:32: | Subject: Pedido 818414
+22/09/2017 15:25:32: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\5B00E562BECA4815BD3CDD4DDE62CABB_.MAI
+22/09/2017 15:25:32: ----------
+22/09/2017 15:25:32: | ID: 0A1A76FFFF7B434BB91EB9D8479FFBE3_.MAI
+22/09/2017 15:25:32: | Recipients: [SMTP:diogo@gmtextil.com.br]
+22/09/2017 15:25:32: | Sender: [SMTP:callcenter-adina@adina.com.br]
+22/09/2017 15:25:32: | TimeAcquired: 1498517911
+22/09/2017 15:25:32: | ClientIP: 201.76.221.104
+22/09/2017 15:25:32: | AuthenticationStatus: 0
+22/09/2017 15:25:32: | Account: gmtextil.com.br
+22/09/2017 15:25:32: | Status: UnDelivered
+22/09/2017 15:25:32: | Subject: Pedido 818413
+22/09/2017 15:25:32: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0A1A76FFFF7B434BB91EB9D8479FFBE3_.MAI
+22/09/2017 15:25:32: ----------
+22/09/2017 15:25:32: | ID: 0BAF689DDEF14D09BFEA592411159CE3_.MAI
+22/09/2017 15:25:32: | Recipients: [SMTP:jeferson@gmtextil.com.br]
+22/09/2017 15:25:32: | Sender: [SMTP:kelli_trindade@adina.com.br]
+22/09/2017 15:25:32: | TimeAcquired: 1498517937
+22/09/2017 15:25:32: | ClientIP: 201.76.221.104
+22/09/2017 15:25:32: | AuthenticationStatus: 0
+22/09/2017 15:25:32: | Account: gmtextil.com.br
+22/09/2017 15:25:32: | Status: UnDelivered
+22/09/2017 15:25:32: | Subject: 
+22/09/2017 15:25:32: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0BAF689DDEF14D09BFEA592411159CE3_.MAI
+22/09/2017 15:25:32: ----------
+22/09/2017 15:25:32: # ##########################
+22/09/2017 15:25:32: # IP: 149.202.62.215 / Ocorrencias: 4
+22/09/2017 15:25:32: | ID: 0BEA95FFF3764C2DA2A1F007745C6EC7.MAI
+22/09/2017 15:25:32: | Recipients: [SMTP:ibirama@cooperativalinhadireta.com.br]
+22/09/2017 15:25:32: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 15:25:32: | TimeAcquired: 1498518218
+22/09/2017 15:25:32: | ClientIP: 149.202.62.215
+22/09/2017 15:25:32: | AuthenticationStatus: 0
+22/09/2017 15:25:32: | Account: cooperativalinhadireta.com.br
+22/09/2017 15:25:32: | Status: Undelivered
+22/09/2017 15:25:32: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 15:25:32: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\0BEA95FFF3764C2DA2A1F007745C6EC7.MAI
+22/09/2017 15:25:32: ----------
+22/09/2017 15:25:32: | ID: 2CB98CA1D84C45AA95FF3EE2E8D6495B_.MAI
+22/09/2017 15:25:32: | Recipients: [SMTP:vendas@towbar.com.br]
+22/09/2017 15:25:32: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 15:25:32: | TimeAcquired: 1498518395
+22/09/2017 15:25:32: | ClientIP: 149.202.62.215
+22/09/2017 15:25:32: | AuthenticationStatus: 0
+22/09/2017 15:25:32: | Account: towbar.com.br
+22/09/2017 15:25:32: | Status: UnDelivered
+22/09/2017 15:25:32: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 15:25:32: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\2CB98CA1D84C45AA95FF3EE2E8D6495B_.MAI
+22/09/2017 15:25:32: ----------
+22/09/2017 15:25:32: | ID: 4FDE36DFABE24F1882036F948015D1C5_.MAI
+22/09/2017 15:25:32: | Recipients: [SMTP:celia@auraepele.com.br]
+22/09/2017 15:25:32: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 15:25:32: | TimeAcquired: 1498518782
+22/09/2017 15:25:32: | ClientIP: 149.202.62.215
+22/09/2017 15:25:32: | AuthenticationStatus: 0
+22/09/2017 15:25:32: | Account: auraepele.com.br
+22/09/2017 15:25:32: | Status: UnDelivered
+22/09/2017 15:25:32: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 15:25:32: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\4FDE36DFABE24F1882036F948015D1C5_.MAI
+22/09/2017 15:25:32: ----------
+22/09/2017 15:25:32: | ID: 2A85146070914D299F1931B73461F4FB_.MAI
+22/09/2017 15:25:32: | Recipients: [SMTP:towbar@towbar.com.br]
+22/09/2017 15:25:32: | Sender: [SMTP:return@offmais.cf]
+22/09/2017 15:25:32: | TimeAcquired: 1498518386
+22/09/2017 15:25:32: | ClientIP: 149.202.62.215
+22/09/2017 15:25:32: | AuthenticationStatus: 0
+22/09/2017 15:25:32: | Account: towbar.com.br
+22/09/2017 15:25:32: | Status: UnDelivered
+22/09/2017 15:25:32: | Subject: Aproveite estes Super Cupons para Animar ainda mais sua Segundona!
+22/09/2017 15:25:32: | Arquivo: D:\VB.Net\SysAntiDdosTipo1\Teste\2A85146070914D299F1931B73461F4FB_.MAI
+22/09/2017 15:25:32: ----------
+26/09/2017 12:47:44: # ##########################
+26/09/2017 12:47:44: # IP: 127.0.0.1 / Ocorrencias: 15
+26/09/2017 12:47:44: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:47:44: | LocalEndPoint / Port: 49160
+26/09/2017 12:47:44: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:47:44: | RemoteEndPoint / Port: 49161
+26/09/2017 12:47:44: | State: Established
+26/09/2017 12:47:44: ----------
+26/09/2017 12:47:44: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:47:44: | LocalEndPoint / Port: 49161
+26/09/2017 12:47:44: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:47:44: | RemoteEndPoint / Port: 49160
+26/09/2017 12:47:44: | State: Established
+26/09/2017 12:47:44: ----------
+26/09/2017 12:47:44: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:47:44: | LocalEndPoint / Port: 26887
+26/09/2017 12:47:44: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:47:44: | RemoteEndPoint / Port: 49596
+26/09/2017 12:47:44: | State: Established
+26/09/2017 12:47:44: ----------
+26/09/2017 12:47:44: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:47:44: | LocalEndPoint / Port: 24801
+26/09/2017 12:47:44: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:47:44: | RemoteEndPoint / Port: 49214
+26/09/2017 12:47:44: | State: Established
+26/09/2017 12:47:44: ----------
+26/09/2017 12:47:44: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:47:44: | LocalEndPoint / Port: 49156
+26/09/2017 12:47:44: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:47:44: | RemoteEndPoint / Port: 5354
+26/09/2017 12:47:44: | State: Established
+26/09/2017 12:47:44: ----------
+26/09/2017 12:47:44: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:47:44: | LocalEndPoint / Port: 49596
+26/09/2017 12:47:44: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:47:44: | RemoteEndPoint / Port: 26887
+26/09/2017 12:47:44: | State: Established
+26/09/2017 12:47:44: ----------
+26/09/2017 12:47:44: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:47:44: | LocalEndPoint / Port: 5354
+26/09/2017 12:47:44: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:47:44: | RemoteEndPoint / Port: 49156
+26/09/2017 12:47:44: | State: Established
+26/09/2017 12:47:44: ----------
+26/09/2017 12:47:44: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:47:44: | LocalEndPoint / Port: 58519
+26/09/2017 12:47:44: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:47:44: | RemoteEndPoint / Port: 27015
+26/09/2017 12:47:44: | State: TimeWait
+26/09/2017 12:47:44: ----------
+26/09/2017 12:47:44: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:47:44: | LocalEndPoint / Port: 23560
+26/09/2017 12:47:44: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:47:44: | RemoteEndPoint / Port: 49287
+26/09/2017 12:47:44: | State: Established
+26/09/2017 12:47:44: ----------
+26/09/2017 12:47:44: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:47:44: | LocalEndPoint / Port: 49214
+26/09/2017 12:47:44: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:47:44: | RemoteEndPoint / Port: 24801
+26/09/2017 12:47:44: | State: Established
+26/09/2017 12:47:44: ----------
+26/09/2017 12:47:44: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:47:44: | LocalEndPoint / Port: 49287
+26/09/2017 12:47:44: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:47:44: | RemoteEndPoint / Port: 23560
+26/09/2017 12:47:44: | State: Established
+26/09/2017 12:47:44: ----------
+26/09/2017 12:47:44: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:47:44: | LocalEndPoint / Port: 5354
+26/09/2017 12:47:44: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:47:44: | RemoteEndPoint / Port: 49157
+26/09/2017 12:47:44: | State: Established
+26/09/2017 12:47:44: ----------
+26/09/2017 12:47:44: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:47:44: | LocalEndPoint / Port: 27015
+26/09/2017 12:47:44: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:47:44: | RemoteEndPoint / Port: 58891
+26/09/2017 12:47:44: | State: Established
+26/09/2017 12:47:44: ----------
+26/09/2017 12:47:44: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:47:44: | LocalEndPoint / Port: 5354
+26/09/2017 12:47:44: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:47:44: | RemoteEndPoint / Port: 58892
+26/09/2017 12:47:44: | State: Established
+26/09/2017 12:47:44: ----------
+26/09/2017 12:47:44: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:47:44: | LocalEndPoint / Port: 5354
+26/09/2017 12:47:44: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:47:44: | RemoteEndPoint / Port: 58893
+26/09/2017 12:47:44: | State: Established
+26/09/2017 12:47:44: ----------
+26/09/2017 12:47:44: # ##########################
+26/09/2017 12:47:44: # IP: 192.168.20.12 / Ocorrencias: 4
+26/09/2017 12:47:44: | LocalEndPoint / Address: 192.168.20.12
+26/09/2017 12:47:44: | LocalEndPoint / Port: 21
+26/09/2017 12:47:44: | RemoteEndPoint / Address: 192.168.20.12
+26/09/2017 12:47:44: | RemoteEndPoint / Port: 58855
+26/09/2017 12:47:44: | State: Established
+26/09/2017 12:47:44: ----------
+26/09/2017 12:47:44: | LocalEndPoint / Address: 192.168.20.12
+26/09/2017 12:47:44: | LocalEndPoint / Port: 58630
+26/09/2017 12:47:44: | RemoteEndPoint / Address: 192.168.20.12
+26/09/2017 12:47:44: | RemoteEndPoint / Port: 8080
+26/09/2017 12:47:44: | State: TimeWait
+26/09/2017 12:47:44: ----------
+26/09/2017 12:47:44: | LocalEndPoint / Address: 192.168.20.12
+26/09/2017 12:47:44: | LocalEndPoint / Port: 58689
+26/09/2017 12:47:44: | RemoteEndPoint / Address: 192.168.20.12
+26/09/2017 12:47:44: | RemoteEndPoint / Port: 443
+26/09/2017 12:47:44: | State: TimeWait
+26/09/2017 12:47:44: ----------
+26/09/2017 12:47:44: | LocalEndPoint / Address: 192.168.20.12
+26/09/2017 12:47:44: | LocalEndPoint / Port: 58479
+26/09/2017 12:47:44: | RemoteEndPoint / Address: 192.168.20.12
+26/09/2017 12:47:44: | RemoteEndPoint / Port: 21
+26/09/2017 12:47:44: | State: TimeWait
+26/09/2017 12:47:44: ----------
+26/09/2017 12:48:44: # ##########################
+26/09/2017 12:48:44: # IP: 127.0.0.1 / Ocorrencias: 15
+26/09/2017 12:48:44: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:48:44: | LocalEndPoint / Port: 49160
+26/09/2017 12:48:44: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:48:44: | RemoteEndPoint / Port: 49161
+26/09/2017 12:48:44: | State: Established
+26/09/2017 12:48:44: ----------
+26/09/2017 12:48:44: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:48:44: | LocalEndPoint / Port: 49161
+26/09/2017 12:48:44: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:48:44: | RemoteEndPoint / Port: 49160
+26/09/2017 12:48:44: | State: Established
+26/09/2017 12:48:44: ----------
+26/09/2017 12:48:44: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:48:44: | LocalEndPoint / Port: 26887
+26/09/2017 12:48:44: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:48:44: | RemoteEndPoint / Port: 49596
+26/09/2017 12:48:44: | State: Established
+26/09/2017 12:48:44: ----------
+26/09/2017 12:48:44: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:48:44: | LocalEndPoint / Port: 24801
+26/09/2017 12:48:44: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:48:44: | RemoteEndPoint / Port: 49214
+26/09/2017 12:48:44: | State: Established
+26/09/2017 12:48:44: ----------
+26/09/2017 12:48:44: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:48:44: | LocalEndPoint / Port: 5354
+26/09/2017 12:48:44: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:48:44: | RemoteEndPoint / Port: 59080
+26/09/2017 12:48:44: | State: Established
+26/09/2017 12:48:44: ----------
+26/09/2017 12:48:44: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:48:44: | LocalEndPoint / Port: 27015
+26/09/2017 12:48:44: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:48:44: | RemoteEndPoint / Port: 59078
+26/09/2017 12:48:44: | State: Established
+26/09/2017 12:48:44: ----------
+26/09/2017 12:48:44: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:48:44: | LocalEndPoint / Port: 49156
+26/09/2017 12:48:44: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:48:44: | RemoteEndPoint / Port: 5354
+26/09/2017 12:48:44: | State: Established
+26/09/2017 12:48:44: ----------
+26/09/2017 12:48:44: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:48:44: | LocalEndPoint / Port: 49596
+26/09/2017 12:48:44: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:48:44: | RemoteEndPoint / Port: 26887
+26/09/2017 12:48:44: | State: Established
+26/09/2017 12:48:44: ----------
+26/09/2017 12:48:44: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:48:44: | LocalEndPoint / Port: 5354
+26/09/2017 12:48:44: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:48:44: | RemoteEndPoint / Port: 49156
+26/09/2017 12:48:44: | State: Established
+26/09/2017 12:48:44: ----------
+26/09/2017 12:48:44: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:48:44: | LocalEndPoint / Port: 5354
+26/09/2017 12:48:44: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:48:44: | RemoteEndPoint / Port: 59079
+26/09/2017 12:48:44: | State: Established
+26/09/2017 12:48:44: ----------
+26/09/2017 12:48:44: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:48:44: | LocalEndPoint / Port: 58707
+26/09/2017 12:48:44: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:48:44: | RemoteEndPoint / Port: 27015
+26/09/2017 12:48:44: | State: TimeWait
+26/09/2017 12:48:44: ----------
+26/09/2017 12:48:44: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:48:44: | LocalEndPoint / Port: 23560
+26/09/2017 12:48:44: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:48:44: | RemoteEndPoint / Port: 49287
+26/09/2017 12:48:44: | State: Established
+26/09/2017 12:48:44: ----------
+26/09/2017 12:48:44: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:48:44: | LocalEndPoint / Port: 49214
+26/09/2017 12:48:44: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:48:44: | RemoteEndPoint / Port: 24801
+26/09/2017 12:48:44: | State: Established
+26/09/2017 12:48:44: ----------
+26/09/2017 12:48:44: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:48:44: | LocalEndPoint / Port: 49287
+26/09/2017 12:48:44: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:48:44: | RemoteEndPoint / Port: 23560
+26/09/2017 12:48:44: | State: Established
+26/09/2017 12:48:44: ----------
+26/09/2017 12:48:44: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:48:44: | LocalEndPoint / Port: 5354
+26/09/2017 12:48:44: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:48:44: | RemoteEndPoint / Port: 49157
+26/09/2017 12:48:44: | State: Established
+26/09/2017 12:48:44: ----------
+26/09/2017 12:52:46: # ##########################
+26/09/2017 12:52:46: # IP: 127.0.0.1 / Ocorrencias: 12
+26/09/2017 12:52:46: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:52:46: | LocalEndPoint / Port: 49160
+26/09/2017 12:52:46: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:52:46: | RemoteEndPoint / Port: 49161
+26/09/2017 12:52:46: | State: Established
+26/09/2017 12:52:46: ----------
+26/09/2017 12:52:46: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:52:46: | LocalEndPoint / Port: 49161
+26/09/2017 12:52:46: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:52:46: | RemoteEndPoint / Port: 49160
+26/09/2017 12:52:46: | State: Established
+26/09/2017 12:52:46: ----------
+26/09/2017 12:52:46: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:52:46: | LocalEndPoint / Port: 26887
+26/09/2017 12:52:46: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:52:46: | RemoteEndPoint / Port: 49596
+26/09/2017 12:52:46: | State: Established
+26/09/2017 12:52:46: ----------
+26/09/2017 12:52:46: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:52:46: | LocalEndPoint / Port: 24801
+26/09/2017 12:52:46: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:52:46: | RemoteEndPoint / Port: 49214
+26/09/2017 12:52:46: | State: Established
+26/09/2017 12:52:46: ----------
+26/09/2017 12:52:46: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:52:46: | LocalEndPoint / Port: 49156
+26/09/2017 12:52:46: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:52:46: | RemoteEndPoint / Port: 5354
+26/09/2017 12:52:46: | State: Established
+26/09/2017 12:52:46: ----------
+26/09/2017 12:52:46: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:52:46: | LocalEndPoint / Port: 49596
+26/09/2017 12:52:46: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:52:46: | RemoteEndPoint / Port: 26887
+26/09/2017 12:52:46: | State: Established
+26/09/2017 12:52:46: ----------
+26/09/2017 12:52:46: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:52:46: | LocalEndPoint / Port: 5354
+26/09/2017 12:52:46: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:52:46: | RemoteEndPoint / Port: 49156
+26/09/2017 12:52:46: | State: Established
+26/09/2017 12:52:46: ----------
+26/09/2017 12:52:46: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:52:46: | LocalEndPoint / Port: 59462
+26/09/2017 12:52:46: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:52:46: | RemoteEndPoint / Port: 27015
+26/09/2017 12:52:46: | State: TimeWait
+26/09/2017 12:52:46: ----------
+26/09/2017 12:52:46: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:52:46: | LocalEndPoint / Port: 23560
+26/09/2017 12:52:46: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:52:46: | RemoteEndPoint / Port: 49287
+26/09/2017 12:52:46: | State: Established
+26/09/2017 12:52:46: ----------
+26/09/2017 12:52:46: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:52:46: | LocalEndPoint / Port: 49214
+26/09/2017 12:52:46: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:52:46: | RemoteEndPoint / Port: 24801
+26/09/2017 12:52:46: | State: Established
+26/09/2017 12:52:46: ----------
+26/09/2017 12:52:46: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:52:46: | LocalEndPoint / Port: 49287
+26/09/2017 12:52:46: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:52:46: | RemoteEndPoint / Port: 23560
+26/09/2017 12:52:46: | State: Established
+26/09/2017 12:52:46: ----------
+26/09/2017 12:52:46: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:52:46: | LocalEndPoint / Port: 5354
+26/09/2017 12:52:46: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:52:46: | RemoteEndPoint / Port: 49157
+26/09/2017 12:52:46: | State: Established
+26/09/2017 12:52:46: ----------
+26/09/2017 12:53:27: # ##########################
+26/09/2017 12:53:27: # IP: 127.0.0.1 / Ocorrencias: 12
+26/09/2017 12:53:27: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:53:27: | LocalEndPoint / Port: 49160
+26/09/2017 12:53:27: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:53:27: | RemoteEndPoint / Port: 49161
+26/09/2017 12:53:27: | State: Established
+26/09/2017 12:53:27: ----------
+26/09/2017 12:53:27: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:53:27: | LocalEndPoint / Port: 49161
+26/09/2017 12:53:27: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:53:27: | RemoteEndPoint / Port: 49160
+26/09/2017 12:53:27: | State: Established
+26/09/2017 12:53:27: ----------
+26/09/2017 12:53:27: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:53:27: | LocalEndPoint / Port: 26887
+26/09/2017 12:53:27: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:53:27: | RemoteEndPoint / Port: 49596
+26/09/2017 12:53:27: | State: Established
+26/09/2017 12:53:27: ----------
+26/09/2017 12:53:27: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:53:27: | LocalEndPoint / Port: 24801
+26/09/2017 12:53:27: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:53:27: | RemoteEndPoint / Port: 49214
+26/09/2017 12:53:27: | State: Established
+26/09/2017 12:53:27: ----------
+26/09/2017 12:53:27: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:53:27: | LocalEndPoint / Port: 49156
+26/09/2017 12:53:27: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:53:27: | RemoteEndPoint / Port: 5354
+26/09/2017 12:53:27: | State: Established
+26/09/2017 12:53:27: ----------
+26/09/2017 12:53:27: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:53:27: | LocalEndPoint / Port: 49596
+26/09/2017 12:53:27: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:53:27: | RemoteEndPoint / Port: 26887
+26/09/2017 12:53:27: | State: Established
+26/09/2017 12:53:27: ----------
+26/09/2017 12:53:27: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:53:27: | LocalEndPoint / Port: 5354
+26/09/2017 12:53:27: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:53:27: | RemoteEndPoint / Port: 49156
+26/09/2017 12:53:27: | State: Established
+26/09/2017 12:53:27: ----------
+26/09/2017 12:53:27: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:53:27: | LocalEndPoint / Port: 59577
+26/09/2017 12:53:27: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:53:27: | RemoteEndPoint / Port: 27015
+26/09/2017 12:53:27: | State: TimeWait
+26/09/2017 12:53:27: ----------
+26/09/2017 12:53:27: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:53:27: | LocalEndPoint / Port: 23560
+26/09/2017 12:53:27: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:53:27: | RemoteEndPoint / Port: 49287
+26/09/2017 12:53:27: | State: Established
+26/09/2017 12:53:27: ----------
+26/09/2017 12:53:27: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:53:27: | LocalEndPoint / Port: 49214
+26/09/2017 12:53:27: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:53:27: | RemoteEndPoint / Port: 24801
+26/09/2017 12:53:27: | State: Established
+26/09/2017 12:53:27: ----------
+26/09/2017 12:53:27: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:53:27: | LocalEndPoint / Port: 49287
+26/09/2017 12:53:27: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:53:27: | RemoteEndPoint / Port: 23560
+26/09/2017 12:53:27: | State: Established
+26/09/2017 12:53:27: ----------
+26/09/2017 12:53:27: | LocalEndPoint / Address: 127.0.0.1
+26/09/2017 12:53:27: | LocalEndPoint / Port: 5354
+26/09/2017 12:53:27: | RemoteEndPoint / Address: 127.0.0.1
+26/09/2017 12:53:27: | RemoteEndPoint / Port: 49157
+26/09/2017 12:53:27: | State: Established
+26/09/2017 12:53:27: ----------

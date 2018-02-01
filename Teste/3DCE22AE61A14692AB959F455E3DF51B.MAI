@@ -1,0 +1,12 @@
+Recipients=[SMTP:soltinhos@soltinhos.com.br]
+Server=WIN-BHH9KHOIJM5
+Sender=[SMTP:soltinhos-0846b-soltinhos.com.br-0846b@103ervquermas.com.br]
+TimeAcquired=1498519183
+ClientIP=77.81.232.160
+AuthenticationStatus=0
+Priority=
+Campaign=
+Account=soltinhos.com.br
+Status=Undelivered
+CommandType=
+Subject==?UTF-8?B?U29xdWV0ZSBVbml2ZXJzYWwgLSBMYW1wacOjbyBMRUQgLSBWaWJyYSBUb25lIC0gTWljcm9zY8OzcGlvIFVTQiAtIEludmVyc29yIFZlaWN1bGFy?=

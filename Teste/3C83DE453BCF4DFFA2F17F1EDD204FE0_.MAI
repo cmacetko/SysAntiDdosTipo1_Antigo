@@ -1,0 +1,13 @@
+Recipients=[SMTP:sac@agtexpress.com.br]
+Server=WIN-BHH9KHOIJM5
+Sender=[SMTP:sac@arletetransportes.com.br]
+TimeAcquired=1498518581
+ClientIP=209.85.216.171
+AuthenticationStatus=0
+User=
+Account=agtexpress.com.br
+Priority=
+Campaign=
+Status=UnDelivered
+CommandType=
+Subject=RES: Agendamento NF 81863 Hydra

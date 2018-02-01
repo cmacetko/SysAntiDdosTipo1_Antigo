@@ -1,0 +1,13 @@
+Recipients=[SMTP:marcelo@biawimalhas.com.br]
+Server=WIN-BHH9KHOIJM5
+Sender=[SMTP:faturamento@alfatransportes.com.br]
+TimeAcquired=1498517982
+ClientIP=168.0.132.15
+AuthenticationStatus=0
+User=
+Account=biawimalhas.com.br
+Priority=
+Campaign=
+Status=UnDelivered
+CommandType=
+Subject=XML do CTe [41 - 1557676] Alfa Transportes

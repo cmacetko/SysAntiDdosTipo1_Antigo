@@ -1,0 +1,13 @@
+Recipients=[SMTP:juliano@omseguros.net]
+Server=WIN-BHH9KHOIJM5
+Sender=[SMTP:bounces-657385014266196285@explore.pinterest.com]
+TimeAcquired=1498517984
+ClientIP=54.149.191.238
+AuthenticationStatus=0
+User=
+Account=omseguros.net
+Priority=
+Campaign=
+Status=UnDelivered
+CommandType=
+Subject==?utf-8?q?Pins_de_Escrit=C3=B3rios_escolhidos_s=C3=B3_para_voc=C3=AA?=

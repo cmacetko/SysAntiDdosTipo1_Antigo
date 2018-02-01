@@ -1,0 +1,13 @@
+Recipients=[SMTP:atendimento@web4.com.br]
+Server=WIN-BHH9KHOIJM5
+Sender=[SMTP:return-a501-51368-51481-atendimento=web4.com.br=4@ls.transactionald.com.br]
+TimeAcquired=1498517855
+ClientIP=170.231.145.131
+AuthenticationStatus=0
+User=
+Account=web4.com.br
+Priority=
+Campaign=
+Status=UnDelivered
+CommandType=
+Subject==?UTF-8?Q?Um=20=F0=9F=8E=81=20especial=20para=20voc=C3=AA=21?=

@@ -1,0 +1,13 @@
+Recipients=[SMTP:jeferson@gmtextil.com.br]
+Server=WIN-BHH9KHOIJM5
+Sender=[SMTP:bounces+4672254-f303-jeferson=gmtextil.com.br@sg.marianathome.com.br]
+TimeAcquired=1498518231
+ClientIP=167.89.61.16
+AuthenticationStatus=0
+User=
+Account=gmtextil.com.br
+Priority=
+Campaign=
+Status=UnDelivered
+CommandType=
+Subject==?UTF-8?Q?Como_est=C3=A3o_os_Im=C3=B3veis_em_Florian=C3=B3polis=3F?=

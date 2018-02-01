@@ -1,0 +1,13 @@
+Recipients=[SMTP:towbar@towbar.com.br]
+Server=WIN-BHH9KHOIJM5
+Sender=[SMTP:return@chegou.email]
+TimeAcquired=1498518586
+ClientIP=23.239.69.166
+AuthenticationStatus=0
+User=
+Account=towbar.com.br
+Priority=
+Campaign=
+Status=UnDelivered
+CommandType=
+Subject==?utf-8?Q?Especial_para_voc=C3=AA_apaixonado_por_rel=C3=B3gios?=

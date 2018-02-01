@@ -1,0 +1,13 @@
+Recipients=[SMTP:compras@auraepele.com.br]
+Server=WIN-BHH9KHOIJM5
+Sender=[SMTP:return-a350-55989-56136-compras=auraepele.com.br=4@tj.vrgmailn.com.br]
+TimeAcquired=1498518604
+ClientIP=209.9.89.134
+AuthenticationStatus=0
+User=
+Account=auraepele.com.br
+Priority=
+Campaign=
+Status=UnDelivered
+CommandType=
+Subject==?UTF-8?Q?Fa=C3=A7a=20j=C3=A1=20seu=20teste=21?=

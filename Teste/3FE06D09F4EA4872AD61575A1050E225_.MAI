@@ -1,0 +1,13 @@
+Recipients=[SMTP:towbar@towbar.com.br]
+Server=WIN-BHH9KHOIJM5
+Sender=[SMTP:b-towbar=towbar.com.br@mta15.muitaluz.com]
+TimeAcquired=1498518623
+ClientIP=177.136.10.46
+AuthenticationStatus=0
+User=
+Account=towbar.com.br
+Priority=
+Campaign=
+Status=UnDelivered
+CommandType=
+Subject==?iso-8859-1?Q?Cupom_de_15%OFF_no_Site_Todo=2E_Oportunidade_=DAni?=

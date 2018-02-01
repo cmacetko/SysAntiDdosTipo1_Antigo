@@ -1,0 +1,12 @@
+Recipients=[SMTP:contato@npfashion.com.br]
+Server=WIN-BHH9KHOIJM5
+Sender=[SMTP:send-contato-1618-npfashion.com.br-8@oferta1000.com.br]
+TimeAcquired=1498518538
+ClientIP=179.97.58.54
+AuthenticationStatus=0
+Priority=
+Campaign=
+Account=npfashion.com.br
+Status=Undelivered
+CommandType=
+Subject==?UTF-8?B?TGl2cmUtc2UgZGFzIFJ1Z2FzLE1hcmNhcyBkZSBFeHByZXNzw6NvIGUgUmVqdXZlbmVzw6dhIQ==?=

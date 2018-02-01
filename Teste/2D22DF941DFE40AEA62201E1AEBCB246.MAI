@@ -1,0 +1,12 @@
+Recipients=[SMTP:contato@contatocomvisual.com.br]
+Server=WIN-BHH9KHOIJM5
+Sender=[SMTP:contato@7.izeevps.com]
+TimeAcquired=1498519239
+ClientIP=94.74.74.122
+AuthenticationStatus=0
+Priority=
+Campaign=
+Account=contatocomvisual.com.br
+Status=Undelivered
+CommandType=
+Subject==?utf-8?B?R2VzdMOjbyBlIEZpbmFuw6dhcyBjb20gUmljYXJkbyBBbW9y?=

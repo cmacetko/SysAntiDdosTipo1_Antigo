@@ -1,0 +1,13 @@
+Recipients=[SMTP:atendimento@ciauni.com.br]
+Server=WIN-BHH9KHOIJM5
+Sender=[SMTP:centraldemarketing@fael.edu.br]
+TimeAcquired=1498518400
+ClientIP=209.85.161.175
+AuthenticationStatus=0
+User=
+Account=ciauni.com.br
+Priority=
+Campaign=
+Status=UnDelivered
+CommandType=
+Subject==?UTF-8?Q?Re=3A_PEDIDO_DE_COMPRA_=2D_CAMPANHA_2017=2D3_E_2017=2D4_=2D_S?=

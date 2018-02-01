@@ -1,0 +1,12 @@
+Recipients=[SMTP:atendimento@web4business.com.br]
+Server=WIN-BHH9KHOIJM5
+Sender=[SMTP:nfe@grupohold.top]
+TimeAcquired=1498519311
+ClientIP=5.249.150.30
+AuthenticationStatus=0
+Priority=
+Campaign=
+Account=
+Status=Undelivered
+CommandType=
+Subject=URGENTE - Arquivos da NF-e Xml NFe 0005709

@@ -1,0 +1,13 @@
+Recipients=[SMTP:ATENDIMENTO@REMAEL.COM.BR]
+Server=WIN-BHH9KHOIJM5
+Sender=[SMTP:bounce-28_HTML-4004192-7544-7279533-907@bounce.programadotz.com.br]
+TimeAcquired=1498517943
+ClientIP=13.111.4.147
+AuthenticationStatus=0
+User=
+Account=remael.com.br
+Priority=
+Campaign=
+Status=UnDelivered
+CommandType=
+Subject==?UTF-8?B?8J+UpSBJTUJBVMONVkVMISBBdMOpIDcwJSBPRkYgbm8gTWFnYXpp?=

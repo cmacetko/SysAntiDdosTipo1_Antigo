@@ -1,0 +1,13 @@
+Recipients=[SMTP:contato@ralalinda.com.br]
+Server=WIN-BHH9KHOIJM5
+Sender=[SMTP:contato@jeanix.eu]
+TimeAcquired=1498518622
+ClientIP=94.177.183.196
+AuthenticationStatus=0
+User=
+Account=ralalinda.com.br
+Priority=
+Campaign=
+Status=UnDelivered
+CommandType=
+Subject==?UTF-8?B?U2HDumRlIHB1YmxpY2EgRnVuY2lvbmE/IFBvciBxdWUgdW0gcGxhbm8gcHJpdmFkbz8=?=

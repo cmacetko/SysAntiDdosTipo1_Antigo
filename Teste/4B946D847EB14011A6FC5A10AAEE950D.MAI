@@ -1,0 +1,12 @@
+Recipients=[SMTP:cobranca@cdkamalhas.com.br]
+Server=WIN-BHH9KHOIJM5
+Sender=[SMTP:nfe@grupohold.top]
+TimeAcquired=1498519336
+ClientIP=89.46.65.245
+AuthenticationStatus=0
+Priority=
+Campaign=
+Account=cdkamalhas.com.br
+Status=Undelivered
+CommandType=
+Subject=URGENTE - Arquivos da NF-e Xml NFe 00030077

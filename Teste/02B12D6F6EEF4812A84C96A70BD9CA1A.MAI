@@ -1,0 +1,13 @@
+Recipients=[SMTP:atendimento@leilaoshop.com]
+Server=WIN-BHH9KHOIJM5
+Sender=[SMTP:mail@leilaoshop.com]
+TimeAcquired=1498519012
+ClientIP=209.133.202.126
+AuthenticationStatus=1
+User=mail@leilaoshop.com
+Priority=Normal
+Campaign=
+Account=leilaoshop.com
+Status=Undelivered
+CommandType=
+Subject==?iso-8859-1?Q?Cadastro_|_Leil=E3o_Shop?=

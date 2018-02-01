@@ -1,0 +1,13 @@
+Recipients=[SMTP:adailton@gmtextil.com.br]
+Server=WIN-BHH9KHOIJM5
+Sender=[SMTP:bounce2@cotacaoja.com.br]
+TimeAcquired=1498518621
+ClientIP=185.67.134.108
+AuthenticationStatus=0
+User=
+Account=gmtextil.com.br
+Priority=
+Campaign=
+Status=UnDelivered
+CommandType=
+Subject==?UTF-8?B?Tm92YSBaMzAwIGRhIEthd2FzYWtpIHBvciBhcGVuYXMgUiQxODgsMzgvbcOqcw==?=

@@ -1,0 +1,13 @@
+Recipients=[SMTP:financeiro@remael.com.br]
+Server=WIN-BHH9KHOIJM5
+Sender=[SMTP:bounce2@contatopormail.com.br]
+TimeAcquired=1498518959
+ClientIP=143.202.152.121
+AuthenticationStatus=0
+User=
+Account=remael.com.br
+Priority=
+Campaign=
+Status=UnDelivered
+CommandType=
+Subject==?UTF-8?B?Q09URSBBR09SQSAtIFBsYW5vcyBlbXByZXNhcmlhaXMsIGluZGl2aWR1YWlzIGUgZmFtaWxpYXJlcyBjb20gYXTDqSAzMCUgZGUgZGVzY29udG8h?=

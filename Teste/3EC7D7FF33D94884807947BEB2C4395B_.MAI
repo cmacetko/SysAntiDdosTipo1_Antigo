@@ -1,0 +1,13 @@
+Recipients=[SMTP:projetos@web4business.com.br]
+Server=WIN-BHH9KHOIJM5
+Sender=[SMTP:atendimento@web4business.com.br]
+TimeAcquired=1498518617
+ClientIP=127.0.0.1
+AuthenticationStatus=0
+User=
+Account=web4business.com.br
+Priority=
+Campaign=
+Status=UnDelivered
+CommandType=NDR
+Subject=Message Delivery Failure - =?iso-8859-1?Q??=

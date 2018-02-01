@@ -1,0 +1,12 @@
+Recipients=[SMTP:financeiro@usadaomaquinas.com.br]
+Server=WIN-BHH9KHOIJM5
+Sender=[SMTP:f2w2@f2w2.com.br]
+TimeAcquired=1498519053
+ClientIP=173.44.45.37
+AuthenticationStatus=0
+Priority=
+Campaign=
+Account=usadaomaquinas.com.br
+Status=Undelivered
+CommandType=
+Subject=

@@ -1,0 +1,12 @@
+Recipients=[SMTP:jaison@phorman.com.br]
+Server=WIN-BHH9KHOIJM5
+Sender=[SMTP:parceiro@mail.superdescontodanet.com.br]
+TimeAcquired=1498518357
+ClientIP=91.108.64.99
+AuthenticationStatus=0
+Priority=
+Campaign=
+Account=phorman.com.br
+Status=Undelivered
+CommandType=
+Subject==?UTF-8?B?QSBiYWl4YSB0ZW1wb3JhZGEgZSBhIG1lbGhvciBlcG9jYSBwYXJhIHZpYWphciEhISBBcHJvdmVpdGUgbm9zc2FzIE9mZXJ0YXMhISE=?=

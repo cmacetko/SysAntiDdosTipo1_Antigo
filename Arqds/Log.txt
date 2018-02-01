@@ -1,0 +1,222 @@
+﻿22/09/2017 11:49:26: INFO - Iniciado Checagem
+22/09/2017 11:49:27: INFO - Finalizado Checagem
+22/09/2017 11:50:20: INFO - Iniciado Checagem
+22/09/2017 11:50:20: INFO - Finalizado Checagem
+22/09/2017 12:22:05: INFO - Iniciado Checagem
+22/09/2017 12:22:05: INFO - Bloqueio de IP: 201.76.221.104 / Ocorrencias: 8
+22/09/2017 12:22:06: INFO - Bloqueio de IP: 149.202.62.215 / Ocorrencias: 4
+22/09/2017 12:22:07: INFO - Finalizado Checagem
+22/09/2017 12:22:44: INFO - Iniciado Checagem
+22/09/2017 12:22:44: INFO - Bloqueio de IP: 201.76.221.104 / Ocorrencias: 8
+22/09/2017 12:22:45: INFO - Bloqueio de IP: 149.202.62.215 / Ocorrencias: 4
+22/09/2017 12:22:46: INFO - Finalizado Checagem
+22/09/2017 12:36:34: INFO - Iniciado Checagem
+22/09/2017 12:36:34: INFO - Bloqueio de IP: 201.76.221.104 / Ocorrencias: 8
+22/09/2017 12:36:35: INFO - Bloqueio de IP: 149.202.62.215 / Ocorrencias: 4
+22/09/2017 12:36:35: INFO - Finalizado Checagem
+22/09/2017 13:34:21: INFO - Iniciado Checagem
+22/09/2017 13:34:21: INFO - Bloqueio de IP: 201.76.221.104 / Ocorrencias: 8
+22/09/2017 13:34:22: INFO - Bloqueio de IP: 149.202.62.215 / Ocorrencias: 4
+22/09/2017 13:34:22: INFO - Finalizado Checagem
+22/09/2017 13:37:50: INFO - Iniciado Checagem
+22/09/2017 13:37:50: INFO - Bloqueio de IP: 201.76.221.104 / Ocorrencias: 8
+22/09/2017 13:37:50: INFO - Bloqueio de IP: 149.202.62.215 / Ocorrencias: 4
+22/09/2017 13:37:50: INFO - Finalizado Checagem
+22/09/2017 13:37:56: INFO - Iniciado Checagem
+22/09/2017 13:37:56: ERRO - Message: O item já foi adicionado. Chave contida no dicionário: '004D411DC14C4E2886E4EB32A3C9F18C_.MAI'; chave sendo adicionada: '004D411DC14C4E2886E4EB32A3C9F18C_.MAI' / HelpLink:  / Source: mscorlib / StackTrace:    em System.Collections.Hashtable.Insert(Object key, Object nvalue, Boolean add)
+   em System.Collections.Hashtable.Add(Object key, Object value)
+   em SysAntiDdosTipo1.SckSites.Acao_CarregarWorkerProcesses() na D:\VB.Net\SysAntiDdosTipo1\SysAntiDdosTipo1\Incs\SckSites.vb:linha 130 / TargetSite: Void Insert(System.Object, System.Object, Boolean)
+22/09/2017 13:37:57: INFO - Iniciado Checagem
+22/09/2017 13:37:57: ERRO - Message: O item já foi adicionado. Chave contida no dicionário: '004D411DC14C4E2886E4EB32A3C9F18C_.MAI'; chave sendo adicionada: '004D411DC14C4E2886E4EB32A3C9F18C_.MAI' / HelpLink:  / Source: mscorlib / StackTrace:    em System.Collections.Hashtable.Insert(Object key, Object nvalue, Boolean add)
+   em System.Collections.Hashtable.Add(Object key, Object value)
+   em SysAntiDdosTipo1.SckSites.Acao_CarregarWorkerProcesses() na D:\VB.Net\SysAntiDdosTipo1\SysAntiDdosTipo1\Incs\SckSites.vb:linha 130 / TargetSite: Void Insert(System.Object, System.Object, Boolean)
+22/09/2017 13:37:58: INFO - Iniciado Checagem
+22/09/2017 13:37:58: ERRO - Message: O item já foi adicionado. Chave contida no dicionário: '004D411DC14C4E2886E4EB32A3C9F18C_.MAI'; chave sendo adicionada: '004D411DC14C4E2886E4EB32A3C9F18C_.MAI' / HelpLink:  / Source: mscorlib / StackTrace:    em System.Collections.Hashtable.Insert(Object key, Object nvalue, Boolean add)
+   em System.Collections.Hashtable.Add(Object key, Object value)
+   em SysAntiDdosTipo1.SckSites.Acao_CarregarWorkerProcesses() na D:\VB.Net\SysAntiDdosTipo1\SysAntiDdosTipo1\Incs\SckSites.vb:linha 130 / TargetSite: Void Insert(System.Object, System.Object, Boolean)
+22/09/2017 13:37:59: INFO - Iniciado Checagem
+22/09/2017 13:37:59: ERRO - Message: O item já foi adicionado. Chave contida no dicionário: '004D411DC14C4E2886E4EB32A3C9F18C_.MAI'; chave sendo adicionada: '004D411DC14C4E2886E4EB32A3C9F18C_.MAI' / HelpLink:  / Source: mscorlib / StackTrace:    em System.Collections.Hashtable.Insert(Object key, Object nvalue, Boolean add)
+   em System.Collections.Hashtable.Add(Object key, Object value)
+   em SysAntiDdosTipo1.SckSites.Acao_CarregarWorkerProcesses() na D:\VB.Net\SysAntiDdosTipo1\SysAntiDdosTipo1\Incs\SckSites.vb:linha 130 / TargetSite: Void Insert(System.Object, System.Object, Boolean)
+22/09/2017 13:38:00: INFO - Iniciado Checagem
+22/09/2017 13:38:00: ERRO - Message: O item já foi adicionado. Chave contida no dicionário: '004D411DC14C4E2886E4EB32A3C9F18C_.MAI'; chave sendo adicionada: '004D411DC14C4E2886E4EB32A3C9F18C_.MAI' / HelpLink:  / Source: mscorlib / StackTrace:    em System.Collections.Hashtable.Insert(Object key, Object nvalue, Boolean add)
+   em System.Collections.Hashtable.Add(Object key, Object value)
+   em SysAntiDdosTipo1.SckSites.Acao_CarregarWorkerProcesses() na D:\VB.Net\SysAntiDdosTipo1\SysAntiDdosTipo1\Incs\SckSites.vb:linha 130 / TargetSite: Void Insert(System.Object, System.Object, Boolean)
+22/09/2017 13:38:01: INFO - Iniciado Checagem
+22/09/2017 13:38:01: ERRO - Message: O item já foi adicionado. Chave contida no dicionário: '004D411DC14C4E2886E4EB32A3C9F18C_.MAI'; chave sendo adicionada: '004D411DC14C4E2886E4EB32A3C9F18C_.MAI' / HelpLink:  / Source: mscorlib / StackTrace:    em System.Collections.Hashtable.Insert(Object key, Object nvalue, Boolean add)
+   em System.Collections.Hashtable.Add(Object key, Object value)
+   em SysAntiDdosTipo1.SckSites.Acao_CarregarWorkerProcesses() na D:\VB.Net\SysAntiDdosTipo1\SysAntiDdosTipo1\Incs\SckSites.vb:linha 130 / TargetSite: Void Insert(System.Object, System.Object, Boolean)
+22/09/2017 13:38:02: INFO - Iniciado Checagem
+22/09/2017 13:38:02: ERRO - Message: O item já foi adicionado. Chave contida no dicionário: '004D411DC14C4E2886E4EB32A3C9F18C_.MAI'; chave sendo adicionada: '004D411DC14C4E2886E4EB32A3C9F18C_.MAI' / HelpLink:  / Source: mscorlib / StackTrace:    em System.Collections.Hashtable.Insert(Object key, Object nvalue, Boolean add)
+   em System.Collections.Hashtable.Add(Object key, Object value)
+   em SysAntiDdosTipo1.SckSites.Acao_CarregarWorkerProcesses() na D:\VB.Net\SysAntiDdosTipo1\SysAntiDdosTipo1\Incs\SckSites.vb:linha 130 / TargetSite: Void Insert(System.Object, System.Object, Boolean)
+22/09/2017 13:38:03: INFO - Iniciado Checagem
+22/09/2017 13:38:03: ERRO - Message: O item já foi adicionado. Chave contida no dicionário: '004D411DC14C4E2886E4EB32A3C9F18C_.MAI'; chave sendo adicionada: '004D411DC14C4E2886E4EB32A3C9F18C_.MAI' / HelpLink:  / Source: mscorlib / StackTrace:    em System.Collections.Hashtable.Insert(Object key, Object nvalue, Boolean add)
+   em System.Collections.Hashtable.Add(Object key, Object value)
+   em SysAntiDdosTipo1.SckSites.Acao_CarregarWorkerProcesses() na D:\VB.Net\SysAntiDdosTipo1\SysAntiDdosTipo1\Incs\SckSites.vb:linha 130 / TargetSite: Void Insert(System.Object, System.Object, Boolean)
+22/09/2017 13:38:04: INFO - Iniciado Checagem
+22/09/2017 13:38:04: ERRO - Message: O item já foi adicionado. Chave contida no dicionário: '004D411DC14C4E2886E4EB32A3C9F18C_.MAI'; chave sendo adicionada: '004D411DC14C4E2886E4EB32A3C9F18C_.MAI' / HelpLink:  / Source: mscorlib / StackTrace:    em System.Collections.Hashtable.Insert(Object key, Object nvalue, Boolean add)
+   em System.Collections.Hashtable.Add(Object key, Object value)
+   em SysAntiDdosTipo1.SckSites.Acao_CarregarWorkerProcesses() na D:\VB.Net\SysAntiDdosTipo1\SysAntiDdosTipo1\Incs\SckSites.vb:linha 130 / TargetSite: Void Insert(System.Object, System.Object, Boolean)
+22/09/2017 13:38:05: INFO - Iniciado Checagem
+22/09/2017 13:38:05: ERRO - Message: O item já foi adicionado. Chave contida no dicionário: '004D411DC14C4E2886E4EB32A3C9F18C_.MAI'; chave sendo adicionada: '004D411DC14C4E2886E4EB32A3C9F18C_.MAI' / HelpLink:  / Source: mscorlib / StackTrace:    em System.Collections.Hashtable.Insert(Object key, Object nvalue, Boolean add)
+   em System.Collections.Hashtable.Add(Object key, Object value)
+   em SysAntiDdosTipo1.SckSites.Acao_CarregarWorkerProcesses() na D:\VB.Net\SysAntiDdosTipo1\SysAntiDdosTipo1\Incs\SckSites.vb:linha 130 / TargetSite: Void Insert(System.Object, System.Object, Boolean)
+22/09/2017 13:38:06: INFO - Iniciado Checagem
+22/09/2017 13:38:06: ERRO - Message: O item já foi adicionado. Chave contida no dicionário: '004D411DC14C4E2886E4EB32A3C9F18C_.MAI'; chave sendo adicionada: '004D411DC14C4E2886E4EB32A3C9F18C_.MAI' / HelpLink:  / Source: mscorlib / StackTrace:    em System.Collections.Hashtable.Insert(Object key, Object nvalue, Boolean add)
+   em System.Collections.Hashtable.Add(Object key, Object value)
+   em SysAntiDdosTipo1.SckSites.Acao_CarregarWorkerProcesses() na D:\VB.Net\SysAntiDdosTipo1\SysAntiDdosTipo1\Incs\SckSites.vb:linha 130 / TargetSite: Void Insert(System.Object, System.Object, Boolean)
+22/09/2017 13:38:29: INFO - Iniciado Checagem
+22/09/2017 13:38:30: INFO - Bloqueio de IP: 201.76.221.104 / Ocorrencias: 8
+22/09/2017 13:38:30: INFO - Bloqueio de IP: 149.202.62.215 / Ocorrencias: 4
+22/09/2017 13:38:30: INFO - Finalizado Checagem
+22/09/2017 13:39:03: INFO - Iniciado Checagem
+22/09/2017 13:39:03: INFO - Bloqueio de IP: 201.76.221.104 / Ocorrencias: 8
+22/09/2017 13:39:03: INFO - Bloqueio de IP: 149.202.62.215 / Ocorrencias: 4
+22/09/2017 13:39:03: INFO - Finalizado Checagem
+22/09/2017 13:39:06: INFO - Iniciado Checagem
+22/09/2017 13:39:06: ERRO - Message: O item já foi adicionado. Chave contida no dicionário: '004D411DC14C4E2886E4EB32A3C9F18C_.MAI'; chave sendo adicionada: '004D411DC14C4E2886E4EB32A3C9F18C_.MAI' / HelpLink:  / Source: mscorlib / StackTrace:    em System.Collections.Hashtable.Insert(Object key, Object nvalue, Boolean add)
+   em System.Collections.Hashtable.Add(Object key, Object value)
+   em SysAntiDdosTipo1.SckSites.Acao_CarregarWorkerProcesses() na D:\VB.Net\SysAntiDdosTipo1\SysAntiDdosTipo1\Incs\SckSites.vb:linha 130 / TargetSite: Void Insert(System.Object, System.Object, Boolean)
+22/09/2017 13:39:07: INFO - Iniciado Checagem
+22/09/2017 13:39:07: ERRO - Message: O item já foi adicionado. Chave contida no dicionário: '004D411DC14C4E2886E4EB32A3C9F18C_.MAI'; chave sendo adicionada: '004D411DC14C4E2886E4EB32A3C9F18C_.MAI' / HelpLink:  / Source: mscorlib / StackTrace:    em System.Collections.Hashtable.Insert(Object key, Object nvalue, Boolean add)
+   em System.Collections.Hashtable.Add(Object key, Object value)
+   em SysAntiDdosTipo1.SckSites.Acao_CarregarWorkerProcesses() na D:\VB.Net\SysAntiDdosTipo1\SysAntiDdosTipo1\Incs\SckSites.vb:linha 130 / TargetSite: Void Insert(System.Object, System.Object, Boolean)
+22/09/2017 13:39:08: INFO - Iniciado Checagem
+22/09/2017 13:39:08: ERRO - Message: O item já foi adicionado. Chave contida no dicionário: '004D411DC14C4E2886E4EB32A3C9F18C_.MAI'; chave sendo adicionada: '004D411DC14C4E2886E4EB32A3C9F18C_.MAI' / HelpLink:  / Source: mscorlib / StackTrace:    em System.Collections.Hashtable.Insert(Object key, Object nvalue, Boolean add)
+   em System.Collections.Hashtable.Add(Object key, Object value)
+   em SysAntiDdosTipo1.SckSites.Acao_CarregarWorkerProcesses() na D:\VB.Net\SysAntiDdosTipo1\SysAntiDdosTipo1\Incs\SckSites.vb:linha 130 / TargetSite: Void Insert(System.Object, System.Object, Boolean)
+22/09/2017 13:39:09: INFO - Iniciado Checagem
+22/09/2017 13:39:09: ERRO - Message: O item já foi adicionado. Chave contida no dicionário: '004D411DC14C4E2886E4EB32A3C9F18C_.MAI'; chave sendo adicionada: '004D411DC14C4E2886E4EB32A3C9F18C_.MAI' / HelpLink:  / Source: mscorlib / StackTrace:    em System.Collections.Hashtable.Insert(Object key, Object nvalue, Boolean add)
+   em System.Collections.Hashtable.Add(Object key, Object value)
+   em SysAntiDdosTipo1.SckSites.Acao_CarregarWorkerProcesses() na D:\VB.Net\SysAntiDdosTipo1\SysAntiDdosTipo1\Incs\SckSites.vb:linha 130 / TargetSite: Void Insert(System.Object, System.Object, Boolean)
+22/09/2017 13:39:34: INFO - Iniciado Checagem
+22/09/2017 13:39:34: INFO - Bloqueio de IP: 201.76.221.104 / Ocorrencias: 8
+22/09/2017 13:39:34: INFO - Bloqueio de IP: 149.202.62.215 / Ocorrencias: 4
+22/09/2017 13:39:34: INFO - Finalizado Checagem
+22/09/2017 13:39:37: INFO - Iniciado Checagem
+22/09/2017 13:39:37: ERRO - Message: O item já foi adicionado. Chave contida no dicionário: '004D411DC14C4E2886E4EB32A3C9F18C_.MAI'; chave sendo adicionada: '004D411DC14C4E2886E4EB32A3C9F18C_.MAI' / HelpLink:  / Source: mscorlib / StackTrace:    em System.Collections.Hashtable.Insert(Object key, Object nvalue, Boolean add)
+   em System.Collections.Hashtable.Add(Object key, Object value)
+   em SysAntiDdosTipo1.SckSites.Acao_CarregarWorkerProcesses() na D:\VB.Net\SysAntiDdosTipo1\SysAntiDdosTipo1\Incs\SckSites.vb:linha 130 / TargetSite: Void Insert(System.Object, System.Object, Boolean)
+22/09/2017 13:39:38: INFO - Iniciado Checagem
+22/09/2017 13:39:38: ERRO - Message: O item já foi adicionado. Chave contida no dicionário: '004D411DC14C4E2886E4EB32A3C9F18C_.MAI'; chave sendo adicionada: '004D411DC14C4E2886E4EB32A3C9F18C_.MAI' / HelpLink:  / Source: mscorlib / StackTrace:    em System.Collections.Hashtable.Insert(Object key, Object nvalue, Boolean add)
+   em System.Collections.Hashtable.Add(Object key, Object value)
+   em SysAntiDdosTipo1.SckSites.Acao_CarregarWorkerProcesses() na D:\VB.Net\SysAntiDdosTipo1\SysAntiDdosTipo1\Incs\SckSites.vb:linha 130 / TargetSite: Void Insert(System.Object, System.Object, Boolean)
+22/09/2017 13:39:39: INFO - Iniciado Checagem
+22/09/2017 13:39:39: ERRO - Message: O item já foi adicionado. Chave contida no dicionário: '004D411DC14C4E2886E4EB32A3C9F18C_.MAI'; chave sendo adicionada: '004D411DC14C4E2886E4EB32A3C9F18C_.MAI' / HelpLink:  / Source: mscorlib / StackTrace:    em System.Collections.Hashtable.Insert(Object key, Object nvalue, Boolean add)
+   em System.Collections.Hashtable.Add(Object key, Object value)
+   em SysAntiDdosTipo1.SckSites.Acao_CarregarWorkerProcesses() na D:\VB.Net\SysAntiDdosTipo1\SysAntiDdosTipo1\Incs\SckSites.vb:linha 130 / TargetSite: Void Insert(System.Object, System.Object, Boolean)
+22/09/2017 13:39:40: INFO - Iniciado Checagem
+22/09/2017 13:39:40: ERRO - Message: O item já foi adicionado. Chave contida no dicionário: '004D411DC14C4E2886E4EB32A3C9F18C_.MAI'; chave sendo adicionada: '004D411DC14C4E2886E4EB32A3C9F18C_.MAI' / HelpLink:  / Source: mscorlib / StackTrace:    em System.Collections.Hashtable.Insert(Object key, Object nvalue, Boolean add)
+   em System.Collections.Hashtable.Add(Object key, Object value)
+   em SysAntiDdosTipo1.SckSites.Acao_CarregarWorkerProcesses() na D:\VB.Net\SysAntiDdosTipo1\SysAntiDdosTipo1\Incs\SckSites.vb:linha 130 / TargetSite: Void Insert(System.Object, System.Object, Boolean)
+22/09/2017 13:39:41: INFO - Iniciado Checagem
+22/09/2017 13:39:41: ERRO - Message: O item já foi adicionado. Chave contida no dicionário: '004D411DC14C4E2886E4EB32A3C9F18C_.MAI'; chave sendo adicionada: '004D411DC14C4E2886E4EB32A3C9F18C_.MAI' / HelpLink:  / Source: mscorlib / StackTrace:    em System.Collections.Hashtable.Insert(Object key, Object nvalue, Boolean add)
+   em System.Collections.Hashtable.Add(Object key, Object value)
+   em SysAntiDdosTipo1.SckSites.Acao_CarregarWorkerProcesses() na D:\VB.Net\SysAntiDdosTipo1\SysAntiDdosTipo1\Incs\SckSites.vb:linha 130 / TargetSite: Void Insert(System.Object, System.Object, Boolean)
+22/09/2017 13:40:28: INFO - Iniciado Checagem
+22/09/2017 13:40:29: INFO - Bloqueio de IP: 201.76.221.104 / Ocorrencias: 8
+22/09/2017 13:40:29: INFO - Bloqueio de IP: 149.202.62.215 / Ocorrencias: 4
+22/09/2017 13:40:29: INFO - Finalizado Checagem
+22/09/2017 13:40:48: INFO - Iniciado Checagem
+22/09/2017 13:40:48: ERRO - Message: O item já foi adicionado. Chave contida no dicionário: '004D411DC14C4E2886E4EB32A3C9F18C_.MAI'; chave sendo adicionada: '004D411DC14C4E2886E4EB32A3C9F18C_.MAI' / HelpLink:  / Source: mscorlib / StackTrace:    em System.Collections.Hashtable.Insert(Object key, Object nvalue, Boolean add)
+   em System.Collections.Hashtable.Add(Object key, Object value)
+   em SysAntiDdosTipo1.SckSites.Acao_CarregarWorkerProcesses() na D:\VB.Net\SysAntiDdosTipo1\SysAntiDdosTipo1\Incs\SckSites.vb:linha 130 / TargetSite: Void Insert(System.Object, System.Object, Boolean)
+22/09/2017 13:40:49: INFO - Iniciado Checagem
+22/09/2017 13:40:49: ERRO - Message: O item já foi adicionado. Chave contida no dicionário: '004D411DC14C4E2886E4EB32A3C9F18C_.MAI'; chave sendo adicionada: '004D411DC14C4E2886E4EB32A3C9F18C_.MAI' / HelpLink:  / Source: mscorlib / StackTrace:    em System.Collections.Hashtable.Insert(Object key, Object nvalue, Boolean add)
+   em System.Collections.Hashtable.Add(Object key, Object value)
+   em SysAntiDdosTipo1.SckSites.Acao_CarregarWorkerProcesses() na D:\VB.Net\SysAntiDdosTipo1\SysAntiDdosTipo1\Incs\SckSites.vb:linha 130 / TargetSite: Void Insert(System.Object, System.Object, Boolean)
+22/09/2017 13:40:50: INFO - Iniciado Checagem
+22/09/2017 13:40:50: ERRO - Message: O item já foi adicionado. Chave contida no dicionário: '004D411DC14C4E2886E4EB32A3C9F18C_.MAI'; chave sendo adicionada: '004D411DC14C4E2886E4EB32A3C9F18C_.MAI' / HelpLink:  / Source: mscorlib / StackTrace:    em System.Collections.Hashtable.Insert(Object key, Object nvalue, Boolean add)
+   em System.Collections.Hashtable.Add(Object key, Object value)
+   em SysAntiDdosTipo1.SckSites.Acao_CarregarWorkerProcesses() na D:\VB.Net\SysAntiDdosTipo1\SysAntiDdosTipo1\Incs\SckSites.vb:linha 130 / TargetSite: Void Insert(System.Object, System.Object, Boolean)
+22/09/2017 13:40:51: INFO - Iniciado Checagem
+22/09/2017 13:40:51: ERRO - Message: O item já foi adicionado. Chave contida no dicionário: '004D411DC14C4E2886E4EB32A3C9F18C_.MAI'; chave sendo adicionada: '004D411DC14C4E2886E4EB32A3C9F18C_.MAI' / HelpLink:  / Source: mscorlib / StackTrace:    em System.Collections.Hashtable.Insert(Object key, Object nvalue, Boolean add)
+   em System.Collections.Hashtable.Add(Object key, Object value)
+   em SysAntiDdosTipo1.SckSites.Acao_CarregarWorkerProcesses() na D:\VB.Net\SysAntiDdosTipo1\SysAntiDdosTipo1\Incs\SckSites.vb:linha 130 / TargetSite: Void Insert(System.Object, System.Object, Boolean)
+22/09/2017 13:40:52: INFO - Iniciado Checagem
+22/09/2017 13:40:52: ERRO - Message: O item já foi adicionado. Chave contida no dicionário: '004D411DC14C4E2886E4EB32A3C9F18C_.MAI'; chave sendo adicionada: '004D411DC14C4E2886E4EB32A3C9F18C_.MAI' / HelpLink:  / Source: mscorlib / StackTrace:    em System.Collections.Hashtable.Insert(Object key, Object nvalue, Boolean add)
+   em System.Collections.Hashtable.Add(Object key, Object value)
+   em SysAntiDdosTipo1.SckSites.Acao_CarregarWorkerProcesses() na D:\VB.Net\SysAntiDdosTipo1\SysAntiDdosTipo1\Incs\SckSites.vb:linha 130 / TargetSite: Void Insert(System.Object, System.Object, Boolean)
+22/09/2017 13:42:11: INFO - Iniciado Checagem
+22/09/2017 13:42:11: INFO - Finalizado Checagem
+22/09/2017 13:42:21: INFO - Iniciado Checagem
+22/09/2017 13:42:21: INFO - Bloqueio de IP: 201.76.221.104 / Ocorrencias: 8
+22/09/2017 13:42:21: INFO - Bloqueio de IP: 149.202.62.215 / Ocorrencias: 4
+22/09/2017 13:42:21: INFO - Finalizado Checagem
+22/09/2017 13:42:24: INFO - Iniciado Checagem
+22/09/2017 13:42:24: INFO - Finalizado Checagem
+22/09/2017 13:42:25: INFO - Iniciado Checagem
+22/09/2017 13:42:25: INFO - Finalizado Checagem
+22/09/2017 13:42:26: INFO - Iniciado Checagem
+22/09/2017 13:42:26: INFO - Finalizado Checagem
+22/09/2017 13:42:27: INFO - Iniciado Checagem
+22/09/2017 13:42:27: INFO - Finalizado Checagem
+22/09/2017 13:42:28: INFO - Iniciado Checagem
+22/09/2017 13:42:28: INFO - Finalizado Checagem
+22/09/2017 13:42:29: INFO - Iniciado Checagem
+22/09/2017 13:42:29: INFO - Finalizado Checagem
+22/09/2017 13:42:30: INFO - Iniciado Checagem
+22/09/2017 13:42:30: INFO - Finalizado Checagem
+22/09/2017 13:42:31: INFO - Iniciado Checagem
+22/09/2017 13:42:31: INFO - Finalizado Checagem
+22/09/2017 13:42:32: INFO - Iniciado Checagem
+22/09/2017 13:42:32: INFO - Finalizado Checagem
+22/09/2017 13:42:33: INFO - Iniciado Checagem
+22/09/2017 13:42:33: INFO - Finalizado Checagem
+22/09/2017 13:42:34: INFO - Iniciado Checagem
+22/09/2017 13:42:34: INFO - Finalizado Checagem
+22/09/2017 13:42:35: INFO - Iniciado Checagem
+22/09/2017 13:42:35: INFO - Finalizado Checagem
+22/09/2017 13:42:36: INFO - Iniciado Checagem
+22/09/2017 13:42:36: INFO - Finalizado Checagem
+22/09/2017 13:42:37: INFO - Iniciado Checagem
+22/09/2017 13:42:37: INFO - Finalizado Checagem
+22/09/2017 13:51:53: INFO - Iniciado Checagem
+22/09/2017 14:38:24: INFO - Iniciado Checagem
+22/09/2017 14:38:24: INFO - Finalizado Checagem
+22/09/2017 14:58:42: INFO - Iniciado Checagem
+22/09/2017 14:58:42: INFO - Finalizado Checagem
+22/09/2017 15:18:46: INFO - Iniciado Checagem
+22/09/2017 15:18:46: INFO - Bloqueio de IP: 201.76.221.104 / Ocorrencias: 8
+22/09/2017 15:18:46: INFO - Bloqueio de IP: 149.202.62.215 / Ocorrencias: 4
+22/09/2017 15:18:46: INFO - Finalizado Checagem
+22/09/2017 15:19:55: INFO - Iniciado Checagem
+22/09/2017 15:19:55: INFO - Bloqueio de IP: 201.76.221.104 / Ocorrencias: 8
+22/09/2017 15:19:55: INFO - Bloqueio de IP: 149.202.62.215 / Ocorrencias: 4
+22/09/2017 15:19:55: INFO - Finalizado Checagem
+22/09/2017 15:22:09: INFO - Iniciado Checagem
+22/09/2017 15:22:09: INFO - Bloqueio de IP: 201.76.221.104 / Ocorrencias: 8
+22/09/2017 15:22:10: INFO - Bloqueio de IP: 149.202.62.215 / Ocorrencias: 4
+22/09/2017 15:22:10: INFO - Finalizado Checagem
+22/09/2017 15:24:40: INFO - Iniciado Checagem
+22/09/2017 15:24:40: INFO - Bloqueio de IP: 201.76.221.104 / Ocorrencias: 8
+22/09/2017 15:24:41: INFO - Bloqueio de IP: 149.202.62.215 / Ocorrencias: 4
+22/09/2017 15:24:41: INFO - Finalizado Checagem
+22/09/2017 15:25:32: INFO - Iniciado Checagem
+22/09/2017 15:25:32: INFO - Bloqueio de IP: 201.76.221.104 / Ocorrencias: 8
+22/09/2017 15:25:32: INFO - Bloqueio de IP: 149.202.62.215 / Ocorrencias: 4
+22/09/2017 15:25:33: INFO - Finalizado Checagem
+26/09/2017 12:47:44: INFO - Iniciado Checagem
+26/09/2017 12:47:44: INFO - Bloqueio de IP: 127.0.0.1 / Ocorrencias: 15
+26/09/2017 12:47:44: INFO - Bloqueio de IP: 192.168.20.12 / Ocorrencias: 4
+26/09/2017 12:47:44: INFO - Finalizado Checagem
+26/09/2017 12:48:44: INFO - Iniciado Checagem
+26/09/2017 12:48:44: INFO - Bloqueio de IP: 127.0.0.1 / Ocorrencias: 15
+26/09/2017 12:48:44: INFO - Finalizado Checagem
+26/09/2017 12:52:46: INFO - Iniciado Checagem
+26/09/2017 12:52:46: INFO - Bloqueio de IP: 127.0.0.1 / Ocorrencias: 12
+26/09/2017 12:52:46: INFO - Finalizado Checagem
+26/09/2017 12:53:27: INFO - Iniciado Checagem
+26/09/2017 12:53:27: INFO - Bloqueio de IP: 127.0.0.1 / Ocorrencias: 12
+26/09/2017 12:53:27: INFO - Finalizado Checagem
+26/09/2017 12:55:13: INFO - Iniciado Checagem
+26/09/2017 12:55:13: INFO - Finalizado Checagem
+26/09/2017 12:55:28: INFO - Iniciado Checagem
+26/09/2017 12:55:28: INFO - Finalizado Checagem
+26/09/2017 12:57:07: INFO - Iniciado Checagem
+26/09/2017 12:57:07: INFO - Finalizado Checagem
+26/09/2017 12:57:22: INFO - Iniciado Checagem
+26/09/2017 12:57:22: INFO - Finalizado Checagem
+01/02/2018 12:53:07: INFO - Iniciado Checagem
+01/02/2018 12:53:07: INFO - Finalizado Checagem

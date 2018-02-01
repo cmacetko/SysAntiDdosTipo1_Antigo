@@ -1,0 +1,13 @@
+Recipients=[SMTP:sac@cooperativalinhadireta.com.br]
+Server=WIN-BHH9KHOIJM5
+Sender=[SMTP:controle@localexpress.com.br]
+TimeAcquired=1498518758
+ClientIP=208.84.243.22
+AuthenticationStatus=0
+User=
+Account=cooperativalinhadireta.com.br
+Priority=
+Campaign=
+Status=UnDelivered
+CommandType=
+Subject==?iso-8859-1?Q?RES:_HORARIO_DE_SA=CDDA_MOTORISTAS?=

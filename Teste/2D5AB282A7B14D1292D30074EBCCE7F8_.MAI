@@ -1,0 +1,13 @@
+Recipients=[SMTP:vendas@axoseg.com]
+Server=WIN-BHH9KHOIJM5
+Sender=[SMTP:bounce+218372-4-8a21ade593+vendas=axoseg.com@mkt.alarma.com.br]
+TimeAcquired=1498518396
+ClientIP=94.46.142.184
+AuthenticationStatus=0
+User=
+Account=axoseg.com
+Priority=
+Campaign=
+Status=UnDelivered
+CommandType=
+Subject==?utf-8?Q?Toda_a_Linha_de_Alarme_em_at=C3=A9_5x_e_Ainda_Concorra_a_um_Iph?=

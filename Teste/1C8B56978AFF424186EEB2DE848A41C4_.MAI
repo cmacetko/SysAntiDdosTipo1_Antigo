@@ -1,0 +1,13 @@
+Recipients=[SMTP:gerencia@ciauni.com.br]
+Server=WIN-BHH9KHOIJM5
+Sender=[SMTP:notification+zj4osc4=00c9@facebookmail.com]
+TimeAcquired=1498518201
+ClientIP=66.220.155.152
+AuthenticationStatus=0
+User=
+Account=ciauni.com.br
+Priority=
+Campaign=
+Status=UnDelivered
+CommandType=
+Subject==?UTF-8?B?W1Byb21vw6dvZXMgc2FvIA==?=

@@ -1,0 +1,13 @@
+Recipients=[SMTP:daiane@biawimalhas.com.br]
+Server=WIN-BHH9KHOIJM5
+Sender=[SMTP:bounces+3487408-683d-daiane=biawimalhas.com.br@emailmkt.adina.com.br]
+TimeAcquired=1498518233
+ClientIP=167.89.55.246
+AuthenticationStatus=0
+User=
+Account=biawimalhas.com.br
+Priority=
+Campaign=
+Status=UnDelivered
+CommandType=
+Subject==?UTF-8?B?T2zDoSBFc3RpbGlzdGEhIFF1ZXIgY29uaGVjZXIgYSBBZGluYT8=?=

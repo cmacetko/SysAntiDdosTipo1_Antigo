@@ -1,0 +1,13 @@
+Recipients=[SMTP:luciano@limascontabilidade.com.br]
+Server=WIN-BHH9KHOIJM5
+Sender=[SMTP:juliano.quimisa@gmail.com]
+TimeAcquired=1498518232
+ClientIP=209.85.216.179
+AuthenticationStatus=0
+User=
+Account=limascontabilidade.com
+Priority=
+Campaign=
+Status=UnDelivered
+CommandType=
+Subject=Fwd: Guia de Encerramento

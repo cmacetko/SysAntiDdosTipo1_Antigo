@@ -1,0 +1,13 @@
+Recipients=[SMTP:darbike@darbike.com.br]
+Server=WIN-BHH9KHOIJM5
+Sender=[SMTP:retorno@zdl.com.br]
+TimeAcquired=1498517964
+ClientIP=200.170.82.54
+AuthenticationStatus=0
+User=
+Account=darbike.com.br
+Priority=
+Campaign=
+Status=UnDelivered
+CommandType=
+Subject==?iso-8859-1?q?Mario_Antonio_Ver=EDssimo_=E9_vice-campe=E3o_da_Ta=E7a_Brasil_de_XCO_em_Goi=E2nia?=

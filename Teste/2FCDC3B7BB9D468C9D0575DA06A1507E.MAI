@@ -1,0 +1,12 @@
+Recipients=[SMTP:juliano@omseguros.net]
+Server=WIN-BHH9KHOIJM5
+Sender=[SMTP:bounce-1789605_HTML-1533054964-21761802-67750-663@bounce.e.premiumoutlets.com]
+TimeAcquired=1498519041
+ClientIP=207.250.68.167
+AuthenticationStatus=0
+Priority=
+Campaign=
+Account=omseguros.net
+Status=Undelivered
+CommandType=
+Subject=July 4th Clearance Event

@@ -1,0 +1,13 @@
+Recipients=[SMTP:financeiro@web4business.com.br]
+Server=WIN-BHH9KHOIJM5
+Sender=[SMTP:return-a501-51364-51479-financeiro=web4business.com.br=4@ls.transactionald.com.br]
+TimeAcquired=1498518762
+ClientIP=170.231.145.131
+AuthenticationStatus=0
+User=
+Account=web4business.com.br
+Priority=
+Campaign=
+Status=UnDelivered
+CommandType=
+Subject==?UTF-8?Q?Sale=20HP=20=E2=80=93=20Notebooks=20com=20at=C3=A9?=

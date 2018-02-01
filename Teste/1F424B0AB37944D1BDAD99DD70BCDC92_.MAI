@@ -1,0 +1,13 @@
+Recipients=[SMTP:financeiro@soaresmateriais.com.br]
+Server=WIN-BHH9KHOIJM5
+Sender=[SMTP:sjbatista@ferreiratintas.com.br]
+TimeAcquired=1498518250
+ClientIP=186.225.254.48
+AuthenticationStatus=0
+User=
+Account=soaresmateriais.com.br
+Priority=
+Campaign=
+Status=UnDelivered
+CommandType=
+Subject=NF-e 3830

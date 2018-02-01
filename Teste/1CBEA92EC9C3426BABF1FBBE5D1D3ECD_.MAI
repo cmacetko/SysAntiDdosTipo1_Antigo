@@ -1,0 +1,13 @@
+Recipients=[SMTP:paje@confpaje.com.br]
+Server=WIN-BHH9KHOIJM5
+Sender=[SMTP:joao.maff@hotmail.com]
+TimeAcquired=1498518208
+ClientIP=40.92.10.73
+AuthenticationStatus=0
+User=
+Account=confpaje.com.br
+Priority=
+Campaign=
+Status=UnDelivered
+CommandType=
+Subject=Teste

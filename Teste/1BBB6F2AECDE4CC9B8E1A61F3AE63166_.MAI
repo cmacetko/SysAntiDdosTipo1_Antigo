@@ -1,0 +1,13 @@
+Recipients=[SMTP:gerencia@ceptiom.com.br]
+Server=WIN-BHH9KHOIJM5
+Sender=[SMTP:regiane944@hotmail.com]
+TimeAcquired=1498518177
+ClientIP=40.92.7.23
+AuthenticationStatus=0
+User=
+Account=ceptiom.com.br
+Priority=
+Campaign=
+Status=UnDelivered
+CommandType=
+Subject==?utf-8?B?RndkOiBFTkM6IENFUFRJT006IE9yw6dhbWVudG8gS2Fyb2xpbmUgRnJhbmNp?=
