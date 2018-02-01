@@ -1,0 +1,4 @@
+﻿01/02/2018 13:02:02: INFO - Iniciado Checagem
+01/02/2018 13:02:02: INFO - Finalizado Checagem
+01/02/2018 13:30:42: INFO - Iniciado Checagem
+01/02/2018 13:30:42: INFO - Finalizado Checagem

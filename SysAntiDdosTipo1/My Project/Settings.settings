@@ -1,0 +1,42 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="FirewallRule" Type="System.String" Scope="User">
+      <Value Profile="(Default)">FrRule</Value>
+    </Setting>
+    <Setting Name="ArqLog" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Log.txt</Value>
+    </Setting>
+    <Setting Name="ArqLogDet" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LogDet.txt</Value>
+    </Setting>
+    <Setting Name="DelayChecagem" Type="System.Int64" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="IsDebug" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="LimitePorIP" Type="System.Int64" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="SlackToken" Type="System.String" Scope="User">
+      <Value Profile="(Default)">xoxp-XXXXXXXX</Value>
+    </Setting>
+    <Setting Name="ServerNome" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Srv01</Value>
+    </Setting>
+    <Setting Name="IPsIgnorar" Type="System.String" Scope="User">
+      <Value Profile="(Default)">::1,127.0.0.1,123.456.789.123</Value>
+    </Setting>
+    <Setting Name="ProjetosIs" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="SlackIs" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="BloqueioIs" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
