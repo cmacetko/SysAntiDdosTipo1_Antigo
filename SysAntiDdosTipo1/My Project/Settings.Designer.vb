@@ -92,7 +92,7 @@ Namespace My
         
         <Global.System.Configuration.UserScopedSettingAttribute(),  _
          Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
-         Global.System.Configuration.DefaultSettingValueAttribute("60")>  _
+         Global.System.Configuration.DefaultSettingValueAttribute("5")>  _
         Public Property DelayChecagem() As Long
             Get
                 Return CType(Me("DelayChecagem"),Long)
@@ -159,18 +159,6 @@ Namespace My
             End Get
             Set
                 Me("IPsIgnorar") = value
-            End Set
-        End Property
-        
-        <Global.System.Configuration.UserScopedSettingAttribute(),  _
-         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
-         Global.System.Configuration.DefaultSettingValueAttribute("False")>  _
-        Public Property ProjetosIs() As Boolean
-            Get
-                Return CType(Me("ProjetosIs"),Boolean)
-            End Get
-            Set
-                Me("ProjetosIs") = value
             End Set
         End Property
         

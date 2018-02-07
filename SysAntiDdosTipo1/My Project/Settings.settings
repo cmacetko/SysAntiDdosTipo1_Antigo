@@ -12,7 +12,7 @@
       <Value Profile="(Default)">LogDet.txt</Value>
     </Setting>
     <Setting Name="DelayChecagem" Type="System.Int64" Scope="User">
-      <Value Profile="(Default)">60</Value>
+      <Value Profile="(Default)">5</Value>
     </Setting>
     <Setting Name="IsDebug" Type="System.Boolean" Scope="User">
       <Value Profile="(Default)">True</Value>
@@ -28,9 +28,6 @@
     </Setting>
     <Setting Name="IPsIgnorar" Type="System.String" Scope="User">
       <Value Profile="(Default)">::1,127.0.0.1,123.456.789.123</Value>
-    </Setting>
-    <Setting Name="ProjetosIs" Type="System.Boolean" Scope="User">
-      <Value Profile="(Default)">False</Value>
     </Setting>
     <Setting Name="SlackIs" Type="System.Boolean" Scope="User">
       <Value Profile="(Default)">False</Value>

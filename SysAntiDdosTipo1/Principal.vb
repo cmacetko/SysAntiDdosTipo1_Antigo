@@ -37,6 +37,9 @@ Public Class Principal
         FrmGrids.Acao_CarregarIPs()
         FrmGrids.Acao_CarregarIPsBloqueados()
 
+        ' Inicia o sistema
+        SckInit.AcTmReal_Ativar()
+
     End Sub
 
     Private Sub TimerSckWorkerProcesses_Tick(sender As Object, e As EventArgs) Handles TimerSckWorkerProcesses.Tick
